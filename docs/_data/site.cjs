@@ -2,16 +2,16 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'Rocket',
-    description: 'Rocket is the way to build fast static websites with a sprinkle of javascript',
+    name: 'webAppWriter.com',
+    description: "webAppWriter is the 'explainer' site for the rest of the betterology family of sites",
     socialLinks: [
       {
         name: 'GitHub',
-        url: 'https://github.com/dakmor/rocket',
+        url: 'https://github.com/petecarapetyan/webappwriter',
       },
     ],
-    gitSiteUrl: 'https://github.com/dakmor/rocket',
-    helpUrl: 'https://github.com/daKmoR/rocket/issues',
+    gitSiteUrl: 'https://github.com/petecarapetyan/webappwriter',
+    helpUrl: 'https://github.com/petecarapetyan/webappwriter/issues',
     logoAlt: 'Rocket Logo',
     iconColorMaskIcon: '#3f93ce',
     iconColorMsapplicationTileColor: '#1d3557',
