@@ -2,16 +2,17 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'webAppWriter.com',
-    description: "webAppWriter is the 'explainer' site for the rest of the betterology family of sites",
+    name: 'Walktown',
+    description: 'Walktown is a fantasy place',
     socialLinks: [
       {
         name: 'GitHub',
-        url: 'https://github.com/petecarapetyan/webappwriter',
+        url: 'https://github.com/petecarapetyan/walktown',
       },
     ],
-    gitSiteUrl: 'https://github.com/petecarapetyan/webappwriter',
-    helpUrl: 'https://github.com/petecarapetyan/webappwriter/issues',
+    gitSiteUrl: 'https://github.com/petecarapetyan/walktown',
+    gitBranch: 'main',
+    helpUrl: 'https://github.com/petecarapetyan/walktown/issues',
     logoAlt: 'Rocket Logo',
     iconColorMaskIcon: '#3f93ce',
     iconColorMsapplicationTileColor: '#1d3557',

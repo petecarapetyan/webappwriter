@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/petecarapetyan/webappwriter#readme",
   "devDependencies": {
-    "@d4kmor/cli": "^0.11.0",
-    "@d4kmor/launch": "^0.10.0"
+    "@rocket/cli": "^0.1.4",
+    "@rocket/launch": "^0.1.1"
   }
 }
