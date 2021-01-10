@@ -1,13 +1,13 @@
 ---
-title: 538ish
+title: webAppWriter
 layout: home.njk
-slogan: A rocket theme designed to vaguely appear as 538
+slogan: Approaching the web as an abstraction that lives as a performance specification
 callToActionItems:
   - text: Follow Guides
     href: /guides/
-  - text: Browse Docs
-    href: /docs/
-reasonHeader: Why Not Drive?
+  - text: Rocket Themes
+    href: /rocket-themes/
+reasonHeader: How can I deliver more than just a web site or web app?
 reasons:
   - header: Small
     text: No overblown tools or frontend frameworks, add JavaScript and/or Web Components only on pages where needed.

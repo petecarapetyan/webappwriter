@@ -1,7 +1,6 @@
 {
   "name": "webappwriter",
   "version": "1.0.0",
-  "description": "webappwriter.com rocket source code",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -18,7 +17,6 @@
   },
   "keywords": [
     "rocket",
-    "webappwriter.com",
     "markdown",
     "ssg"
   ],
