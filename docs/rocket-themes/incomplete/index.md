@@ -1,4 +1,10 @@
-# not-ibm || 21
+# grid layout only || 90
+
+this is how to complete a half started theme if the author's glacial pace isn't sufficient
+
+## Paint by numbers
+
+Voluptate consequat mollit labore aliquip quis. Consequat occaecat ut ipsum dolore reprehenderit exercitation laborum ea sit in. Ex velit elit in dolore esse nostrud deserunt et nulla eiusmod. Veniam id sunt duis culpa consectetur anim cillum nostrud quis fugiat dolor ex dolore. Pariatur laboris anim est consequat anim dolore. Aliqua deserunt aliquip sunt dolore sint velit proident minim. Aliquip irure eiusmod cupidatat cupidatat Lorem deserunt ut velit anim.
 
 ## deserunt
 

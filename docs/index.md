@@ -20,6 +20,6 @@ reasons:
   - header: Vendors
     text: Managing the tension between ease and lock-in
   - header: Performance Spec
-    text: Can my skillset be a performance spec rather than familiar behaviors?
+    text: Can I match my skills to a performance spec, rather than molding expectations to my familiar behaviors?
 ---
 
