@@ -4,4 +4,4 @@ A site for exploring the web as an abstraction that lives as a performance speci
 
 ## As deployed
 
-https://webappwriter.com
+https://amazing-torvalds-3b9f6c.netlify.app/
