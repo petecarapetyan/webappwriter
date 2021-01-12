@@ -2,6 +2,10 @@
 
 It might be possible that the biggest single factor to Wordpress's success - [currently 38% of the internet](https://kinsta.com/wordpress-market-share/) - is themes? [It's hard to know.](https://en.wikipedia.org/wiki/WordPress#History) 
 
+_**This page is entirely TLDR to explain why I created these rocket themes**_ and what the themes are, and are not, about.
+
+## Executive Summary
+
 I created [these starter themes](/rocket-themes/summary/thumbnails/) as one way to allow Rocket to grow into some of those same markets that would otherwise be unavailable to it.
 
 ## Proving out theme-ability
