@@ -1,4 +1,4 @@
-# Themes >> Improvements || 20
+# All >> Improvements || 20
 
 ## Blah
 

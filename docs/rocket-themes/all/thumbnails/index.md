@@ -1,10 +1,6 @@
-# Themes >> Rocket Themes Offered || 10
+# All >> Thumbnails || 10
 
-Starter themes give you very modest blocking for theming out your own site without getting tangled up in the rocket codebase.
-
-These themes are not offered as finished products like Wordpress a theme would, but instead as a head start for devs already planning on creating their own site specific theme from HTML and CSS
-
-Pull requests are accepted, if you wish to improve any of these base themes. Or, publish your own!
+_copyright warning: Nothing on this page has been checked for legality. Changes may be required later, as a consequence._
 
 ## not-ibm theme
 

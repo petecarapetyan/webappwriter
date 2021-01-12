@@ -1,7 +1,47 @@
-# Rocket Themes
+# Rocket Themes || 10
 
-Occaecat non amet est commodo. Voluptate consequat mollit adipisicing Lorem mollit commodo eu excepteur. Consequat elit aliqua ex ea anim adipisicing aliquip nulla. Tempor sit excepteur deserunt quis cupidatat in sint exercitation officia sit. Quis tempor minim anim aliquip et nulla officia quis nostrud excepteur pariatur ad adipisicing veniam.
+It might be possible that the biggest single factor to Wordpress's success - [currently 38% of the internet](https://kinsta.com/wordpress-market-share/) - is themes? [It's hard to know.](https://en.wikipedia.org/wiki/WordPress#History) 
 
-Minim excepteur commodo officia consequat deserunt velit pariatur. Lorem reprehenderit qui tempor duis amet cillum nostrud minim fugiat.
+I created [these starter themes](/rocket-themes/summary/thumbnails/) as one way to allow Rocket to grow into some of those same markets that would otherwise be unavailable to it.
 
-Elit est eiusmod veniam. Velit consequat aute et veniam nulla in in consectetur mollit sunt velit. Nostrud est est consequat tempor deserunt sunt anim cillum. Commodo veniam tempor eiusmod irure occaecat elit magna. Id dolor elit proident laborum nostrud laborum culpa voluptate id incididunt id ad deserunt occaecat ipsum. Culpa anim dolor adipisicing. Laboris id consequat irure mollit non excepteur nulla ullamco nulla reprehenderit deserunt. Laboris sint incididunt aliquip laborum ipsum fugiat.
+## Proving out theme-ability
+
+These starter themes give you very modest blocking for theming out your own [rocket](https://rocket.modern-web.dev/) site without getting tangled up in the rocket codebase. Proving out how theming might work is an important step in giving rocket a proper lift-off in the marketplace.
+
+These themes are not currently presented as finished products like Wordpress a theme would, but instead as a head start for devs already planning on creating their own site specific theme from HTML and CSS
+
+Pull requests are accepted, if you wish to improve any of these base themes. Or, publish your own! The whole idea is giving rocket that launch, however acheived.
+
+## Branding and individuality
+
+Humans are crazy about individuality. Everything has to be "my" brand, my personality, nevermind the cost.
+
+Without themes, the rocket market could be temporarily trapped in a Henry-Ford-like _"any color, as long as it is black"_ flavor of marketing hell. That would be unfortunate, because rocket is a great tool.
+
+_**Without themes, rocket can still be individualized.**_ It's just a bit harder, and that little bit can sometimes deter an early adopter. That would be unfortunate.
+
+## Swappable
+
+The biggest challenge with theming any codebase isn't the theme itself, initially. It's making it swappable.
+
+When you write the first implelmentation of anything, especially something as ambitious as [rocket](https://rocket.modern-web.dev/), you just have to fly through the code and get it done. You can't worry about stuff like _"How is the next guy going to customize this header without copypasting the entire `style.css` file into the `_assets` directory?"_. Uh oh.
+
+So it was important for someone to try this first exercise, even if the result itself is not the primary objective.
+
+## Customizeable
+
+Again, contrasting these themes to the mature Wordpress market, each time you "implement" one of these themes, really what you are doing is copypasting in your own one-way fork. That's the bad news.
+
+The good news is that it's very customizeable! And with no additional negative consequences.
+
+## STARTER THEMES ONLY!
+
+These themes are vague beginnings only. Faster to start with something than nothing, you'll still have to do a lot of custom CSS and HTML as you would any good site.
+
+In later years, there will probably be themes that are super-polished, right out of the box. But that is not the intent of these particular themes.
+
+## Dark side, too
+
+Forking off of someone else's fork is always a questionable affair. This is no different. 
+
+What happens when a theme is improved by it's author? Sorry, you already forked. Reconciling that new delta is now a manual affair.
