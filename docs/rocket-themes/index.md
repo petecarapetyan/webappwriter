@@ -1,12 +1,14 @@
 # Rocket Themes || 10
 
-It might be possible that the biggest single factor to Wordpress's success - [currently 38% of the internet](https://kinsta.com/wordpress-market-share/) - is themes? [It's hard to know.](https://en.wikipedia.org/wiki/WordPress#History) 
+_**This page is almost entirely TLDR to explain why I created these rocket themes**_ and what the themes are, and are not, about.
 
-_**This page is entirely TLDR to explain why I created these rocket themes**_ and what the themes are, and are not, about.
+This page also covers some of the pitfalls.
 
 ## Executive Summary
 
-I created [these starter themes](/rocket-themes/summary/thumbnails/) as one way to allow Rocket to grow into some of those same markets that would otherwise be unavailable to it.
+It might be possible that the biggest single factor to Wordpress's success - [currently 38% of the internet](https://kinsta.com/wordpress-market-share/) - is themes? [It's hard to know.](https://en.wikipedia.org/wiki/WordPress#History) 
+
+I created [these starter themes](/rocket-themes/all/thumbnails/) as one way to allow Rocket to grow into some of those same markets that would otherwise be unavailable to it.
 
 ## Proving out theme-ability
 
@@ -28,7 +30,7 @@ _**Without themes, rocket can still be individualized.**_ It's just a bit harder
 
 The biggest challenge with theming any codebase isn't the theme itself, initially. It's making it swappable.
 
-When you write the first implelmentation of anything, especially something as ambitious as [rocket](https://rocket.modern-web.dev/), you just have to fly through the code and get it done. You can't worry about stuff like _"How is the next guy going to customize this header without copypasting the entire `style.css` file into the `_assets` directory?"_. Uh oh.
+When you write the first implelmentation of anything, especially something as ambitious as [rocket](https://rocket.modern-web.dev/), you have to just blast through the process and get it done. You can't worry about stuff like _"How is the next guy going to customize this header without copypasting the entire `style.css` file into the `_assets` directory?"_. Uh oh.
 
 So it was important for someone to try this first exercise, even if the result itself is not the primary objective.
 

@@ -16,6 +16,19 @@ _**CSS grid is like painting by numbers, compared to previous css approaches.**_
 
 If you're unfamiliar with grid, you might find it shockingly straightforward. What used to require media queries or inclusion of a third party layout library just kinda happens automagically. _This can be upsetting, especially if you are already accustomed to using media queries or third party layout libraries._ I empathize.
 
+## Media Queries - unresolved
+
+Something that has not yet been resolved is the issue of media queries.
+
+`_assets/layout.css` has a number of media queries which have not yet been reconciled against either of these situations:
+
+- media queries moved to `_assets/grid-area-layout.css`
+- media queries which are no longer necessary, due to migration to grid areas which often supplants media queries
+
+Resolving this issue in code is probably pretty fast but I haven't implented yet.
+
+What is NOT resolved in my mind is whether this will fight whatever code is currently in `_assets/layout.css`
+
 ## Separate CSS
 
 Ut sint eiusmod minim id consequat. Aliquip nisi ipsum ea officia ut commodo velit ullamco aliqua ipsum irure dolor nisi aliqua qui. Veniam exercitation laboris minim est aliqua quis enim esse sint esse elit. Duis amet sunt velit ea qui. Cillum aute nostrud eu. Enim officia culpa est esse est in quis labore. Qui dolor voluptate culpa et pariatur culpa voluptate amet eu culpa. Mollit fugiat reprehenderit sunt voluptate aute ullamco excepteur veniam eiusmod irure incididunt sunt id do.
