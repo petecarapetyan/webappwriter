@@ -1,5 +1,7 @@
 # All >> 3 rocket areas || 20
 
+_example screen shot here_
+
 ## The 3 Rocket Specific Grid Areas
 
 The fundamental idea behind all of these themes is the 3 _**rocket specific**_ grid areas.
@@ -10,9 +12,9 @@ The word "area" is used because it corresponds to those 3 grid-areas within the 
 
 Thus, your theme is entirely fresh and original. Nothing to do with rocket. _**Except**_ the 3 rocket grid areas.
 
-- Rocket header area - or _'header-grid-area'_ in css class lingo.
-- Rocket sidebar area - or _'sidebar-grid-area'_ in css class lingo.
-- Rocket content area - or _'content-grid-area'_ in css class lingo
+- Rocket header area - or _'header-grid-area'_ in CSS class semantics.
+- Rocket sidebar area - or _'sidebar-grid-area'_ in CSS class semantics.
+- Rocket content area - or _'content-grid-area'_ in CSS class semantics
 
 So the name of the game with all themes here is to be totally creative, _**excepting that portion of the work which is handled by the three areas,**_ which you are still creative with, but in a more constrained manner, because each area is also rocket code that you are interacting with.
 
