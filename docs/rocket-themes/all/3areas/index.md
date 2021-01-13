@@ -1,44 +1,62 @@
 # All >> 3 rocket areas || 20
 
-_example screen shot here_
+You can think about how rocket fits in with the rest of your theme graphically, by color coding the CSS grid areas:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-five38-grid-area-1000.jpg" alt="Example of the 3 areas" />
+
+The above screenshot is from the `not-five38` theme documentation.
 
 ## The 3 Rocket Specific Grid Areas
 
 The fundamental idea behind all of these themes is the 3 _**rocket specific**_ grid areas.
 
-Meaning _**these grid areas are reserved for rocket**_ all other areas belong to the theme,
+Meaning _**these grid areas coordinate closely with rocket code**_, all other areas belong solely to the theme itself.
 
 The word "area" is used because it corresponds to those 3 grid-areas within the `_assets/grid-area-layout.css`
 
-Thus, your theme is entirely fresh and original. Nothing to do with rocket. _**Except**_ the 3 rocket grid areas.
+Put another way, your theme is entirely fresh and original. Nothing to do with rocket. _**Except**_ the 3 rocket grid areas.
 
 - Rocket header area - or _'header-grid-area'_ in CSS class semantics.
 - Rocket sidebar area - or _'sidebar-grid-area'_ in CSS class semantics.
 - Rocket content area - or _'content-grid-area'_ in CSS class semantics
 
-So the name of the game with all themes here is to be totally creative, _**excepting that portion of the work which is handled by the three areas,**_ which you are still creative with, but in a more constrained manner, because each area is also rocket code that you are interacting with.
+So the name of the game with all themes here is to be totally creative, _**excepting that portion of the work which is handled by the three areas,**_ which you are still creative with, but in a more constrained manner, as clarified below.
 
 ## Rocket Header - class="header-grid-area"
 
-_Also keyed as grey in the blocking view_
+_Grey in the blocking view_
 
-Elit sit nisi magna consequat laboris incididunt id enim. Fugiat incididunt incididunt velit. Cillum exercitation velit eiusmod culpa culpa ullamco aute.
+Separation of responsibilities:
+
+### Rocket code in the header
+
+Rocket specifically furnishes the following links for the header:
+
+- Content section links
+- Rocket managed search link
+- Rocket managed light/dark theme link
+- other links, but not required for a theme
+
+### Theme code in the header
+
+- How the rocket provided, and any other links are displayed and managed
+- Content for any other links
 
 ## Rocket Sidebar - class="sidebar-grid-area"
 
-_Also keyed as salmon in the blocking view_
+_Salmon in the blocking view_
 
 Ut sint eiusmod minim id consequat. Aliquip nisi ipsum ea officia ut commodo velit ullamco aliqua ipsum irure dolor nisi aliqua qui. Veniam exercitation laboris minim est aliqua quis enim esse sint esse elit. Duis amet sunt velit ea qui. Cillum aute nostrud eu. Enim officia culpa est esse est in quis labore. Qui dolor voluptate culpa et pariatur culpa voluptate amet eu culpa. Mollit fugiat reprehenderit sunt voluptate aute ullamco excepteur veniam eiusmod irure incididunt sunt id do.
 
 ## Rocket Content - class="content-grid-area"
 
-_Also keyed as white in the blocking view_
+_White in the blocking view_
 
 yada
 
 ## Everything else
 
-_Also keyed as blue in the blocking view_
+_Blue in the blocking view_
 
 Anything goes in this area - go wild!
 
