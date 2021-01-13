@@ -8,6 +8,10 @@ From this [archetype](https://ibm.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-ibm-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
+#### This CSS grid area layout:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-ibm-grid-area.jpg" alt="not-ibm theme grid layout" />
+
 #### This modest starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-ibm-screenshot.jpg" alt="not-ibm theme screenshot" />
@@ -21,6 +25,10 @@ Try [not-ibm starter theme](/rocket-themes/not-ibm/)
 From this [archetype](https://fivethirtyeight.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-five38-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+
+#### This CSS grid area layout:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-five38-grid-area.jpg" alt="not-five38 theme grid layout" />
 
 #### This modest starter theme:
 
