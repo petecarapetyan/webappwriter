@@ -74,7 +74,7 @@ There be dragons here, for shell scripting newbies. So if you're _**not a shell 
 - `chmod +x try.sh`
 - **`./try.sh my-project not-five38`** That's it!
 
-That creates a new `my-project` as a sibling to `rocket-themes` and installs the `not-five38` theme in it, and then runs npm and launches it in your browser.
+That creates (or over-writes) `my-project` as a sibling to `rocket-themes` and installs the `not-five38` theme in it, and then runs npm and launches it in your browser.
 
 <img class="bordered" src="/_merged_assets/_static/images/my-project-five38-vscode.jpg" alt="my project five38 vscode" />
 
