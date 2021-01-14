@@ -1,6 +1,6 @@
 # Rocket Themes || 10
 
-_**This page is almost entirely TLDR to explain why I created these rocket themes**_ and what the themes are, and are not, about. [Thumbnails](/rocket-themes/all/thumbnails/) might be more interesting for a first 10 second peek.
+_**This page is almost entirely TLDR to explain why I created these rocket themes**_ and what the themes are, and are not, about. [Thumbnails](/rocket-themes/all/thumbnails/) or even [Installation](/rocket-themes/all/installation/) might be more interesting for a first 10 second look.
 
 This page also covers some of the pitfalls.
 
