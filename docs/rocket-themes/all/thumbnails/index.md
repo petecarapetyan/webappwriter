@@ -1,6 +1,6 @@
 # All >> Thumbnails || 10
 
-_copyright warning: Nothing on this page has been checked for legality. Changes may be required later, as a consequence._
+_Rocket themes is in Proof of Concept status. Shown below, themes in order of most to least complete_
 
 ## not-ibm theme
 
@@ -43,6 +43,10 @@ Try [not-five38 starter theme](/rocket-themes/not-five38/)
 From this [archetype](https://https://rocket.modern-web.dev//):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-rocket-archetype.jpg" alt="rocket.modern-web.dev screenshot" />
+
+#### This CSS grid area layout:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-rocket-grid-area.jpg" alt="not-rocket theme grid layout" />
 
 #### This modest starter theme:
 
@@ -261,3 +265,22 @@ From this [archetype](https://wired.com/):
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 <hr>
+
+## Internal pages
+
+All themes would naturally have both layouts:
+
+- a home page (such as all above home pages starting with prefix "not-")
+- internal pages, displayed with the `with-sidebar` layout in the rocket codebase
+
+When you select one of the `not-` prefixed themes above, each comes with the following `any-with-sidebar` theme for internal pages. 
+
+It is expected that you might wish to modify this theme later to suit your needs. It would look like this, out of the box:
+
+#### This appearance, currently:
+
+<img class="bordered" src="/_merged_assets/_static/images/any-sidebar-archetype.jpg" alt="internal page screenshot" />
+
+#### This CSS grid area layout:
+
+<img class="bordered" src="/_merged_assets/_static/images/any-sidebar-grid-area.jpg" alt="internal page theme grid layout" />

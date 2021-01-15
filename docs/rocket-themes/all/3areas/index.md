@@ -1,5 +1,7 @@
 # All >> 3 rocket areas || 20
 
+_TODO: this page assumes that the reader knows what basic functionality rocket brings to the table for each of the 3 rocket areas. That is probably a false assumption_
+
 You can think about how rocket fits in with the rest of your theme graphically, by color coding the CSS grid areas:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-five38-grid-area-1000.jpg" alt="Example of the 3 areas" />
@@ -22,7 +24,7 @@ Put another way, your theme is entirely fresh and original. Nothing to do with r
 
 So the name of the game with all themes here is to be totally creative, _**excepting that portion of the work which is handled by the three areas,**_ which you are still creative with, but in a more constrained manner, as clarified below.
 
-## Rocket Header - class="header-grid-area"
+## Rocket Header: \<div class="header-grid-area"\>
 
 _Grey in the blocking view_
 
@@ -42,17 +44,19 @@ Rocket specifically furnishes the following links for the header:
 - How the rocket provided, and any other links are displayed and managed
 - Content for any other links
 
-## Rocket Sidebar - class="sidebar-grid-area"
+## Rocket Sidebar: \<div class="sidebar-grid-area"\>
 
 _Salmon in the blocking view_
 
-Ut sint eiusmod minim id consequat. Aliquip nisi ipsum ea officia ut commodo velit ullamco aliqua ipsum irure dolor nisi aliqua qui. Veniam exercitation laboris minim est aliqua quis enim esse sint esse elit. Duis amet sunt velit ea qui. Cillum aute nostrud eu. Enim officia culpa est esse est in quis labore. Qui dolor voluptate culpa et pariatur culpa voluptate amet eu culpa. Mollit fugiat reprehenderit sunt voluptate aute ullamco excepteur veniam eiusmod irure incididunt sunt id do.
+Benny Powers has shown how a [little customization to the sidebar](https://apolloelements.dev/blog/todo-app/#the-end-result) can go a long way to making it look nifty, but so far I've just taken the implementation straight from rocket.
 
-## Rocket Content - class="content-grid-area"
+## Rocket Content: \<div class="content-grid-area"\>
 
 _White in the blocking view_
 
-yada
+The rocket implementation itself shows how you can mix your own HTML/CSS content in with the markdown content section, in very creative ways.
+
+So far I've mostly tried to just blast through this and make sure at least the markdown copy is showing. But you can add HTML/CSS to that.
 
 ## Everything else
 
@@ -82,7 +86,7 @@ Grid area code is just weird enough to benefit from that extra segregation.
 
 ## The Nuclear Option
 
-_You break it, you buy it_
+_Copypasting in `_assets/style.css` and `_assets/layout.css` can be like "You break it, you buy it"_
 
 You, as a consumer, can always take the nuclear option, even if the theme author should never resort to this. [See section below.]
 

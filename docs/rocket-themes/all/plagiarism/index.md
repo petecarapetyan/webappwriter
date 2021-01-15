@@ -10,6 +10,12 @@ So, use at your own discretion.
 
 Webster defines an "archetype" as "the original pattern or model of which all things of the same type are representations or copies" or "a perfect example"
 
+## Is look and feel copyrightable?
+
+That kind of question is way beyond my pay grade, but [this article](https://newmedialaw.proskauer.com/2016/02/05/website-html-is-copyrightable-even-if-look-and-feel-is-not/#:~:text=The%20Compendium%20states%20that%20while,dress%20under%20the%20Lanham%20Act.%5D) seems to say that there is nothing to worry about, all HTML/CSS is original to these themes, virtually none is copied from other sites.
+
+There may be exceptions with HTML/CSS snippets copied from tutorial sites or from stackoverflow, for example, but that would hardly make these themes unique or vulnerable, at least as far as copyright goes?
+
 ## Are these themes intended as a copy?
 
 These themes are starter themes, made to merely prove out the idea of theme-ablity for Rocket or other 11ty sites.

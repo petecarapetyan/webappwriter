@@ -18,7 +18,7 @@ _[There's an 30 second way to do it below](/rocket-themes/all/installation/#one-
 - run `npm i`
 - run `npm start`
 
-The part in bold is the only thing different from a normal rocket project.
+The part in bold above, is the only thing different from a normal rocket project.
 
 Next, let's look at doing all of this manually, in case you never installed rocket before. For all you rocket newbies.
 
