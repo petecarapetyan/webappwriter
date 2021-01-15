@@ -2,7 +2,7 @@
 
 Go to [Thumbnails](/rocket-themes/all/thumbnails/) or even [Installation](/rocket-themes/all/installation/) if you want the quick visual or dev view.
 
-Else, _**this page is almost entirely TLDR to explain why I created these rocket themes**_ and what the themes are, and are not, about. 
+Else, this page is _**almost entirely TLDR**_ to explain why I created these rocket themes and what the themes are, and are not, about. 
 
 This page also covers some of the pitfalls.
 
@@ -10,7 +10,7 @@ This page also covers some of the pitfalls.
 
 Rocket Themes is my answer to the problem given to me by my former boss and future clients: _**"We can't use rocket because the site we need doesn't look like that. Sorry."**_ By the time I try to explain that it can be customized, I've already lost them.
 
-So rocket themes let's me swap look and feel in 30 seconds. Now, I've got their attention. Seems silly, but _whatever it takes_.
+So rocket themes lets me swap look and feel in 30 seconds. Now, I've got their attention. Seems silly, but _whatever it takes_.
 
 ### But there's more
 

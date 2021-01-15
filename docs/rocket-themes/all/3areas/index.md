@@ -2,34 +2,34 @@
 
 ## The rocket value proposition
 
-If you want to understand rocket-themes, first you need to understand a primary thing that rocket gives you over plain 11ty or SSG in general:
+If you want to understand rocket-themes, first you need to understand a primary functionality that rocket gives you over plain 11ty or SSG in general:
 
 - You maintain the content in markdown
-- Rocket maintains the navigation to that content in both the header and the sidebar, for you, automagically
+- Rocket maintains the navigation to that content automagically in
+   - the header
+   - the sidebar
 
-What this means as a theme consumer, is that we have 3 specific parts of any page that interact with rocket code in a rather intimate way. Everything else on that page is regular HTML/CSS/JS like any other site or app.
+How does this impact the theme consumer?
+
+We have 3 specific parts of any page that interact with rocket code in a rather intimate way. Everything else on that page is regular HTML/CSS/JS like any other site or app.
 
 You can think about how rocket fits in with the rest of your theme graphically, by color coding the CSS grid areas:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-five38-grid-area-1000.jpg" alt="Example of the 3 areas" />
 
-The above screenshot is from the `not-five38` theme documentation.
+Summarizing, it this were a straight 11ty or even HTML theme, everything above would be blue, giving you a bit more freedom (and responsibility)
+
+The above grid layout is from the `not-five38` theme documentation.
 
 ## The 3 Rocket Specific Grid Areas
 
-The fundamental idea behind all of these themes is the 3 _**rocket specific**_ grid areas.
+Central to any rocket theme is the interaction of these 3 _**rocket specific**_ grid areas.
 
 Meaning _**these grid areas coordinate closely with rocket code**_, all other areas belong solely to the theme itself.
 
-The word "area" is used because it corresponds to those 3 grid-areas within the `_assets/grid-area-layout.css`
+_"Area"_ here denotes those [grid-areas](/rocket-themes/all/grid/) within the `_assets/grid-area-layout.css`
 
-Put another way, your theme is entirely fresh and original. Nothing to do with rocket. _**Except**_ the 3 rocket grid areas.
-
-- Rocket header area - or _'header-grid-area'_ in CSS class semantics.
-- Rocket sidebar area - or _'sidebar-grid-area'_ in CSS class semantics.
-- Rocket content area - or _'content-grid-area'_ in CSS class semantics
-
-So the name of the game with all themes here is to be totally creative, _**excepting that portion of the work which is handled by the three areas,**_ which you are still creative with, but in a more constrained manner, as clarified below.
+Repeating for emphasis, your theme is entirely fresh and original. Nothing to do with rocket, specifically. _**Except**_ those 3 rocket grid areas.
 
 ## Rocket Header: \<div class="header-grid-area"\>
 
@@ -41,21 +41,31 @@ Separation of responsibilities:
 
 Rocket specifically furnishes the following links for the header:
 
-- Content section links
-- Rocket managed search link
-- Rocket managed light/dark theme link
-- other links, but not required for a theme
+- Content **section** links
+- Rocket managed **search** link
+- Rocket managed **light/dark theme** link
+
+You or the theme may also put whatever you wish in the header
 
 ### Theme code in the header
 
-- How the rocket provided, and any other links are displayed and managed
-- Content for any other links
+- The theme doesn't provide the rocket links, but it does tell the header how to display the rocket links
+- Anything else that the header needs such as how to display non-rocket links
 
 ## Rocket Sidebar: \<div class="sidebar-grid-area"\>
 
 _Salmon in the blocking view_
 
-Benny Powers has shown how a [little customization to the sidebar](https://apolloelements.dev/blog/todo-app/#the-end-result) can go a long way to making it look nifty, but so far I've just taken the implementation straight from rocket.
+### Different links
+
+In rocket, automagically provided links are split between the header and the sidebar. How this split works is not documented here.
+
+Most of the above descriptions of the header also describe how the sidebar works in a theme.
+
+- Rocket manages the rocket provided links in a sidebar, just as the header
+- Theme manages everything else in the sidebar, just as the header.
+
+Benny Powers has teased how a [little customization to the sidebar](https://apolloelements.dev/blog/todo-app/#the-end-result) can make a differnce in making it look nifty, but so far I've just taken the implementation straight from rocket in the themes on this site.
 
 ## Rocket Content: \<div class="content-grid-area"\>
 
@@ -69,7 +79,7 @@ So far I've mostly tried to just blast through this and make sure at least the m
 
 _Blue in the blocking view_
 
-Anything goes in this area - go wild!
+Anything goes in this area - go wild! Or be conservative. It's yours.
 
 - your own html/css and even js, in
   - home.njk
@@ -90,18 +100,6 @@ Then you improve your fork of the theme in  `_assets/theme.css`, html and njk fi
 The basic idea isn't that it's specifically wrong to change the  `_assets/grid-area-layout.css` file, but rather that CSS gets really messy, really fast, and there is a benefit to keeping the grid layout css clean and segregated for your own ease of layout maintenance.
 
 Grid area code is just weird enough to benefit from that extra segregation.
-
-## The Nuclear Option
-
-_Copypasting in `_assets/style.css` and `_assets/layout.css` can be like "You break it, you buy it"_
-
-You, as a consumer, can always take the nuclear option, even if the theme author should never resort to this. [See section below.]
-
-Since your theme is always a fork anyway, you can simply fork anything that is normally off-limits to theme developers, such as `_assets/style.css` and `_assets/layout.css`
-
-Why is it OK for you and not OK for a theme developer? For the same reason that you might not want to do that, yourself. As soon as you fork it, you own it, and you have to keep up with the changes on your own.
-
-For example, if rocket improves it's search or dark mode after you fork, you won't be able to get those improvements except through line by line manual code imports. So, just know what you're getting into if you take this approach.
 
 ## Careful delination of theme vs rocket files
 
@@ -128,6 +126,20 @@ So far, it looks like it would be like this, if it happened:
 - `assets/layout.css`
 - `includes/partials/*` except as noted above
 
+## The Nuclear Option
+
+This:
+
+_Copypasting in `_assets/style.css` and `_assets/layout.css` can be like "You break it, you buy it"_
+
+You, as a consumer, can always take the nuclear option, even if the theme author should never resort to this. [Per section above.]
+
+Since your theme is always a fork anyway, you can simply fork anything that is normally off-limits to theme developers, such as `_assets/style.css` and `_assets/layout.css`
+
+Why is it OK for you and not OK for a theme developer? For the same reason that you might not want to do that, yourself. As soon as you fork it, you own it, and you have to keep up with the changes on your own.
+
+For example, if rocket improves it's search or dark mode after you fork, you won't be able to get those improvements except through line by line manual code imports. So, just know what you're getting into if you take this approach.
+
 ## What about my theme vs light/dark theme?
 
 Yeah, some cross cutting concerns there. Speaking for myself only here's what I wouldn't want in any theme I had on a site that I maintain:
@@ -136,10 +148,10 @@ Yeah, some cross cutting concerns there. Speaking for myself only here's what I 
 - Having to _**give up on a light/dark theming**_ just because I have my own theme
 - Having to  _**wrangle with difficult light/dark theme interaction**_ just because I have my own theme
 
-So we gotta negotiate that, eventually.
+At the time of this writing it still wasn't worked out how a theme and the light/dark theme integrate with each other.
 
 ## Subjugation to Rocket
 
-If any terminology on this page is perceived as an expression of taking charge, or making decisions, for rocket - then that is an error and strictly the fault of this page author.
+If any terminology on this page is perceived as an expression of taking charge of, or making decisions for, rocket - then that is an error and strictly my fault.
 
-In every instance with no exception these themes exist in subjugation to the rocket codebase, and it's maintainers.
+In every instance with no exception these themes exist in subjugation to the rocket codebase, and it's maintainers. Rocket leads, themes follow. End of story.
