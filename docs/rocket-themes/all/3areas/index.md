@@ -1,6 +1,13 @@
 # All >> 3 rocket areas || 20
 
-_TODO: this page assumes that the reader knows what basic functionality rocket brings to the table for each of the 3 rocket areas. That is probably a false assumption_
+## The rocket value proposition
+
+If you want to understand rocket-themes, first you need to understand a primary thing that rocket gives you over plain 11ty or SSG in general:
+
+- You maintain the content in markdown
+- Rocket maintains the navigation to that content in both the header and the sidebar, for you, automagically
+
+What this means as a theme consumer, is that we have 3 specific parts of any page that interact with rocket code in a rather intimate way. Everything else on that page is regular HTML/CSS/JS like any other site or app.
 
 You can think about how rocket fits in with the rest of your theme graphically, by color coding the CSS grid areas:
 
@@ -113,6 +120,7 @@ So far, it looks like it would be like this, if it happened:
 - `includes/with-sidebar.njk`
 - `includes/partials/head.njk`
 - `includes/partials/header.njk` probably??
+- [something footer here]
 
 ### Files specifically off limits to a theme
 

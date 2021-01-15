@@ -14,9 +14,12 @@ Again, referring you back to real experts such as [Rachel Andrew](https://www.sm
 
 _**CSS grid is like painting by numbers, compared to previous css approaches.**_ It gives you nice little 2 dimensionally prescribed boxes, you do your work inside these little boxes, and the world stays clean.
 
-If you're unfamiliar with grid, you might find it shockingly straightforward. What used to require media queries or inclusion of a third party layout library just kinda happens automagically. _This can be upsetting, especially if you are already accustomed to using media queries or third party layout libraries._ I empathize.
+If you're unfamiliar with grid, you might find it shockingly straightforward. What used to require heroic or external CSS just kinda happens automagically. _This can be upsetting, especially if you are already accustomed to using dazzling media queries, convoluted CSS, or third party layout libraries._ I empathize.
 
-## Media Queries - unresolved
+## Media Queries still remain an issue
+
+- Rocket already has media queries that have not yet been reconciled against any themes
+- Even theming with grid areas requires _**some**_ amount of media queries, [which haven't been done yet](/rocket-themes/all/issues/#yikes-media-waiting)
 
 Something that has not yet been resolved is the issue of media queries.
 
