@@ -1,5 +1,9 @@
 # Consequat
 
+This is the main part of the webAppWriter site - the _**site as a performance spec**_ part.
+
+But until I get the rocket themes side a bit more complete, this side will remain Lorem Ipsum filler.
+
 ## enim
 
 Minim eiusmod commodo ut. Proident Lorem exercitation minim in excepteur Lorem esse. Qui eu sit minim. Qui reprehenderit aliqua duis occaecat in dolore labore. Cupidatat cupidatat nulla magna. Voluptate cupidatat et in irure eiusmod aute excepteur voluptate. Cupidatat ut culpa adipisicing eiusmod eiusmod id adipisicing ullamco elit. Elit proident do cupidatat consectetur do aliqua dolore esse duis ad fugiat qui do adipisicing non. Duis est amet laborum nostrud commodo dolor eiusmod in. Quis consequat velit aute dolore.

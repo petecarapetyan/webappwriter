@@ -1,13 +1,13 @@
 ---
 title: webAppWriter
 layout: home.njk
-slogan: Approaching the web as an abstraction that lives as a performance specification
+slogan: Approaching the web as a performance specification
 callToActionItems:
   - text: Explore Spec
     href: /explore/
   - text: Rocket Themes
     href: /rocket-themes/
-reasonHeader: How can I deliver more than just a web site or web app?
+reasonHeader: How can I deliver more than just one part of the whole intention?
 reasons:
   - header: Exchange
     text: What is exchanged? Between who?

@@ -1,4 +1,4 @@
-# All >> Fixes Waiting || 20
+# All >> Work In Progress || 20
 
 ## General Status Recap
 
@@ -20,7 +20,7 @@ Sequence so far - at least after the first two POC themes - is to do a feature, 
 
 But it's just a start.
 
-You'll notice that for most themes, that's all there is! Harumph on that.
+You'll notice that for most themes, that's all there is! What the heck?
 
 From that point forward it's pretty quick to whip out a basic theme, at least to the level that `not-five38` theme is at, but even that hasn't beeen done for the last 15 themes.
 
@@ -36,9 +36,9 @@ Good question. Should have been done, yesterday, preferably. One small feature a
 
 ## What about the footer?
 
-Footers are the purvey of each separate theme, and they haven't been touched, so I just start by copying in the footer.njk from the rocket codebase. So, there's that to fix, too.
+Footers are almost more about the consumer of a theme than the theme itself.
 
-But really, folks. You will pretty nearly always want your footer to be custom to a site. That's more about the needs of the site than the needs of the theme consumer.
+So pretty much everyone is going to want to do their own footer themself, unless the site is a documentation site for code, like rocket itself.
 
 ## Infinite number of issues more
 

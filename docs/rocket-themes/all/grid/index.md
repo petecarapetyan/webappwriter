@@ -16,21 +16,30 @@ _**CSS grid is like painting by numbers, compared to previous css approaches.**_
 
 If you're unfamiliar with grid, you might find it shockingly straightforward. What used to require heroic or external CSS just kinda happens automagically. _This can be upsetting, especially if you are already accustomed to using dazzling media queries, convoluted CSS, or third party layout libraries._ I empathize.
 
+## Grid Area Layout - Designed to be left alone
+
+At least in terms of daily development, a theme's `_assets/grid-area-layout.css` file is intended to remain relatively static.
+
+The idea is that your basic page layout is defined here and mostly remains untouched. 
+
+Then you improve your fork of the theme in  `_assets/theme.css`, html and njk files, or other related files.
+
+Not that it's specifically wrong to change the  `_assets/grid-area-layout.css` file, but rather that CSS gets really messy, really fast, and there is a benefit to keeping the grid layout css clean and segregated for your own ease of layout maintenance.
+
+Grid area code is just weird enough to benefit from that extra segregation. That's opinion only, not a fact.
+
 ## Media Queries still remain an issue
 
 - Rocket already has media queries that have not yet been reconciled against any themes
 - Even theming with grid areas requires _**some**_ amount of media queries, [which haven't been done yet](/rocket-themes/all/issues/#yikes-media-waiting)
 
-Something that has not yet been resolved is the issue of media queries.
+Specifics:
 
-`_assets/layout.css` has a number of media queries which have not yet been reconciled against either of these situations:
-
+- `_assets/layout.css` has a number of media queries which have not yet been reconciled against either of these situations:
 - media queries moved to `_assets/grid-area-layout.css`
 - media queries which are no longer necessary, due to migration to grid areas which often supplants media queries
 
-Resolving this issue in code is probably pretty fast but I haven't implented yet.
-
-What is NOT resolved in my mind is whether this will fight whatever code is currently in `_assets/layout.css`
+Resolving these issues in code is probably pretty fast, but neither has it been started.
 
 ## Separate CSS
 

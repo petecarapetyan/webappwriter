@@ -89,18 +89,6 @@ Anything goes in this area - go wild! Or be conservative. It's yours.
   - _assets/_static ...
   - _data ...
 
-## Grid Area Layout - Designed to be left alone
-
-At least in terms of daily development, the `_assets/grid-area-layout.css` file is intended to remain relatively static.
-
-The idea is that your basic page layout is defined here and mostly remains untouched. 
-
-Then you improve your fork of the theme in  `_assets/theme.css`, html and njk files, or other related files.
-
-The basic idea isn't that it's specifically wrong to change the  `_assets/grid-area-layout.css` file, but rather that CSS gets really messy, really fast, and there is a benefit to keeping the grid layout css clean and segregated for your own ease of layout maintenance.
-
-Grid area code is just weird enough to benefit from that extra segregation.
-
 ## Careful delination of theme vs rocket files
 
 Everything discussed on this page assumes a very careful and agreed upon deliniation of what files are in themes, and what files are not in themes by default.

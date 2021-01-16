@@ -1,22 +1,24 @@
 # Rocket Themes || 10
 
-Go to [Thumbnails](/rocket-themes/all/thumbnails/) or even [Installation](/rocket-themes/all/installation/) if you want the quick visual or dev view.
+Go to [Thumbnails](/rocket-themes/all/thumbnails/) or even [Installation](/rocket-themes/all/installation/) if you want the eye-candy or dev view.
 
-Else, this page is _**almost entirely TLDR**_ to explain why I created these rocket themes and what the themes are, and are not, about. 
+Else, this page is _**mostly TLDR**_ to explain why I created these rocket themes and what the themes are, and are not, about.
 
 This page also covers some of the pitfalls.
 
-## Executive Summary
+## Rocket Themes Use Case:
 
-Rocket Themes is my answer to the problem given to me by my former boss and future clients: _**"We can't use rocket because the site we need doesn't look like that. Sorry."**_ By the time I try to explain that it can be customized, I've already lost them.
+Rocket Themes is my answer to the problem given to me by my former boss, and all future clients: _**"We can't use rocket because the site we need doesn't look like that. Sorry."**_ Even if I want to explain that rocket can be customized, the conversation had already ended.
 
-So rocket themes lets me swap look and feel in 30 seconds. Now, I've got their attention. Seems silly, but _whatever it takes_.
+So rocket themes lets me swap look and feel in 30 seconds. 
 
-### But there's more
+Now, I've got their attention. Seems silly, but heh, _at least the conversation is still going_. No imagination required - rocket can now be considered for sites that look entirely different.
+
+### But wait! There's more
 
 It also might be possible that the biggest single factor to Wordpress's success - [currently 38% of the internet](https://kinsta.com/wordpress-market-share/) - is themes? [It's hard to know.](https://en.wikipedia.org/wiki/WordPress#History) 
 
-I created [these starter themes](/rocket-themes/all/thumbnails/) as one way to allow Rocket to grow into some of those same markets that would otherwise be unavailable to it.
+I created [these starter themes](/rocket-themes/all/thumbnails/) as one way to allow rocket to eventually grow into some of those same markets that would otherwise be unavailable to it.
 
 ## Proving out theme-ability
 
@@ -53,3 +55,5 @@ The good news is that, now you've kicked off the customization process on steroi
 Forking off of someone else's fork is always a questionable affair. Themes are no different, in that respect.
 
 What happens when a theme is improved by it's author? Sorry, you already forked. Reconciling that new delta is now a manual affair.
+
+More about how to stay safe in this context, [here](/rocket-themes/all/3areas/#careful-delination-of-theme-vs-rocket-files)
