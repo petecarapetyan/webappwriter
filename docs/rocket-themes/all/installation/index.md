@@ -2,9 +2,10 @@
 
 ## Pre-reqs:
 
-- you're running node 14
+- same pre-reqs as necessary to install and run rocket
+  - you're running node 14+
+  - same basic skillsets HTML/CSS git npm etc 
 - you've cloned [rocket-themes](https://github.com/petecarapetyan/rocket-themes) into the same folder that you intend to create a new `my-project` to try out one of the rocket themes
-- you have the same skillsets necessary to install and run rocket
 
 ## High Level
 
