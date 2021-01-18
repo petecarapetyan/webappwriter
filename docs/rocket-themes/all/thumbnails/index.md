@@ -174,7 +174,12 @@ From this [archetype](https://next.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-next-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-next-grid-area.jpg" alt="not-next theme grid-area" />
+
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-next-screenshot.jpg" alt="not-next theme screenshot" />
 
@@ -188,7 +193,12 @@ From this [archetype](https://npr.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-npr-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-npr-grid-area.jpg" alt="not-npr theme grid-area" />
+
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-npr-screenshot.jpg" alt="not-npr theme screenshot" />
 
@@ -202,7 +212,12 @@ From this [archetype](https://nyt.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-nyt-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-nyt-grid-area.jpg" alt="not-nyt theme grid-area" />
+
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-nyt-screenshot.jpg" alt="not-nyt theme screenshot" />
 
