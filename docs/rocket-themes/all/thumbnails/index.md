@@ -155,7 +155,12 @@ From this [archetype](https://github.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-github-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-github-grid-area.jpg" alt="not-github theme grid-area" />
+
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-github-screenshot.jpg" alt="not-github theme screenshot" />
 
