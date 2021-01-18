@@ -98,7 +98,12 @@ From this [archetype](https://axios.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-axios-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-axios-grid-area.jpg" alt="not-axios theme grid-area" />
+
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-axios-screenshot.jpg" alt="not-axios theme screenshot" />
 
