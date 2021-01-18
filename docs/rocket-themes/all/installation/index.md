@@ -1,5 +1,7 @@
 # All >> Installation || 20
 
+Everything below will be replaced by presets, probably. More to come later.
+
 ## Pre-reqs:
 
 - same pre-reqs as necessary to install and run rocket
