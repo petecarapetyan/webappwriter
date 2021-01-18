@@ -136,7 +136,12 @@ From this [archetype](https://fuelcell.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-fuelcell-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-fuelcell-grid-area.jpg" alt="not-fuelcell theme grid-area" />
+
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-fuelcell-screenshot.jpg" alt="not-fuelcell theme screenshot" />
 
