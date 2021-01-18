@@ -3,7 +3,7 @@ module.exports = function () {
     dir: 'ltr',
     lang: 'en',
     name: 'webAppWriter',
-    description: 'Approaching the web as an abstraction that lives as a performance specification',
+    description: 'Approaching the web as a performance specification',
     socialLinks: [
       {
         name: 'GitHub',
