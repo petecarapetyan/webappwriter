@@ -117,7 +117,12 @@ From this [archetype](https://codesign.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-codesign-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-codesign-grid-area.jpg" alt="not-codesign theme grid-area" />
+
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-codesign-screenshot.jpg" alt="not-codesign theme screenshot" />
 
