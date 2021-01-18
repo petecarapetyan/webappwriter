@@ -62,7 +62,11 @@ From this [archetype](https://alphabet.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-alphabet-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-alphabet-grid-area.jpg" alt="not-alphabet theme grid-area" />
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-alphabet-screenshot.jpg" alt="not-alphabet theme screenshot" />
 
