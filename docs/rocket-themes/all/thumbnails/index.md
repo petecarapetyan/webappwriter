@@ -80,7 +80,11 @@ From this [archetype](https://apnews.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-apnews-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-apnews-grid-area.jpg" alt="not-apnews theme screenshot" />
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-apnews-screenshot.jpg" alt="not-apnews theme screenshot" />
 
