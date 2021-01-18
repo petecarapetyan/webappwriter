@@ -231,7 +231,12 @@ From this [archetype](https://optimize.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-optimize-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-optimize-grid-area.jpg" alt="not-optimize theme grid-area" />
+
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-optimize-screenshot.jpg" alt="not-optimize theme screenshot" />
 
@@ -245,7 +250,12 @@ From this [archetype](https://reddit.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-reddit-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-reddit-grid-area.jpg" alt="not-reddit theme grid-area" />
+
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-reddit-screenshot.jpg" alt="not-reddit theme screenshot" />
 
@@ -259,7 +269,12 @@ From this [archetype](https://slashdot.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-slashdot-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-slashdot-grid-area.jpg" alt="not-slashdot theme grid-area" />
+
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-slashdot-screenshot.jpg" alt="not-slashdot theme screenshot" />
 
@@ -273,7 +288,12 @@ From this [archetype](https://virgin.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-virgin-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-virgin-grid-area.jpg" alt="not-virgin theme grid-area" />
+
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-virgin-screenshot.jpg" alt="not-virgin theme screenshot" />
 
@@ -287,7 +307,12 @@ From this [archetype](https://wikipedia.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-wikipedia-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-wikipedia-grid-area.jpg" alt="not-wikipedia theme grid-area" />
+
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-wikipedia-screenshot.jpg" alt="not-wikipedia theme screenshot" />
 
@@ -301,7 +326,12 @@ From this [archetype](https://wired.com/):
 
 <img class="bordered" src="/_merged_assets/_static/images/not-wired-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### Partially complete grid layout for later theme:
+#### This grid area blocking:
+
+<img class="bordered" src="/_merged_assets/_static/images/not-wired-grid-area.jpg" alt="not-wired theme grid-area" />
+
+
+#### This incomplete starter theme:
 
 <img class="bordered" src="/_merged_assets/_static/images/not-wired-screenshot.jpg" alt="not-wired theme screenshot" />
 
@@ -311,7 +341,7 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 ## Internal pages
 
-All themes would naturally have both layouts:
+Any theme would naturally have both of these layouts:
 
 - a home page (such as all above home pages starting with prefix "not-")
 - internal pages, displayed with the `with-sidebar` layout in the rocket codebase
@@ -320,10 +350,15 @@ When you select one of the `not-` prefixed themes above, each comes with the fol
 
 It is expected that you might wish to modify this theme later to suit your needs. It would look like this, out of the box:
 
-#### This appearance, currently:
+#### This general idea, currently:
 
 <img class="bordered" src="/_merged_assets/_static/images/any-sidebar-archetype.jpg" alt="internal page screenshot" />
 
-#### This CSS grid area layout:
+#### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/any-sidebar-grid-area.jpg" alt="internal page theme grid layout" />
+<img class="bordered" src="/_merged_assets/_static/images/any-sidebar-grid-area.jpg" alt="any-sidebar theme grid-area" />
+
+
+#### This current status for themes above:
+
+<img class="bordered" src="/_merged_assets/_static/images/any-sidebar-screenshot.jpg" alt="internal page theme" />
