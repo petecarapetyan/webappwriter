@@ -7,7 +7,7 @@ callToActionItems:
     href: /explore/
   - text: Rocket Themes
     href: /rocket-themes/
-reasonHeader: Is it practical to hold myself accountable to a performance spec?
+reasonHeader: Can a developer hold self accountable to a performance spec?
 reasons:
   - header: Exchange
     text: What is exchanged? Between who?
