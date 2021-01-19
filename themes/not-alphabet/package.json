@@ -1,0 +1,19 @@
+{
+  "name": "@webappwriter/not-alphabet-rocket-theme",
+  "version": "0.1.5",
+  "description": "not-alphabet rocket theme, inspired by the look of abc.xyz",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./preset/": "./preset/"
+  },
+  "files": [
+    "*.js",
+    "preset"
+  ],
+  "keywords": [
+    "rocket",
+    "preset"
+  ]
+}
