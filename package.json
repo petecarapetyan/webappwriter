@@ -1,10 +1,8 @@
 {
-  "name": "webappwriter",
-  "version": "1.0.0",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
+  "name": "@webappwriter/root",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "rocket start",
@@ -21,13 +19,15 @@
     "ssg"
   ],
   "author": "Pete Carapetyan",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/petecarapetyan/webappwriter/issues"
   },
-  "homepage": "https://github.com/petecarapetyan/webappwriter#readme",
+  "homepage": "https://webappwriter.com/rocket-themes/",
   "devDependencies": {
     "@rocket/cli": "^0.1.4",
     "@rocket/launch": "^0.1.1"
-  }
+  },
+  "workspaces": [
+    "packages/*"
+  ]
 }

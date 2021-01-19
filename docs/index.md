@@ -7,7 +7,7 @@ callToActionItems:
     href: /explore/
   - text: Rocket Themes
     href: /rocket-themes/
-reasonHeader: How can I deliver more than just one part of the whole intention?
+reasonHeader: Is it practical to hold myself accountable to a performance spec?
 reasons:
   - header: Exchange
     text: What is exchanged? Between who?
