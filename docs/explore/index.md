@@ -1,17 +1,27 @@
-# Consequat
+# Exploring Performance Specs
 
 This is the main part of the webAppWriter site - the _**site as a performance spec**_ part.
 
-But until I get the rocket themes side a bit more complete, this side will remain Lorem Ipsum filler.
+This exploration is very early in the game. It may keep forming day by day, for months or years.
 
-## enim
+## Rocket as Reference Implementation
 
-Minim eiusmod commodo ut. Proident Lorem exercitation minim in excepteur Lorem esse. Qui eu sit minim. Qui reprehenderit aliqua duis occaecat in dolore labore. Cupidatat cupidatat nulla magna. Voluptate cupidatat et in irure eiusmod aute excepteur voluptate. Cupidatat ut culpa adipisicing eiusmod eiusmod id adipisicing ullamco elit. Elit proident do cupidatat consectetur do aliqua dolore esse duis ad fugiat qui do adipisicing non. Duis est amet laborum nostrud commodo dolor eiusmod in. Quis consequat velit aute dolore.
+If Wordpress had been designed in 2021 instead of 2003, it might have looked like [rockect](https://rocket.modern-web.dev/)
 
-## Commodo
+Rocket was written for developers, not content providers. So don't worry that it will be a threat to the 39% of the internet currently on Wordpress.
 
-Commodo amet ullamco duis quis esse incididunt commodo aliquip duis. Aliqua minim ut nostrud qui. Duis pariatur sit quis. Lorem commodo nostrud ea minim nostrud eiusmod quis. Occaecat amet ea nostrud laborum eu occaecat.
+But for the 4 million of us that live and work on git, are comfortable in HTML/CSS, and write in Markdown, working to a performance spec is an easy shift.
 
-## consectetur
+With rocket, a live site can continue to morph to the performance spec as it develops, because updates are as instantaneous as `git commit -m ...` and `git push`, no fancy back end with SQL and complex table sets. Just simple 11ty and automagical navigation on deployment.
 
-Sint qui consectetur eu enim eu irure sint excepteur ipsum ad Lorem deserunt. Voluptate enim dolor aliqua adipisicing non nostrud ipsum occaecat elit. Ea laborum commodo laboris duis tempor occaecat et aliquip magna velit. Nulla aute culpa fugiat anim cupidatat laborum duis sit. Proident anim laboris do id et excepteur et ad laborum voluptate enim id officia sit. Laboris elit cupidatat in do commodo eiusmod amet do deserunt. Laboris voluptate irure qui.
+And I wrote this in Markdown. Kinda sweet, huh?
+
+## Web as App?
+
+Even before asking about the specifics of a performance spec, we have to ask ourselves if the difference between web and app is even real, any more?
+
+## Performance Specification
+
+Did this site perform to spec when you and I actually connected and exchanged thoughts? Or just when I shoveled out the content to a server?
+
+This is the question that this site hopes to explore.
