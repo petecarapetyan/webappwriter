@@ -1,14 +1,23 @@
 # Rocket Themes || 10
 
-Go to [Thumbnails](/rocket-themes/all/thumbnails/) or even [Installation](/rocket-themes/all/installation/) if you want the eye-candy or dev view.
+Hey! [Thumbnails](/rocket-themes/all/thumbnails/) or even [Installation](/rocket-themes/all/installation/) is where to go if you want the eye-candy or dev view.
 
-Else, this page is _**mostly TLDR**_ to explain why I created these rocket themes and what the themes are, and are not, about.
+## Rocket Themes, because
+
+- [x] Default rocket is simple/dumb/fast to use
+- [ ] Default rocket fits my use case
+
+You gotta check _**both**_ boxes. That's a pass fail.
+
+## TLDR, below
+
+Reading below _**may be TLDR**_ unless you need to understand why I created these rocket themes and what the themes are, and are not, about.
 
 This page also covers some of the pitfalls.
 
-## Rocket Themes Use Case:
+## Rocket Themes Use Case
 
-Rocket Themes is my answer to the problem given to me by my former boss, and all future clients: _**"We can't use rocket because the site we need doesn't look like that. Sorry."**_ Even if I want to explain that rocket can be customized, the conversation had already ended.
+Rocket Themes is my answer to the problem given to me by a former employer, and future customers: _**"We can't use rocket because the site we need doesn't look like that. Sorry."**_ Even if I want to explain that rocket can be customized, the conversation had already ended.
 
 So rocket themes lets me swap look and feel in 30 seconds. 
 

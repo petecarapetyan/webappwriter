@@ -5,7 +5,7 @@
 If you want to understand rocket-themes, first you need to understand a primary functionality that rocket gives you over plain 11ty or SSG in general:
 
 - You maintain the content in markdown
-- Rocket maintains the navigation to that content automagically in
+- **Rocket maintains the navigation** to that content automagically in
    - the header
    - the sidebar
 

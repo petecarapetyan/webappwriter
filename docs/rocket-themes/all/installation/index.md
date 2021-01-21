@@ -1,6 +1,12 @@
 # All >> Installation || 20
 
-Everything below will be replaced by presets, probably. More to come later.
+## Finished themes? Or starter/customizeable?
+
+Finished themes could eventually be installed [as rocket presets, like this](https://www.npmjs.com/package/@webappwriter/not-alphabet-rocket-theme). The install process works perfectly, but the theme itself is more of a [POC](https://en.wikipedia.org/wiki/Proof_of_concept), because as themes go, it's pretty useless in it's current status.
+
+None of the above preset really applies to what is below, because all current themes are unfinished at the moment, and would require you to jump in and complete the HTML/CSS to suit your needs.
+
+Read on, if you're still interested in pursuing, as is.
 
 ## Pre-reqs:
 
