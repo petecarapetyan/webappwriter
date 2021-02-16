@@ -31,7 +31,7 @@ Grid area code is just weird enough to benefit from that extra segregation. That
 ## Media Queries still remain an issue
 
 - Rocket already has media queries that have not yet been reconciled against any themes
-- Even theming with grid areas requires _**some**_ amount of media queries, [which haven't been done yet](/rocket-themes/all/issues/#yikes-media-waiting)
+- Even theming with grid areas requires _**some**_ amount of media queries, which haven't been done yet.
 
 Specifics:
 
