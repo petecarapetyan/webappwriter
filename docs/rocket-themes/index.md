@@ -1,8 +1,8 @@
-# Rocket Themes || 10
+# Fins || 10
 
 Hey! [Thumbnails](/rocket-themes/all/thumbnails/) or even [Installation](/rocket-themes/all/installation/) is where to go if you want the eye-candy or dev view.
 
-## Rocket Themes, because
+## Fins - a collection of Rocket Themes
 
 - [x] Default rocket is simple/dumb/fast to use
 - [ ] Default rocket fits my use case
