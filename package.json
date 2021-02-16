@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "rocket start",
-    "build": "rimraf node_modules && npm i && rocket build",
+    "build": "rocket build",
     "deploy": "npm run build && firebase deploy"
   },
   "repository": {
