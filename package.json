@@ -24,8 +24,8 @@
   },
   "homepage": "https://webappwriter.com/rocket-themes/",
   "devDependencies": {
-    "@rocket/cli": "^0.1.4",
-    "@rocket/launch": "^0.1.1"
+    "@rocket/cli": "^0.5.2",
+    "@rocket/launch": "^0.4.0"
   },
   "workspaces": [
     "themes/*"
