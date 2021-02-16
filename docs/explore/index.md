@@ -2,12 +2,12 @@
 
 <img class="bordered" src="/_merged_assets/_static/images/webSweetSpot.svg" alt="FiveThirtyEight.com screenshot" />
 
-## Does the latest allow you to hit the sweet spot?
+## Can it be easy?
 
 If current stacks allow a single dev to hit the sweet spot - we're going to find out here.
 
-Because hitting that sweet spot is all that matters, for some of us. 
+Because hitting that sweet spot is all that matters, at least for some of us.
 
-2 out of 3 misses the target. 
+2 out of 3 flat out misses the target. That's a fail.
 
-That's what I explore here. If I do it right, it will even look easy.
+So that is what I explore here. If I do it right, it will even look easy - thanks to [11ty](https://www.11ty.dev/) and now, [rocket](https://rocket.modern-web.dev/)
