@@ -41,11 +41,11 @@ So that's another feature of the sweet spot - it needs to live where it serves t
 
 Sigh. So much emotion gets in the way when I'm forced to do things differently. Perhaps I'll just resist?
 
-Look, I'm just picking on React or Angular here as a point of comparison. But it could just as easily be Gatsby or VuePress or Laravel/PHP.
+Look, I'm picking on React as a point of comparison. It could just as easily be Gatsby or VuePress or Laravel/PHP or Rails.
 
-In the unfortunate case of the React ecosystem, VDOM and JSX taught the browser standard folks how to implement nearly identical functionality in the standard browser. But now, if I'm a React dev, suddenly I'm writing legacy code? That doesn't feel fair.
+In the unfortunate case of the React ecosystem, VDOM and JSX taught the browser standard folks how to implement nearly identical functionality in the standard browser. But now, if I'm a React dev, suddenly I'm writing legacy code? That doesn't feel right.
 
-But it is that way. And it's not just React. Here's a modest sampling:
+But it _**is**_ that way. And it's not just React. Here's a modest sampling:
 
 - css variables vs scss 
 - file based SSGs vs SQL based Wordpress, Drupal, and the like
@@ -59,7 +59,7 @@ So these improvements lead us to the next section: When to adopt which stacks?
 
 ## Conclusion: 3 exact filters, to the rescue
 
-We need a quick set of tests or filters to continue, in the face of what feels like an infinite array of options. Arguments or discussions between tribes isn't going to feed anything but my fragile ego.
+We need a quick set of logic gates or filters to test, in the face of what feels like an infinite array of options. Arguments or discussions between tribes isn't going to feed anything but my fragile ego.
 
 1. **Substitutions:** _Have my favorite stacks become a **legacy substitute** for something that is now in the DOM or the JS/TS language?_ If so, migrate immediately, for that one piece, anyway. This is a pretty easy black/white test.
 1. **Practices:** For stacks which are not browser or language standards. Such as, _which is better? Webpack or Rollup?_ These tests are never definitive, because the answers differ depending on context, and even which version of which stack on which day. So we still test for these, and we prepare ourselves for switching out stacks when our development context demands it. Clean hygiene dictates, here.
