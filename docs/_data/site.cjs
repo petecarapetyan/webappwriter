@@ -3,7 +3,7 @@ module.exports = function () {
     dir: 'ltr',
     lang: 'en',
     name: 'Home',
-    description: 'webAppWriter intro blurb here',
+    description: 'webAppWriter is about how work has become better for web developers',
     socialLinks: [
       {
         name: 'GitHub',
@@ -18,5 +18,6 @@ module.exports = function () {
     iconColorMsapplicationTileColor: '#1d3557',
     iconColorThemeColor: '#1d3557',
     socialMediaImage: '/_assets/social-media-image.jpg',
+    analytics: '185452988'
   };
 };

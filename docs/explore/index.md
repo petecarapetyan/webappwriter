@@ -3,10 +3,15 @@
 
 <img class="bordered" src="/_merged_assets/_static/images/webSweetSpot.svg" alt="FiveThirtyEight.com screenshot" />
 
-**TLDR version:**
-The framework wars are obsolete. What's left is delivering results. Whodathunkit?
+**_not_ TLDR:**
 
-One piece at a time: Here's how we may have reached the sweet spot. Yes, our world is getting _waay_ better. But that may be the _**last thing**_ we ever notice. It's all TLDR, because the short version of the story makes it seem like things haven't changed at all.
+Framework wars are obsolete, even if they are a long way from being over. 
+
+What's left is _delivering results_. Whodathunkit?
+
+**TLDR, as follows:**
+
+Here's how we may have reached the sweet spot. Our world is getting _waay_ better. That may be the _**last thing**_ we ever notice, because its all TLDR. The short version of the story makes it seem like things haven't changed at all.
 
 Weird, but wonderful. How to take advantage?
 
@@ -14,30 +19,34 @@ Weird, but wonderful. How to take advantage?
 
 The "framework" or platform is a decades old idea to solve a decades old problem. The browser standard was immature, and the DOM - and even JS, a little bit, sucked. Enter the "framework" to solve the problem.
 
-Except, it wasn't a problem. It was a **set** of - ahem - _opportunities?_ Is that what you would call it? Different frameworks evolved, year after year, to address each one, in different ways. Soon it became "I'm an Angular developer" or "I'm a React developer" or Drupal, or ....
+Except, it wasn't a problem. It was a **set** of - ahem - _opportunities?_ Is that the _positive_ spin? Different frameworks evolved, year after year, to address each opportunity, in different ways. Soon it became "I'm an Angular developer" or "I'm a React developer" or Drupal, or ....
 
 A framework included all that stuff that the language and the browser standard didn't have. So now we get to work as a tribe, be buddies, share an ecosystem - go [DX](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9)!
 <img class="bordered" src="/_merged_assets/_static/images/cowboys.jpg" alt="cowboys" />
 
-That's why "better" isn't better. If we use the now racist metaphor from the American westerns, of Cowboys and Indians as a movie plot or a childhood game, framework wars depend on keeping our guns loaded and sticking together. Framework growth depends on keeping the browser standard immature and JS and the DOM sucking. Thus, sticking with the framework's adaptations that we know, and code fast in.
+That's why "better" isn't necessarily better.
+
+Abusing a racist metaphor from the American West - _"Cowboys and Indians"_ has made up movie plots, childhood games, and the like. Let's try it on for it's visceral impact:
+
+Framework wars depend on keeping our guns loaded and sticking together. Framework growth depends on keeping the browser standard immature and JS and the DOM sucky. We stick with the framework's adaptations that we know, and we code quickly, as a result.
 
 Cowboys and Indians may be out of date and even distasteful as a metaphor, but competition between frameworks is quite the contemporary reality.
 
-Speed and efficiency comes from knowing the lingo of our tribe, not the relative merits of the platform. That's an important distinction.
+Speed and efficiency comes from knowing the lingo of our "side", not always the relative merits of the development platform. That's an important distinction.
 
-So that's the first pattern we look for - providing whatever we need within a singular ecosystem. The rest of this story is about the unexpected disappearance of the problem that frameworks fix.
+So that's the first pattern we look to exploit - providing whatever we need within a singular ecosystem. The rest of this story is about the unexpected disappearance of the very problem that frameworks fix.
 
 ## But wait, there's more
 
-You might be eager to point out that _all is not Cowboys and Indians_ - sometimes it's Urban vs Rural, or even East vs West. Geographical, not tribal.
+You might be eager to point out that _all is not Cowboys and Indians_ - sometimes it's Urban vs Rural, or even East vs West. Geographical, not so much tribal.
 
-Oh my! I spent decades coding almost everything exclusively on the back end, in Java servers. Or others did the same, in PHP or Python or Ruby. In this world, there was no client side code, or at least not much. We kinda like it, that way.
+Hey! That's me! I spent decades coding almost everything exclusively on the back end, in Java servers. Or others did the same, in PHP or Python or Ruby. In this world, there was no client side code, or at least not much. We kinda like it, that way.
 
 I bring it up here only to illustrate a shared priority. If my first concern is about how to maintain a static approach to my work, rather than the better experience for my customer.
 
 <img class="bordered" src="/_merged_assets/_static/images/sea.jpg" alt="sea" />
 
-"Better" in this context does not include the objective of _"not having to learn client side, rather than server side processing"_. Nor does it include the popular convenience of _protecting developers from having to learn new HTML standards._ WebAppWriter is all about identifying the **better experience for the customer**, as a baseline.
+"Better" in this context **does not include the objective of** _"not having to learn client side, rather than server side processing"_. Nor does it include the popular convenience of _protecting developers from having to learn new HTML standards._ WebAppWriter is all about identifying the **better experience for the customer**, as a baseline.
 
 If that means I gotta learn something new, so be it. Too bad for me. Life goes on.
 
@@ -104,7 +113,7 @@ Lifting these directly from [this article](https://thenewstack.io/case-against-w
 
 I offer this listing as an excellent marker of how far things have gone. Daniel's position is correct - one could develop without even build tools! 
 
-It is also true that no-one in _my_ world would ever make it past their first day without the sport of getting into the weeds of WCs, complete with build tools, et al. It is meaninful that one could actually work, unencumbered by all that extra power.
+It is also true that no-one in _my_ world would ever make it past their first day without engaging in the sport of getting into the weeds of WCs, complete with build tools, et al. It is meaninful that one could actually work, unencumbered by all that extra power.
 
 So the takeaway here is that [Daniel's approach](https://yax.com/) is a great marker for how much better things have become. 
 
@@ -112,11 +121,11 @@ So the takeaway here is that [Daniel's approach](https://yax.com/) is a great ma
 
 Fair warning: _I have personal issues with the questionable naming of "static" sites in current times. A service worker, and too many other aspects to list make even 'static' sites kinda app-like. Perhaps all sites are app-ish, now?_ A discussion for another day.
 
-If you're focusing on a 'static' site, then SSGs generally, and [Rocket](https://Rocket.modern-web.dev/) as an [11ty](https://www.11ty.dev/) implementation might really capture your imagination. Or, at least, when you learn what it can do for you.
+If you're focusing on a 'static' site, then SSGs generally, and more specifically - [Rocket](https://Rocket.modern-web.dev/) as an [11ty](https://www.11ty.dev/) implementation might really capture your imagination. Or, at least, if you learn what it can do for you.
 
 What you might like about Rocket, once it is offically released, is that it's built from browser-standard dumb stuff by hard-core practitioners of building from browser-standard dumb stuff. And it's built from standard parts like 11ty by devs who are creative about not re-inventing or using a legacy tool once a standard matures and is easily adopted.
 
-Much as I'd like to drag you through a word salad extolling the 100 ways to illustrate where Rocket does that for you, how about not? Yes, Rocket lets you focus on the your content (or your app) the way the React or other ecosystems do. To validate , instead search for your area of interest around 11ty, Markup, buildless web, Web Components, Lit, and all the other pieces that Rocket does for you. Or, just browse through the code for yourself.
+Much as I'd like to drag you through a word salad extolling the 100 ways to illustrate where Rocket does that for you, how about not? Rocket lets you focus on the your content (or your app) the way the React or Wordpress or other great ecosystems do. To validate, search for your area of interest around 11ty, Markup, buildless web, Web Components, Lit, and all the other pieces that Rocket automates for you. Or even, just browse through the code for yourself.
 <img class="bordered" src="/_merged_assets/_static/images/peeps.jpg" alt="peeps" />
 
 I'll even go one further. _**If it's just static sites, you don't even have to be a much of a dev.**_ Only _**git, npm, Markdown skills**_ are required - that could be enough for a Rocket site. But that's a topic for another day.
@@ -139,10 +148,12 @@ If it slows me down, then I'm doing something wrong. More will be revealed.
 
 ## Fins - Rocket Themes
 
-When Rocket releases later this year, you might conclude that it's a bit like what Henry Ford "Any color you want, as long as it's black". 
+When Rocket releases later this year, you might conclude that it's a bit like what Henry Ford promised about the Model T "Any color you want, as long as it's black". 
 
 You don customize it, sure, but it's not a trivial affair like WordPress or Drupal themes would be.
 
-So I started coding up 18 or so Rocket themes. [Fins](/Rocket-themes/) They aren't very far along as themes go, but it at least exercises the process and helps us get started.
+So I started coding up 18 or so Rocket themes. [Fins](/Rocket-themes/) They aren't very far along as themes go, but it at least exercises the process and helps us get started. Your reading the [**not-five38 theme**](/rocket-themes/not-five38/), now, such as it is. [Take a walk through...](/rocket-themes/all/thumbnails/)
+
+<hr>
 
 **errata:** Hey if you can come up with a more well known and visceral metaphor than Cowboys and Indians, I'm [all ears](mailto:pete@datafundamentals.com)
