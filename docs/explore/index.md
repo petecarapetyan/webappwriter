@@ -61,9 +61,9 @@ But it _**is**_ that way. And it's not just React. Here's a modest sampling:
 - CSS grid vs Bootstrap or many other
 - too many others to mention here
 
-The resistance is palpable. You simply don't ask me to learn something new when I could already be done if I use familiar legacy stacks. But that's exactly what is happening, here.
+The resistance is palpable. Why ask me to learn something new, when I could already be done if I use familiar legacy stacks. But that's exactly what is happening, here. This is why "better" doesn't feel better, not even slightly.
 
-So these improvements lead us to the next section: When to adopt which stacks?
+So these improvements lead us to the next section: _**When**_ to adopt which stacks?
 
 ## Conclusion: 3 exact filters, to the rescue
 
@@ -80,15 +80,15 @@ So now we still have some grey areas in the form of contextual switches, but Lit
 
 ## Downstream takeaway: OWC
 
-If you were autistic like me, you might be exasperated by that human thing about working as part of a large tribe. I don't read social signals very well, so I tend to rely less on feelings, more on my inadequate versions of pattern matching, like the above 3 logic gates. It's a form of compensation, but it's important, for aspies.
+If you were autistic like me, you might be exasperated by that human thing about following a large tribe. I don't read social signals very well, so I tend to rely less on feelings, more on my inadequate versions of pattern matching, like the above 3 logic gates. For some of us, compensating is the best we can come up with.
 
 So let's assume that you're not autistic. You do better with group heuristics!
 
 You might ask "Which group or framework?" rather than "Which collection of stacks?".
 
-For this I would offer that there is a [terrific group of devs](https://open-wc.org/) which seems to stick with the first two logic gates, and builds what others might regard as "frameworks" for same. Even if they themselves would never ever use that term - because they are at least notionally anti-framework.
+For this I would offer a [terrific group of devs](https://open-wc.org/) which hues well to the first two logic gates, and builds what others might consume as "frameworks" for daily use. Even if they themselves would never ever use that term - because they are at least notionally anti-framework.
 
-So the OWC is the main takeaway of [webAppWriter](/). If I do it right, it will even look easy to do, on static sites - thanks to [11ty](https://www.11ty.dev/) and now, [rocket](https://rocket.modern-web.dev/)
+So OWC is the main takeaway of [webAppWriter](/). If I do it right, it will even look easy to do, on static sites - thanks to [11ty](https://www.11ty.dev/) and now, [Rocket](https://Rocket.modern-web.dev/)
 
 ## A different downstream takeaway: Yax
 
@@ -102,32 +102,34 @@ Lifting these directly from [this article](https://thenewstack.io/case-against-w
 1. **Module CDNs:** JavaScript modules can now be downloaded from third-party content delivery networks (CDNs)
 1. **Custom HTML elements:** Developers can now create custom HTML tags, via Web Components.
 
-I offer this listing only as a marker of how far things have gone. Though Daniel's statement is true, no-one in _my_ dev world would ever make it past their first day without getting into the weeds of WCs, complete with build tools, et al. The point is that you could actually do that, if you wished.
+I offer this listing as an excellent marker of how far things have gone. Daniel's position is correct - one could develop without even build tools! 
 
-So the fact that you could develop in [Daniel's approach](https://yax.com/) says it all. Shows how far things have gone, in the direction away from static-stack developer tribalism.
+It is also true that no-one in _my_ world would ever make it past their first day without the sport of getting into the weeds of WCs, complete with build tools, et al. It is meaninful that one could actually work, unencumbered by all that extra power.
+
+So the takeaway here is that [Daniel's approach](https://yax.com/) is a great marker for how much better things have become. 
 
 ## About letting Rocket get you started
 
-Fair warning: _I've got personal issues with what I observe as a questionable story about static sites really being static any more. A service worker and too many other aspects to list make even 'static' sites kinda app-like. So maybe all sites are really apps, now?_
+Fair warning: _I have personal issues with the questionable naming of "static" sites in current times. A service worker, and too many other aspects to list make even 'static' sites kinda app-like. Perhaps all sites are app-ish, now?_ A discussion for another day.
 
-If you're focusing on a 'static' site then SSGs generally, and [rocket](https://rocket.modern-web.dev/) as an [11ty](https://www.11ty.dev/) implementation might really capture your imagination, when you learn what it can do for you.
+If you're focusing on a 'static' site, then SSGs generally, and [Rocket](https://Rocket.modern-web.dev/) as an [11ty](https://www.11ty.dev/) implementation might really capture your imagination. Or, at least, when you learn what it can do for you.
 
-What you might like about Rocket, when it is released, is that it's built from browser-standard dumb stuff by hard-core practitioners of building from browser-standard dumb stuff. And it's built from standard parts like 11ty by devs who are creative about not re-inventing or using a legacy tool once a standard matures and is easily adopted.
+What you might like about Rocket, once it is offically released, is that it's built from browser-standard dumb stuff by hard-core practitioners of building from browser-standard dumb stuff. And it's built from standard parts like 11ty by devs who are creative about not re-inventing or using a legacy tool once a standard matures and is easily adopted.
 
 Much as I'd like to drag you through a word salad extolling the 100 ways to illustrate where Rocket does that for you, how about not? Yes, Rocket lets you focus on the your content (or your app) the way the React or other ecosystems do. To validate , instead search for your area of interest around 11ty, Markup, buildless web, Web Components, Lit, and all the other pieces that Rocket does for you. Or, just browse through the code for yourself.
 <img class="bordered" src="/_merged_assets/_static/images/peeps.jpg" alt="peeps" />
 
-I'll even go one further. If it's just static sites, you don't even have to be a much of a dev. Only git, npm, Markdown are required - that could be enough for a rocket site. But that's a topic for another day.
+I'll even go one further. _**If it's just static sites, you don't even have to be a much of a dev.**_ Only _**git, npm, Markdown skills**_ are required - that could be enough for a Rocket site. But that's a topic for another day.
 
 ## CRO vs Good Feelings
 
 It does feel good to be creative and put out helpful content. But, as developers - should we stop there?
 
-If good feelings are enough for you, then the above Sweet Spot diagram doesn't apply to you. 2 out of 3 is fine.
+If good feelings are enough for you, then the above Sweet Spot diagram doesn't apply to you. 2 out of 3 is fine, for you.
 
 But I've been doing the good feelings thing for a couple decades, and all that content hasn't served a commercial purpose. Now it's time for me to learn the results part, as well.
 
-Results matter. CRO, or anything better, is how to get there.
+Results _**do**_ matter. CRO, or anything better, is how to get there.
 
 [CRO](https://en.wikipedia.org/wiki/Conversion_rate_optimization) is well worn path, the tools are popular and free, and Rocket integrates them easily. 
 
@@ -141,6 +143,6 @@ When Rocket releases later this year, you might conclude that it's a bit like wh
 
 You don customize it, sure, but it's not a trivial affair like WordPress or Drupal themes would be.
 
-So I started coding up 18 or so rocket themes. [Fins](/rocket-themes/) They aren't very far along as themes go, but it at least exercises the process and helps us get started.
+So I started coding up 18 or so Rocket themes. [Fins](/Rocket-themes/) They aren't very far along as themes go, but it at least exercises the process and helps us get started.
 
 **errata:** Hey if you can come up with a more well known and visceral metaphor than Cowboys and Indians, I'm [all ears](mailto:pete@datafundamentals.com)

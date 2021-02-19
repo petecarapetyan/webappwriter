@@ -5,12 +5,14 @@
 
 ## If things were better for the web developer, would anyone notice?
 
-No. At least not for the main part.
+No one will notice that things got dramatically better for web developers. That's OK.
 
-For most of us, it's about [DX](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9) or familiarity or even framework or tribe, not abstract "better" tests.
+For most of us, work is about [DX](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9) or familiarity or even framework or tribe, not abstract "better".
 
-This site explores how things really did get better, and _**why you might care**_ even if your friends don't. No, I'm not jiving you. Things really did get dramatically better. It's just not obvious, that's all.
+WebAppWriter explores how things really did get better, and _**why you might care**_ even if your friends are too distracted. Things really did get dramatically better. It's just kind of TLDR, that's all.
 
-With [11ty](https://www.11ty.dev/) and now, [rocket](https://rocket.modern-web.dev/) and a few free google tools, you can leapfrog your static-site team to a new level. If that's what you wanted. And Wordpress or Gatsby junkies, watch out!
+With [11ty](https://www.11ty.dev/) and now, [rocket](https://rocket.modern-web.dev/) and a few free google tools, you can leapfrog your static-site team to a new level. If that's what you wanted. Wordpress or Gatsby junkies, keep your eyes open!
+
+And static sites are just one piece of that puzzle.
 
 [Continue reading](/explore/)
