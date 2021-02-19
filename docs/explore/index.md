@@ -3,7 +3,10 @@
 
 <img class="bordered" src="/_merged_assets/_static/images/webSweetSpot.svg" alt="FiveThirtyEight.com screenshot" />
 
-One piece at a time, here's how we may have reached the sweet spot, and why it's the _**last thing**_ in the world we might ever notice.
+**TLDR version:**
+The framework wars are obsolete. What's left is delivering results. Whodathunkit?
+
+One piece at a time: Here's how we may have reached the sweet spot. Yes, our world is getting _waay_ better. But that may be the _**last thing**_ we ever notice. It's all TLDR, because the short version of the story makes it seem like things haven't changed at all.
 
 Weird, but wonderful. How to take advantage?
 
@@ -11,81 +14,87 @@ Weird, but wonderful. How to take advantage?
 
 The "framework" or platform is a decades old idea to solve a decades old problem. The browser standard was immature, and the DOM - and even JS, a little bit, sucked. Enter the "framework" to solve the problem.
 
-Except, it wasn't a problem. It was a big **set** of - ahem - _opportunities?_ Is that the right word? Different frameworks evolved, year after year, to address each one, in different ways. Soon it became "I'm an Angular developer" or "I'm a React developer" or Drupal, or ....
+Except, it wasn't a problem. It was a **set** of - ahem - _opportunities?_ Is that what you would call it? Different frameworks evolved, year after year, to address each one, in different ways. Soon it became "I'm an Angular developer" or "I'm a React developer" or Drupal, or ....
 
 A framework included all that stuff that the language and the browser standard didn't have. So now we get to work as a tribe, be buddies, share an ecosystem - go [DX](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9)!
+<img class="bordered" src="/_merged_assets/_static/images/cowboys.jpg" alt="cowboys" />
 
-That's why "better" isn't better. If we use the now racist metaphor from the American westerns, of Cowboys and Indians as a childhood game, _this vs that_ framework depends on - well - we keep our guns loaded and we stick together. Everything depends on the browser standard staying immature and JS and the DOM sucking, so we stick with our framework's fixes that we know and love. Cowboys and Indians may be out of date, but competition between frameworks is quite real.
+That's why "better" isn't better. If we use the now racist metaphor from the American westerns, of Cowboys and Indians as a movie plot or a childhood game, framework wars depend on keeping our guns loaded and sticking together. Framework growth depends on keeping the browser standard immature and JS and the DOM sucking. Thus, sticking with the framework's adaptations that we know, and code fast in.
+
+Cowboys and Indians may be out of date and even distasteful as a metaphor, but competition between frameworks is quite the contemporary reality.
 
 Speed and efficiency comes from knowing the lingo of our tribe, not the relative merits of the platform. That's an important distinction.
 
-So that's the first pattern we look for - providing whatever we need for a single ecosystem.
+So that's the first pattern we look for - providing whatever we need within a singular ecosystem. The rest of this story is about the unexpected disappearance of the problem that frameworks fix.
 
-## But wait, there's more!
+## But wait, there's more
 
-You might be eager to point out that all is not Cowboys and Indians - sometimes it's City vs Country or even East vs West.
+You might be eager to point out that _all is not Cowboys and Indians_ - sometimes it's Urban vs Rural, or even East vs West. Geographical, not tribal.
 
-Goodness gracious! I spent decades coding everything exclusively on the back end, in Java servers. Or others did the same, in PHP or Python or Ruby. In this world, there was no client side code, or at least not much of one.
+Oh my! I spent decades coding almost everything exclusively on the back end, in Java servers. Or others did the same, in PHP or Python or Ruby. In this world, there was no client side code, or at least not much. We kinda like it, that way.
 
 I bring it up here only to illustrate a shared priority. If my first concern is about how to maintain a static approach to my work, rather than the better experience for my customer.
 
-"Better" in this context does not include the objective of _"not having to learn client side, rather than server side processing"_. Nor does it include the popular convenience of _protecting developers from having to learn new HTML standards._ This site is all about the **better experience for the customer** as a baseline.
+<img class="bordered" src="/_merged_assets/_static/images/sea.jpg" alt="sea" />
 
-If that means I gotta learn something new, so be it. Tough luck. Life goes on.
+"Better" in this context does not include the objective of _"not having to learn client side, rather than server side processing"_. Nor does it include the popular convenience of _protecting developers from having to learn new HTML standards._ WebAppWriter is all about identifying the **better experience for the customer**, as a baseline.
 
-As a side note only - standards are a **finite** set of pieces that I need to learn, if I want to keep up with the browser and JS/TS as a language. It only _feels_ infinite, sometimes.
+If that means I gotta learn something new, so be it. Too bad for me. Life goes on.
 
-So that's another feature of the sweet spot - it needs to live where it serves the customer best.
+As a side note only - standards are a **finite** set that I need to learn, if I want to keep up with the browser and JS/TS as a language. It only _feels_ infinite, sometimes.
+
+So that's another feature of the sweet spot - it needs to live where it serves the customer and even the content provider best. Super fast, responsive experiences. Not what serves the developer best. Yeah yeah, I know, _"heresy"_.
 
 ## Woops, somebody improved DOM and JS
 
 Sigh. So much emotion gets in the way when I'm forced to do things differently. Perhaps I'll just resist?
 
-Look, I'm picking on React as a point of comparison. It could just as easily be Gatsby or VuePress or Laravel/PHP or Rails.
+Look, I'm picking on React as a point of comparison. It could just as easily be Gatsby or VuePress or Laravel/PHP or Rails or even Polymer.
 
 In the unfortunate case of the React ecosystem, VDOM and JSX taught the browser standard folks how to implement nearly identical functionality in the standard browser. But now, if I'm a React dev, suddenly I'm writing legacy code? That doesn't feel right.
 
 But it _**is**_ that way. And it's not just React. Here's a modest sampling:
 
-- css variables vs scss 
+- CSS variables vs scss 
 - file based SSGs vs SQL based Wordpress, Drupal, and the like
 - fetch vs axios
 - CSS grid vs Bootstrap or many other
 - too many others to mention here
 
-The resistance is palpable. You simply don't ask me to learn something new when I could already be done with familiar legacy stacks. But that's exactly what is happening, here.
+The resistance is palpable. You simply don't ask me to learn something new when I could already be done if I use familiar legacy stacks. But that's exactly what is happening, here.
 
 So these improvements lead us to the next section: When to adopt which stacks?
 
 ## Conclusion: 3 exact filters, to the rescue
 
-We need a quick set of logic gates or filters to test, in the face of what feels like an infinite array of options. Arguments or discussions between tribes isn't going to feed anything but my fragile ego.
+We need a quick set of logic gates or filters to test, in the face of what feels like an infinite array of options. Arguments or discussions between tribes isn't going to feed anything but my fragile, overblown ego.
 
-1. **Substitutions:** _Have my favorite stacks become a **legacy substitute** for something that is now in the DOM or the JS/TS language?_ If so, migrate immediately, for that one piece, anyway. This is a pretty easy black/white test.
-1. **Practices:** For stacks which are not browser or language standards. Such as, _which is better? Webpack or Rollup?_ These tests are never definitive, because the answers differ depending on context, and even which version of which stack on which day. So we still test for these, and we prepare ourselves for switching out stacks when our development context demands it. Clean hygiene dictates, here.
-1. **CRO:** WUT? Since when is [CRO](https://en.wikipedia.org/wiki/Conversion_rate_optimization) even an issue for a dev? Isn't that on the business side? _**CRO is about results.**_ In what other world do than web development do results not even enter into the discussion? To me, this shows how distracted we are by DX. Results is all that matters in a mature context. And almost never discussed, in the polite society of the dev world.
+1. **Substitutions:** (True/False) _Has my favorite stack(s) become a **legacy substitute** for something that is now in the DOM or the JS/TS language?_ If so, migrate immediately, for that one piece, anyway. This is a pretty easy, black and white test.
+1. **Practices:** For stacks which are not browser or language standards. Such as, _which is better? Webpack or Rollup? Lit or FAST?_ These tests are never definitive, because the answers differ depending on context, and even which version of which stack on which day. So we still test for these, and we prepare ourselves for switching out stacks when our development context demands it. Clean hygiene is the logic gate, here.
+1. **CRO:** WUT? Since when is [CRO](https://en.wikipedia.org/wiki/Conversion_rate_optimization) even an issue for a dev? Isn't that on the business side? _**CRO is about results.**_ In what other world than web development, do results not even enter into the discussion? A strong signal on just how distracted we are by DX. Results is _**all**_ that matters in a mature business context. 
 
 The proposal here is that these 3 tests give us instantaneous answers, even if they are always changing.
 
 So now we still have some grey areas in the form of contextual switches, but Little Red Ridng Hood now has a safe route to grandma's house, and it's not just "which tribe am I in?" any more.
+<img class="bordered" src="/_merged_assets/_static/images/science.jpg" alt="science" />
 
 ## Downstream takeaway: OWC
 
-If you were autistic like me, you might be exasperated by that human need to work as a group. I don't read a group's social signals well, so I tend to rely less on feelings, more on my inadequate versions of pattern matching, like the above 3 tests.
+If you were autistic like me, you might be exasperated by that human thing about working as part of a large tribe. I don't read social signals very well, so I tend to rely less on feelings, more on my inadequate versions of pattern matching, like the above 3 logic gates. It's a form of compensation, but it's important, for aspies.
 
-So let's assume that you're not autistic. You feel better with group heuristics! 
+So let's assume that you're not autistic. You do better with group heuristics!
 
 You might ask "Which group or framework?" rather than "Which collection of stacks?".
 
-For this I would tell you that there is a somewhat loosely connected group of devs which pretty much sticks with the first two tests and builds what you might think of as "frameworks" for same. Even if they themselves would never ever use that term - because they are nominally anti-framework.
+For this I would offer that there is a [terrific group of devs](https://open-wc.org/) which seems to stick with the first two logic gates, and builds what others might regard as "frameworks" for same. Even if they themselves would never ever use that term - because they are at least notionally anti-framework.
 
-So that is the main takeaway of this site. If I do it right, it will even look easy - thanks to [11ty](https://www.11ty.dev/) and now, [rocket](https://rocket.modern-web.dev/)
+So the OWC is the main takeaway of [webAppWriter](/). If I do it right, it will even look easy to do, on static sites - thanks to [11ty](https://www.11ty.dev/) and now, [rocket](https://rocket.modern-web.dev/)
 
-## Downstream takeaway: Yax
+## A different downstream takeaway: Yax
 
-As if to demonstrate that framework free comes in multiple flavors and perspectives, yax seems to begin with the **quite literal** interpretation of framework free.
+As if to illustrate that "framework free" comes in multiple flavors and perspectives, [Yax](https://yax.com/) seems to begin with the **quite literal** interpretation.
 
-If cowboys and indians was the metaphor, Daniel Kehoe was a leader in previous tribes - er uh, frameworks - and observes that current toolsets allow for absolute freedom from build tools, because of advancments in three specific areas. 
+Daniel Kehoe was a thought leader in previous tribes - er uh, frameworks - and observes that current toolsets allow for absolute freedom from build tools, because of advancments in three specific areas mean I can now consume elements without even creating them!
 
 Lifting these directly from [this article](https://thenewstack.io/case-against-web-frameworks/):
 
@@ -93,17 +102,22 @@ Lifting these directly from [this article](https://thenewstack.io/case-against-w
 1. **Module CDNs:** JavaScript modules can now be downloaded from third-party content delivery networks (CDNs)
 1. **Custom HTML elements:** Developers can now create custom HTML tags, via Web Components.
 
-I offer this here only as a marker of how far things have gone. Nobody in the dev world I travel with would ever make it past their first day without getting into the weeds of WCs and the necessary build tools, et al.
-
-I'll even go one further. Rocket lets you build a site without any of this. git, npm, Markdown - that should be enough. But that's a topic for another page on this site.
+I offer this listing only as a marker of how far things have gone. Though Daniel's statement is true, no-one in _my_ dev world would ever make it past their first day without getting into the weeds of WCs, complete with build tools, et al. The point is that you could actually do that, if you wished.
 
 So the fact that you could develop in [Daniel's approach](https://yax.com/) says it all. Shows how far things have gone, in the direction away from static-stack developer tribalism.
 
 ## About letting Rocket get you started
 
+Fair warning: _I've got personal issues with what I observe as a questionable story about static sites really being static any more. A service worker and too many other aspects to list make even 'static' sites kinda app-like. So maybe all sites are really apps, now?_
+
+If you're focusing on a 'static' site then SSGs generally, and [rocket](https://rocket.modern-web.dev/) as an [11ty](https://www.11ty.dev/) implementation might really capture your imagination, when you learn what it can do for you.
+
 What you might like about Rocket, when it is released, is that it's built from browser-standard dumb stuff by hard-core practitioners of building from browser-standard dumb stuff. And it's built from standard parts like 11ty by devs who are creative about not re-inventing or using a legacy tool once a standard matures and is easily adopted.
 
 Much as I'd like to drag you through a word salad extolling the 100 ways to illustrate where Rocket does that for you, how about not? Yes, Rocket lets you focus on the your content (or your app) the way the React or other ecosystems do. To validate , instead search for your area of interest around 11ty, Markup, buildless web, Web Components, Lit, and all the other pieces that Rocket does for you. Or, just browse through the code for yourself.
+<img class="bordered" src="/_merged_assets/_static/images/peeps.jpg" alt="peeps" />
+
+I'll even go one further. If it's just static sites, you don't even have to be a much of a dev. Only git, npm, Markdown are required - that could be enough for a rocket site. But that's a topic for another day.
 
 ## CRO vs Good Feelings
 
@@ -113,9 +127,11 @@ If good feelings are enough for you, then the above Sweet Spot diagram doesn't a
 
 But I've been doing the good feelings thing for a couple decades, and all that content hasn't served a commercial purpose. Now it's time for me to learn the results part, as well.
 
+Results matter. CRO, or anything better, is how to get there.
+
 [CRO](https://en.wikipedia.org/wiki/Conversion_rate_optimization) is well worn path, the tools are popular and free, and Rocket integrates them easily. 
 
-So I'm going to document some of that progress here, to compare notes with others and invite future contracts.
+So I want to document some of that progress here, to compare notes with others and invite future contracts.
 
 If it slows me down, then I'm doing something wrong. More will be revealed.
 
@@ -125,4 +141,6 @@ When Rocket releases later this year, you might conclude that it's a bit like wh
 
 You don customize it, sure, but it's not a trivial affair like WordPress or Drupal themes would be.
 
-So I started coding up 18 or so rocket themes. [Fins](/rocket-themes/) They aren't very far along, but it at least exercises the process and helps us get started.
+So I started coding up 18 or so rocket themes. [Fins](/rocket-themes/) They aren't very far along as themes go, but it at least exercises the process and helps us get started.
+
+**errata:** Hey if you can come up with a more well known and visceral metaphor than Cowboys and Indians, I'm [all ears](mailto:pete@datafundamentals.com)
