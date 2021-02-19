@@ -22,11 +22,12 @@ The "framework" or platform is a decades old idea to solve a decades old problem
 Except, it wasn't a problem. It was a **set** of - ahem - _opportunities?_ Is that the _positive_ spin? Different frameworks evolved, year after year, to address each opportunity, in different ways. Soon it became "I'm an Angular developer" or "I'm a React developer" or Drupal, or ....
 
 A framework included all that stuff that the language and the browser standard didn't have. So now we get to work as a tribe, be buddies, share an ecosystem - go [DX](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9)!
-<img class="bordered" src="/_merged_assets/_static/images/cowboys.jpg" alt="cowboys" />
 
 That's why "better" isn't necessarily better.
 
-Abusing a racist metaphor from the American West - _"Cowboys and Indians"_ has made up movie plots, childhood games, and the like. Let's try it on for it's visceral impact:
+<img class="bordered" src="/_merged_assets/_static/images/cowboys.jpg" alt="cowboys" />
+
+Abusing a racist metaphor from the American West - _"Cowboys and Indians"_ has made up movie plots, childhood games, and more. Let's try it on for it's visceral impact:
 
 Framework wars depend on keeping our guns loaded and sticking together. Framework growth depends on keeping the browser standard immature and JS and the DOM sucky. We stick with the framework's adaptations that we know, and we code quickly, as a result.
 
@@ -42,25 +43,25 @@ You might be eager to point out that _all is not Cowboys and Indians_ - sometime
 
 Hey! That's me! I spent decades coding almost everything exclusively on the back end, in Java servers. Or others did the same, in PHP or Python or Ruby. In this world, there was no client side code, or at least not much. We kinda like it, that way.
 
-I bring it up here only to illustrate a shared priority. If my first concern is about how to maintain a static approach to my work, rather than the better experience for my customer.
+I bring it up here only to illustrate a natural preference. _**When my first concern is maintaining my current routine**_, rather than the abstraction of a better experience for my customer!
 
 <img class="bordered" src="/_merged_assets/_static/images/sea.jpg" alt="sea" />
 
-"Better" in this context **does not include the objective of** _"not having to learn client side, rather than server side processing"_. Nor does it include the popular convenience of _protecting developers from having to learn new HTML standards._ WebAppWriter is all about identifying the **better experience for the customer**, as a baseline.
+"Better" in the context of this article **does not include the objective of** _"not having to learn client side, rather than server side processing"_. Nor does it include the popular convenience of _protecting developers from having to learn new HTML standards._ WebAppWriter is all about identifying the **better experience for the customer**, as a baseline.
 
 If that means I gotta learn something new, so be it. Too bad for me. Life goes on.
 
 As a side note only - standards are a **finite** set that I need to learn, if I want to keep up with the browser and JS/TS as a language. It only _feels_ infinite, sometimes.
 
-So that's another feature of the sweet spot - it needs to live where it serves the customer and even the content provider best. Super fast, responsive experiences. Not what serves the developer best. Yeah yeah, I know, _"heresy"_.
+So that's another feature of the sweet spot - it needs to live where it serves the customer and even the content provider best. Super fast, responsive experiences. Not what serves the developer best. _"Heresy"_, in some circles.
 
 ## Woops, somebody improved DOM and JS
 
 Sigh. So much emotion gets in the way when I'm forced to do things differently. Perhaps I'll just resist?
 
-Look, I'm picking on React as a point of comparison. It could just as easily be Gatsby or VuePress or Laravel/PHP or Rails or even Polymer.
+Look, I'm picking on React here, as a point of comparison. It could just as easily be Gatsby or VuePress or Laravel/PHP or Rails or even Polymer. We were all doing our best to get around the limitations of the browser and the DOM.
 
-In the unfortunate case of the React ecosystem, VDOM and JSX taught the browser standard folks how to implement nearly identical functionality in the standard browser. But now, if I'm a React dev, suddenly I'm writing legacy code? That doesn't feel right.
+In the unfortunate case of the React ecosystem, VDOM and JSX **taught the browser standard folks** how to implement nearly identical functionality in the standard browser. But now, if I'm a React dev, suddenly I'm writing legacy code? That doesn't feel right.
 
 But it _**is**_ that way. And it's not just React. Here's a modest sampling:
 
@@ -70,11 +71,11 @@ But it _**is**_ that way. And it's not just React. Here's a modest sampling:
 - CSS grid vs Bootstrap or many other
 - too many others to mention here
 
-The resistance is palpable. Why ask me to learn something new, when I could already be done if I use familiar legacy stacks. But that's exactly what is happening, here. This is why "better" doesn't feel better, not even slightly.
+The resistance is palpable. Why ask me to learn something new, when I could already be done if I use familiar legacy stacks? But that's exactly what is happening, here. This is why "better" doesn't feel better, not even slightly.
 
 So these improvements lead us to the next section: _**When**_ to adopt which stacks?
 
-## Conclusion: 3 exact filters, to the rescue
+## Conclusion: 3 very exact filters, to the rescue
 
 We need a quick set of logic gates or filters to test, in the face of what feels like an infinite array of options. Arguments or discussions between tribes isn't going to feed anything but my fragile, overblown ego.
 
@@ -125,7 +126,9 @@ If you're focusing on a 'static' site, then SSGs generally, and more specificall
 
 What you might like about Rocket, once it is offically released, is that it's built from browser-standard dumb stuff by hard-core practitioners of building from browser-standard dumb stuff. And it's built from standard parts like 11ty by devs who are creative about not re-inventing or using a legacy tool once a standard matures and is easily adopted.
 
-Much as I'd like to drag you through a word salad extolling the 100 ways to illustrate where Rocket does that for you, how about not? Rocket lets you focus on the your content (or your app) the way the React or Wordpress or other great ecosystems do. To validate, search for your area of interest around 11ty, Markup, buildless web, Web Components, Lit, and all the other pieces that Rocket automates for you. Or even, just browse through the code for yourself.
+Much as I'd like to drag you through a word salad extolling the 100 ways to illustrate where Rocket does that for you, how about, not?
+
+Rocket lets you focus on the your content (or your app) as React or Wordpress or other great ecosystems do. To validate, search for your area of interest around 11ty, Markup, buildless web, Web Components, Lit, and all the other pieces that Rocket automates for you. Or even, just browse through the code for yourself.
 <img class="bordered" src="/_merged_assets/_static/images/peeps.jpg" alt="peeps" />
 
 I'll even go one further. _**If it's just static sites, you don't even have to be a much of a dev.**_ Only _**git, npm, Markdown skills**_ are required - that could be enough for a Rocket site. But that's a topic for another day.
@@ -136,7 +139,7 @@ It does feel good to be creative and put out helpful content. But, as developers
 
 If good feelings are enough for you, then the above Sweet Spot diagram doesn't apply to you. 2 out of 3 is fine, for you.
 
-But I've been doing the good feelings thing for a couple decades, and all that content hasn't served a commercial purpose. Now it's time for me to learn the results part, as well.
+But I've been tending to my own good feelings thing for a couple decades, authoring lots of content. All that content hasn't served a commercial purpose. It's long past time to focus on results, not just going through the motions. And I'm not the only one.
 
 Results _**do**_ matter. CRO, or anything better, is how to get there.
 
@@ -150,10 +153,10 @@ If it slows me down, then I'm doing something wrong. More will be revealed.
 
 When Rocket releases later this year, you might conclude that it's a bit like what Henry Ford promised about the Model T "Any color you want, as long as it's black". 
 
-You don customize it, sure, but it's not a trivial affair like WordPress or Drupal themes would be.
+You can customize it, sure, but it's not a trivial affair like dropping in WordPress or Drupal themes would be.
 
 So I started coding up 18 or so Rocket themes. [Fins](/Rocket-themes/) They aren't very far along as themes go, but it at least exercises the process and helps us get started. Your reading the [**not-five38 theme**](/rocket-themes/not-five38/), now, such as it is. [Take a walk through...](/rocket-themes/all/thumbnails/)
 
 <hr>
 
-**errata:** Hey if you can come up with a more well known and visceral metaphor than Cowboys and Indians, I'm [all ears](mailto:pete@datafundamentals.com)
+**errata:** Hey, if you suggest a more well known and visceral metaphor than the distasteful "Cowboys and Indians", I'm [all ears](mailto:pete@datafundamentals.com)
