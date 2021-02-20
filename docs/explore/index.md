@@ -3,13 +3,13 @@
 
 <img class="bordered" src="/_merged_assets/_static/images/webSweetSpot.svg" alt="FiveThirtyEight.com screenshot" />
 
-**_not_ TLDR:**
+**2 line Summary:**
 
 Framework wars are obsolete, even if they are a long way from being over. 
 
 What's left is _delivering results_. Whodathunkit?
 
-**TLDR, as follows:**
+**TLDR, as follows below:**
 
 Here's how we may have reached the sweet spot. Our world is getting _waay_ better. That may be the _**last thing**_ we ever notice, because its all TLDR. The short version of the story makes it seem like things haven't changed at all.
 
@@ -80,7 +80,7 @@ So these improvements lead us to the next section: _**When**_ to adopt which sta
 We need a quick set of logic gates or filters to test, in the face of what feels like an infinite array of options. Arguments or discussions between tribes isn't going to feed anything but my fragile, overblown ego.
 
 1. **Substitutions:** (True/False) _Has my favorite stack(s) become a **legacy substitute** for something that is now in the DOM or the JS/TS language?_ If so, migrate immediately, for that one piece, anyway. This is a pretty easy, black and white test.
-1. **Practices:** For stacks which are not browser or language standards. Such as, _which is better? Webpack or Rollup? Lit or FAST?_ These tests are never definitive, because the answers differ depending on context, and even which version of which stack on which day. So we still test for these, and we prepare ourselves for switching out stacks when our development context demands it. Clean hygiene is the logic gate, here.
+1. **Practices:** For stacks which are not browser or language standards. Such as, _which is better? Webpack or Rollup? Lit or FAST?_ These tests are never definitive, because the answers differ depending on context, and even which version of which stack on which day. So we still test for these, and we prepare ourselves for switching out stacks when our development context demands it. Clean hygiene is the logic gate, here. Sometimes, as viewed through a lens such as [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 1. **CRO:** WUT? Since when is [CRO](https://en.wikipedia.org/wiki/Conversion_rate_optimization) even an issue for a dev? Isn't that on the business side? _**CRO is about results.**_ In what other world than web development, do results not even enter into the discussion? A strong signal on just how distracted we are by DX. Results is _**all**_ that matters in a mature business context. 
 
 The proposal here is that these 3 tests give us instantaneous answers, even if they are always changing.
