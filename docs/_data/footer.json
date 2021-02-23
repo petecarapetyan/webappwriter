@@ -3,8 +3,8 @@
     "name": "Discover",
     "children": [
       {
-        "text": "Help and Feedback",
-        "href": "https://github.com/modernweb-dev/rocket/issues"
+        "text": "Email Follow Up",
+        "href": "mailto:pete@datafundamentals.com"
       }
     ]
   },
@@ -12,12 +12,12 @@
     "name": "Follow",
     "children": [
       {
-        "text": "GitHub",
+        "text": "Rocket",
         "href": "https://github.com/modernweb-dev/rocket"
       },
       {
-        "text": "Twitter",
-        "href": "https://twitter.com/modern_web_dev"
+        "text": "My Twitter",
+        "href": "https://twitter.com/appwritercom"
       }
     ]
   },
@@ -25,7 +25,7 @@
     "name": "Support",
     "children": [
       {
-        "text": "Contribute",
+        "text": "Contribute to Rocket",
         "href": "https://github.com/modernweb-dev/rocket/blob/master/CONTRIBUTING.md"
       }
     ]
