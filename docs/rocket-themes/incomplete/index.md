@@ -1,5 +1,9 @@
 # Incomplete themes || 90
 
+_All 18 themes are currently incomplete. This page only makes more nonsense out of that condition._
+
+<hr>
+
 "Incomplete" is used in these docs in two very differents senses of the word:
 
 - Incomplete as in _"Not yet finished, you will need to provide some HTML/CSS etc"_

@@ -2,7 +2,7 @@
 
 ## Progress so far
 
-This theme has a very small amount of HTML/CSS done past the initial blocking stage
+[ this page is not up to date. Thumbnails may have a more up to date view ]
 
 ## What is the intent of this theme?
 

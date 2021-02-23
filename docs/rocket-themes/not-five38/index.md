@@ -2,4 +2,6 @@
 
 ## Progress so far
 
-This theme has a very small amount of HTML/CSS done past the initial blocking stage
+This site - webappwriter.com - is on the current version of this theme, such as it is.
+
+[ this page is not up to date. Thumbnails may have a more up to date view ]
