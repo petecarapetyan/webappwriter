@@ -100,7 +100,7 @@ So now we still have some grey areas in the form of contextual switches, but Lit
 
 If you were autistic like me, you might be exasperated by that human thing about following a large tribe. I don't read social signals very well, so I tend to rely less on feelings, more on my inadequate versions of pattern matching, like the above 3 logic gates. For some of us, compensating is the best we can come up with.
 
-So let's assume that you're not autistic. You do better with group heuristics!
+So let's assume that you're **not** autistic. You do better with group heuristics!
 
 You might ask "Which group or framework?" rather than "Which collection of stacks?".
 
