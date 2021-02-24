@@ -12,13 +12,13 @@ Corporations of all sizes had a love affair with Wordpress since 2003. But with 
 
 <img class="bordered" src="/_merged_assets/_static/images/denis-oliveira-unsplash.jpg" alt="denis-oliveira-unsplash" />
 
-Here is what I learned that [our](https://victorycto.com/) clients were looking for:
+Here is what [our](https://victorycto.com/) customers needed:
 
 - More **effortless** to add and edit content
 - Waay **less complexity**. This isn't 2003 any more, why are we still coding that way?
 - Increasingly **higher expectations** of performance _and_ mobile/offline features
-- **Doesn't require special technical skills** to manage
-- Only when desired - **_natural_ for even the most demanding app developer**
+- **Doesn't require [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) ops** to manage
+- Only when JS required - **_natural_, for even the most demanding app dev**
 
 ## What the site you are looking at _does without_
 
