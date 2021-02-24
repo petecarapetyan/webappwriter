@@ -4,7 +4,9 @@ You might be **tech-envious** when you learn how little effort goes into produci
 
 ## Background:
 
-One thing I learned from the sales and estimating in 2020 is about Wordpress and the like.
+We got a surprising number of requests for "How to move migrate from Wordpress?" in our 2020 sales and estimating counts.
+
+Why?
 
 Corporations of all sizes had a love affair with Wordpress since 2003. But with an install base of 39 million sites, there's a lot of searching for something better.
 
