@@ -3,7 +3,7 @@ module.exports = function () {
     dir: 'ltr',
     lang: 'en',
     name: 'Home',
-    description: 'webAppWriter is about how work has become better for web developers',
+    description: 'web App Writer - Exploring the frontiers of browser standards, in action',
     socialLinks: [
       {
         name: 'GitHub',
