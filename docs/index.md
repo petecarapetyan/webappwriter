@@ -7,4 +7,4 @@ This site is currently being used to test out some prototype software before it 
 
 ## Hey! Check out your _tech-envy_!
 
-Check out the [Tech-Envy article](/explore/techEnvy/) for a little insight on why a lot of the Wordpress+ market might go gaga over some of what you see here!
+Check out the [Tech-Envy article](/explore/techEnvy/) for a little insight on why a lot of the Wordpress+ market might _eventually_ go gaga over some of what you see here!
