@@ -11,17 +11,21 @@ If you're thinking you need to stick with something like WordPress just because 
 
 ## TLDR Version
 
-Couple minutes each for these 5 basic activities? Even if you could beat that with WordPress (doubtful), is 2003 WordPress tech a better choice?
+Couple minutes each for these 5 basic activities? Even if you could beat that with WordPress (doubtful), is 2003 WordPress tech _really_ a better choice?
+
+No false claims! I screen-recorded each process so you can validate any 2 task, if you suspect over-stated results.
 
 ## A Game - 5 Timed Activities
 
-The game is to do each of these from scratch, see how long it takes. _**You lose if any one thing**_ takes too long:
+The game is to do each typical task from scratch, be able to compare against WordPress for the same task. _**You lose, if any one thing**_ takes too long
+
+Hint: Each was close to 2 minutes
 
 - [New Page](/explore/raceWordPress/#new-page)
 - [Page Update](/explore/raceWordPress/#page-update)
 - [New Image](/explore/raceWordPress/#new-image)
 - [Theme Modification](/explore/raceWordPress/#theme-modification)
-- [Raw Power, at Your Fingertips](/explore/raceWordPress/#raw-power-at-your-fingertips)
+- [Complex Component](/explore/raceWordPress/#complex-component)
 
 ## New Page
 
@@ -55,13 +59,13 @@ Here's 1min 18sec to modify your theme, as an example:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RutVwezeVZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Raw Power, at Your Fingertips
+## Complex Component
 
 This _racing-WordPress game_ gets _**really**_ fun when you can add someone else's complex work straight into you Markup page.
 
 Generic web components can be as small as a text widget or as big as a whole app, all on drop in componet. 
 
-How long would it take to add a complex web component to this page?
+How long would it take to add a complex web component like this, to a page?
 
 <hex-color-picker color="#1e88e5"></hex-color-picker>
 
