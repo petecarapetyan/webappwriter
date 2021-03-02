@@ -1,5 +1,5 @@
 
-# a _New_ Site - Feb 2021!
+# Exploring the frontiers of browser based clients
 
 <img class="bordered" src="/_merged_assets/_static/images/stefano-pollio-unsplash.jpg" alt="stefano-pollio-ZC0EbdLC8G0-unsplash" />
 
