@@ -1,4 +1,4 @@
-# Race Wordpress With an SSG || 11
+# Race WordPress With an SSG || 11
 
 This assumes you are one of the 4 million people that work with these stacks as part of your daily routine:
 
@@ -7,23 +7,25 @@ This assumes you are one of the 4 million people that work with these stacks as 
 - markup
 - standard HTML
 
-If you're thinking you need to stick with something like Wordpress just because it's so fast to do the basic stuff, let's try them in an SSG like [Rocket](https://rocket.modern-web.dev/):
+If you're thinking you need to stick with something like WordPress just because it's so fast to do the basic stuff, let's try them in an SSG like [Rocket](https://rocket.modern-web.dev/):
+
+## TLDR Version
+
+Couple minutes each for these 5 basic activities? Even if you could beat that with WordPress (doubtful), is 2003 WordPress tech a better choice?
 
 ## A Game - 5 Timed Activities
 
 The game is to do each of these from scratch, see how long it takes. _**You lose if any one thing**_ takes too long:
 
-- [New Page](/explore/raceWordpress/#new-page)
-- [Page Update](/explore/raceWordpress/#new-update)
-- [New Image](/explore/raceWordpress/#new-image)
-- [Theme Modification](/explore/raceWordpress/#theme-modification)
-- [Raw Power at your fingertips]
-
-NOTE: The videos below are intended more as a proof that the tasks can be done in the time claimed.
+- [New Page](/explore/raceWordPress/#new-page)
+- [Page Update](/explore/raceWordPress/#page-update)
+- [New Image](/explore/raceWordPress/#new-image)
+- [Theme Modification](/explore/raceWordPress/#theme-modification)
+- [Raw Power, at Your Fingertips](/explore/raceWordPress/#raw-power-at-your-fingertips)
 
 ## New Page
 
-We created a new page in 2 1/2 minutes. Here's the youtube:
+We created a new page in 2 1/2 minutes. Here's the youtube used to time the racing game:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RcbsUGcifIM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -45,17 +47,41 @@ Video of above image being added in 2 minutes:
 
 ## Theme Modification
 
-"Ahah!" you say. "But what about when I need to modify my visual themes! That's where something like Wordpress really shines!"
+"Ahah!" you say. "But what about when I need to modify my visual themes! That's where something like WordPress really shines!"
 
-No need for a Wordpress UI that manages a DB that maintains properties that tell PHP how to write HTML/CSS to a client. Exhausting, just to think about, eh? This is simple dumb stuff. Just go straight to the HTML/CSS.
+No need for a WordPress UI that manages a DB that maintains properties that tell PHP how to write HTML/CSS to a client. Exhausting, just to _think_ about. This is simple dumb stuff. A good SSG should go straight to the HTML/CSS.
 
 Here's 1min 18sec to modify your theme, as an example:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RutVwezeVZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Raw Power at your fingertips
+## Raw Power, at Your Fingertips
 
-The game gets really fun when you can add someone else's work without having to fight the platform. 
+This _racing-WordPress game_ gets _**really**_ fun when you can add someone else's complex work straight into you Markup page.
 
-How long would it take to add a powerful web component where the magic was all encapsulated inside?
+Generic web components can be as small as a text widget or as big as a whole app, all on drop in componet. 
 
+How long would it take to add a complex web component to this page?
+
+<hex-color-picker color="#1e88e5"></hex-color-picker>
+
+Here's the video documenting the couple minutes that it took:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GsR2xhG9w8I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Can I Play This Game?
+
+- [Rocket](https://rocket.modern-web.dev/) is the SSG used for this site.
+- Rocket is still in pre-release, but many of us are already using in production
+- [I can help](/explore/needHelp/) if you need me for a Proof of Concept for your corporate shop.
+
+<hr>
+
+PAGE NOTES: 
+
+- _The videos shown on this page are intended more as a proof that the tasks can be done in the time claimed._
+- _Audio kinda sucks in these videos, but that's OK - because purpose was just to time the process for the game_
+
+```js script
+import 'vanilla-colorful';
+```
