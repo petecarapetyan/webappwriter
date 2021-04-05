@@ -1,37 +1,17 @@
 {
-  "name": "@webappwriter/root",
-  "private": true,
-  "license": "MIT",
-  "type": "module",
+  "name": "fixme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "rocket start",
-    "build": "rocket build",
-    "deploy": "npm run build && firebase deploy"
+    "build": "rocket build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/petecarapetyan/webappwriter.git"
-  },
-  "keywords": [
-    "rocket",
-    "markdown",
-    "ssg"
-  ],
-  "author": "Pete Carapetyan",
-  "bugs": {
-    "url": "https://github.com/petecarapetyan/webappwriter/issues"
-  },
-  "homepage": "https://webappwriter.com/rocket-themes/",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
-    "@rocket/cli": "^0.5.2",
+    "@rocket/cli": "^0.6.0",
     "@rocket/launch": "^0.4.0"
-  },
-  "workspaces": [
-    "themes/*"
-  ],
-  "dependencies": {
-    "rimraf": "^3.0.2",
-    "vanilla-colorful": "^0.5.3"
   }
 }

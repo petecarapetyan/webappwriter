@@ -1,32 +1,84 @@
 [
   {
-    "name": "Discover",
+    "name": "Theme Examples",
     "children": [
       {
-        "text": "Email Follow Up",
-        "href": "mailto:pete@datafundamentals.com"
+        "text": "not-npr",
+        "href": "https://appwriter.com"
+      },
+      {
+        "text": "not-ibm",
+        "href": "https://walktownnet.web.app/"
+      },
+      {
+        "text": "not-slashdot",
+        "href": "https://mymodelercom.web.app/"
+      },
+      {
+        "text": "not-nyt",
+        "href": "https://jukelox-7ec89.web.app/"
+      },
+      {
+        "text": "not-axios",
+        "href": "https://jeren-5de92.web.app/"
+      },
+      {
+        "text": "not-apnews",
+        "href": "https://esuyp-fb794.web.app/"
+      },
+      {
+        "text": "not-wired",
+        "href": "https://replitza.web.app/"
+      },
+      {
+        "text": "not-nyt",
+        "href": "https://jukelox-7ec89.web.app/"
+      },
+      {
+        "text": "not-next",
+        "href": "https://mulerain.web.app/"
+      },
+      {
+        "text": "not-github",
+        "href": "https://mtobwin.web.app"
+      },
+      {
+        "text": "not-fuelcell",
+        "href": "https://betterologist.web.app"
       }
     ]
   },
   {
-    "name": "Follow",
+    "name": "Actual Substance?",
     "children": [
       {
         "text": "Rocket",
-        "href": "https://github.com/modernweb-dev/rocket"
+        "href": "https://rocket.modern-web.dev/"
+      },
+      {
+        "text": "WebAppWriter",
+        "href": "https://webappwriter.com"
+      },
+      {
+        "text": "Betterology Corp",
+        "href": "https://betterology-com.web.app/"
+      },
+      {
+        "text": "Rocket Themes",
+        "href": "https://github.com/petecarapetyan/rocket-themes"
+      }
+    ]
+  },
+  {
+    "name": "Personal",
+    "children": [
+      {
+        "text": "Aspie Automator",
+        "href": "https://aspieautomator.com"
       },
       {
         "text": "My Twitter",
         "href": "https://twitter.com/appwritercom"
-      }
-    ]
-  },
-  {
-    "name": "Support",
-    "children": [
-      {
-        "text": "Contribute to Rocket",
-        "href": "https://github.com/modernweb-dev/rocket/blob/master/CONTRIBUTING.md"
       }
     ]
   }

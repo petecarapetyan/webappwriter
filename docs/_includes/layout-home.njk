@@ -2,11 +2,11 @@
 
 {% block themeBody %}
     <div class="banner rocket-content ga-head2-main">
-      <div>[adsense banner goes here]</div>
+      <p>[ad banner goes here]</p>
     </div>
 
     <div class="ga-head3-main">
-      <div class="logo-text">webAppWriter</div>
+      <div class="logo-text">{{site.name}}</div>
     </div>
 
     <header id="main-header" class="header-grid-area">
@@ -18,12 +18,12 @@
     <div class="ga-content-l"></div>
     <div class="content-grid-area">
       {% block content %}
-        {% include 'partials/_layoutSidebar/content.njk' %}
+        {% include 'partials/_layoutHome/content.njk' %}
       {% endblock content %}
     </div>
     <div class="sidebar-grid-area">
       {% block sidebar %}
-        {% include 'partials/_layoutSidebar/sidebar.njk' %}
+        {% include 'partials/_layoutHome/sidebar.njk' %}
       {% endblock sidebar %}
     </div>
     <div class="ga-content-r"></div>
