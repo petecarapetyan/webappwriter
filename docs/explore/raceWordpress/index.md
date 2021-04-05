@@ -17,7 +17,7 @@ No false claims! I screen-recorded each process so you can validate any 2 task, 
 
 ## A Game - 5 Timed Activities
 
-The game is to do each typical task from scratch, be able to compare against WordPress for the same task. _**You lose, if any one thing**_ takes too long
+The game is to do each typical task from scratch, be able to compare against WordPress for the same task. _**You lose, if any thing below**_ takes too long.
 
 Hint: Each was close to 2 minutes
 

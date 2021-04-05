@@ -13,5 +13,8 @@
   "devDependencies": {
     "@rocket/cli": "^0.6.0",
     "@rocket/launch": "^0.4.0"
+  },
+  "dependencies": {
+    "vanilla-colorful": "^0.5.3"
   }
 }

@@ -6,7 +6,7 @@ Then I can adjust the site to match what visitors seem to like better.
 
 ## Current A-B Test March 2, 2021 start
 
-- half the visitors to [the race WordPress article](/explore/raceWordPress) will see blue subheads.
+- half the visitors to [the race WordPress article](/explore/raceWordPress/) will see blue subheads.
 
 This is clearly a case of not being able to think of anything to a-b test, so I just made up something stupid to have at least one thing to test. Or, you could say I was just testing the test...
 
