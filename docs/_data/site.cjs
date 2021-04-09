@@ -7,7 +7,7 @@ module.exports = function () {
     socialLinks: [
       {
         name: 'GitHub',
-        url: 'https://github.com/petecarapetyan/webappwriter',
+        url: 'https://github.com/petecarapetyan/fins-rocket-themes/tree/main/not-five38/src/docs',
       },
     ],
     gitSiteUrl: 'https://github.com/petecarapetyan/webappwriter',
@@ -17,6 +17,6 @@ module.exports = function () {
     iconColorMaskIcon: '#3f93ce',
     iconColorMsapplicationTileColor: '#1d3557',
     iconColorThemeColor: '#1d3557',
-    socialMediaImage: '/_assets/social-media-image.jpg'
+    socialMediaImage: '/_assets/social-media-image.jpg',
   };
 };
