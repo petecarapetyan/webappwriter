@@ -12,4 +12,4 @@ pagination:
 
 # Rocket Blog
 
-fake blog content for filler:
+Discover articles from the core team and contributors about Rocket, tips and tricks included!
