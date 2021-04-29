@@ -3,7 +3,7 @@ module.exports = function () {
     dir: 'ltr',
     lang: 'en',
     name: 'Home',
-    description: 'webAppWriter is the primary site for Pete Carapetyan at the moment',
+    description: 'webAppWriter is deployed into the not-five38 fins-rocket-theme',
     socialLinks: [
       {
         name: 'GitHub',
