@@ -20,13 +20,13 @@ The pressure for something simpler is too great to resist.
 
 Assumptions about what people can do "all by themselves" can be humorous. For decades, consumers were _**never allowed to even touch**_ gas pumps. Then one day around 1980, all the gas station attendants went home for good. What happened? A year or so of "self service gas" caused the underlying assumption to fail.
 
-WordPress was invented in 2003 when people were simply not allowed to do certain things, like touch important files. But then the millenials entered the work force, now almost everyone touches important files. Turns out it wasn't all that dangerous, just like pumping gas.
+WordPress was invented in 2003 when people were simply not allowed to do certain things, like touch important files. But as the population gained more familiarity, now almost everyone touches important files. Turns out it wasn't all that dangerous, just like pumping gas.
 
 But wait. What about all that super complex server side WordPress code?
 
 ## The back pressure is intense
 
-There is _zero pressure to eliminate WordPress_ on simple sites.  So _**Billy's Blog**_ is great. Yes, it is true that WordPress is like using a sledgehammer to swat a fly, in that situation. But still, no harm, no foul.
+There is _zero pressure to eliminate WordPress_ on simple sites.  So _**Billy's Fun Blog**_  is safe. Yes, it is true that WordPress is like using a sledgehammer to swat a fly, in that situation. But still, no harm, no foul.
 
 WordPress sites with any kind of custom dynamic capability however, have been causing noticeable pain in corporate settings. _What corporate setting DOES NOT require increasingly dynamic, lightweight, one-of-a-kind, app like capabilities?_
 
@@ -34,7 +34,7 @@ You can customize WordPress with plugins, themes, and even your own code. But co
 
 ## It's the design
 
-WordPress was invented in 2003.
+Repeating for emphasis, WordPress was invented in 2003.
 
 Three takeaways from 2003-era assumptions make the WordPress market vulnerable
 
@@ -44,7 +44,7 @@ Three takeaways from 2003-era assumptions make the WordPress market vulnerable
 
 Even if these assumptions were not correct, **the assumptions support each other perfectly**. WordPress has been a tremendous success at 38m sites and growing. 
 
-And so too, with it's brothers of similar design - Drupal, Joomla, etc. The CMS made Billy's Blog possible.
+And so too, with it's brothers of similar design - Drupal, Joomla, etc. The CMS made _**Billy's Fun Blog**_  possible.
 
 ## Woops
 
@@ -59,9 +59,9 @@ Gets worse for WordPress though, because Github spent years teaching millions of
 
 - Users and admins decide that **[markdown](https://en.wikipedia.org/wiki/Markdown) is easier** than rich text for most content.
 
-Ew boy. The super complex WordPress machine is feeling a bit vulnerable, at this point. Thank goodness for WordPress, there are plugins that people really need! All that cool add-on functionality from external vendors that you just can't get anywhere else! 
+Ew boy. The super complex WordPress machine is feeling a bit vulnerable, at this point. Thank goodness, there are _**plugins**+ that people really need! All that cool add-on functionality from external vendors that you just can't get anywhere else!
 
-Then this:
+Then this, to dash all hopes for a WordPress survival strategy:
 
 - Vendors like Shopify start releasing their Wordpress plugin **functionality as [simpler javascript libraries and REST APIs](https://www.npmjs.com/package/shopify-cartjs)**.
 
@@ -75,7 +75,7 @@ The last blow happened, when vendors like [Netlify](https://www.netlify.com/jams
 
 Saying "[SSGs](https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators) and/or [JAMstack](https://jamstack.org/)" is like saying "coffee shop."  There are half as many variations on the coffee shop, as there are corners to put them on.
 
-If you're looking for the cliff notes version on what SSG or JAMstack is, think **"Not WordPress or similar heavyweight CMS"** and you may get close enough for this article.
+I'm intentionally glossing over a discussion on SSG or JAMstack just to save that for another article. Maybe think **"Not WordPress or similar heavyweight CMS"** and it's close enough for now, if you don't want to follow the links above.
 
 So here is the main point. **You cannot expect** corporations around the world to keep consuming WordPress and the like, when it is more trouble than it is worth, and millennials and younger are the primary workforce. It's just not going to happen, at least not forever.
 
@@ -84,7 +84,7 @@ One corporate department at a time, the millennials will bring in SSGs and JAMst
 And most importantly, the world will be a better place. Because the CMS is a variation on a [Rube Goldberg machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine), at this point. We have enough of those to support, already.
 
 _**Full Disclosure**_  
-The boomer :) author of this blog makes his living supporting [a variation of a JAMstack](https://github.com/petecarapetyan/fins-rocket-themes#readme). So opinions expressed above are _anything but_ objective.
+I make my living supporting [a variation of a JAMstack](https://github.com/petecarapetyan/fins-rocket-themes#readme). So opinions expressed above are _anything but_ objective.
 
 If you like this article, _thank any of the thousands(?) of tireless contributors_ to open source SSGs all over the world.
 
