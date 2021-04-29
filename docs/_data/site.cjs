@@ -18,6 +18,6 @@ module.exports = function () {
     iconColorMsapplicationTileColor: '#1d3557',
     iconColorThemeColor: '#1d3557',
     analyticsUA: 'UA-52870008-2',
-    analyticsGA4: '262817874'
+    analyticsGA4: 'G-36EWBZYBZ7'
   };
 };
