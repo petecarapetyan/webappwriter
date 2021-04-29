@@ -2,8 +2,8 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'sevenSixteen',
-    description: 'not-five38 is a customizeable theme, for the Rocket SSG',
+    name: 'Home',
+    description: 'webAppWriter is the primary site for Pete Carapetyan at the moment',
     socialLinks: [
       {
         name: 'GitHub',
@@ -18,6 +18,7 @@ module.exports = function () {
     iconColorMsapplicationTileColor: '#1d3557',
     iconColorThemeColor: '#1d3557',
     socialMediaImage: '/_assets/social-media-image.jpg',
-    // analytics: 'UA-131782693-2',
+    analyticsUA: 'ua-1234',
+    analyticsGA4: '1234'
   };
 };
