@@ -53,13 +53,15 @@ What happens if
 - Users and admins decide that it's **OK to touch files**.
 - Users and admins assemble pages with boilerplate code **before loading onto servers**.
 
-Gosh. Everything was going fine, and now all of a sudden everything is so simple! We had this giant machine, and now you're doing it the easy way. Seems like cheating.
+Gosh. Everything was going fine for WordPress, and now all of a sudden everything is so simple! We had this giant machine, and now you're doing it the easy way. Seems like cheating.
 
-Gets worse though, because Github spent years teaching millions of users that you can use [markdown](https://guides.github.com/features/mastering-markdown/) to write really decent content in minutes, if not seconds.
+Gets worse for WordPress though, because Github spent years teaching millions of users that you can use [markdown](https://guides.github.com/features/mastering-markdown/) to write really decent content in minutes, if not seconds.
 
 - Users and admins decide that **[markdown](https://en.wikipedia.org/wiki/Markdown) is easier** than rich text for most content.
 
-Ew boy. The super complex WordPress machine is feeling a bit vulnerable, at this point. Thank goodness, there are WordPress plugins! All that cool add-on functionality from external vendors that you just can't get anywhere else! Then this:
+Ew boy. The super complex WordPress machine is feeling a bit vulnerable, at this point. Thank goodness for WordPress, there are plugins that people really need! All that cool add-on functionality from external vendors that you just can't get anywhere else! 
+
+Then this:
 
 - Vendors like Shopify start releasing their Wordpress plugin **functionality as [simpler javascript libraries and REST APIs](https://www.npmjs.com/package/shopify-cartjs)**.
 
