@@ -7,19 +7,21 @@ Your response is probably obvious!
 
 _**Depends on what the legacy stacks were replaced with!**_
 
-## This site follows the more basic, but latest iterations of web standards.
+## This site takes advantage of the more basic, but latest iterations of browser standards
 
 - An exemplary SSG implementation
 - PWAs in general
 - Lit, Firebase, Netlify, other helpful vendors
 - more
 
+Still ignoring most of the usual beautification issues on this theme, perhaps you'll see some of that here by 2022.
+
 ## Escaping the WordPress Doom Loop
+
+2021 is all about site migrations, for me. The big dog here, is WordPress.
 
 For 38+ million sites, WordPress makes it all possible! Not to be underestimated, in it's power and capability.
 
-For some very small percentage of the 38 million - myself included - the love affair is long since over.
+[Here is my latest post](https://www.linkedin.com/pulse/wordpress-go-way-dodo-bird-pete-carapetyan) that attempts to pin WordPress into the legacy apps category.
 
-For us, WordPress is a like an infinite loop that keeps finding it's way back into our program. Instead of enabling us, it becomes a massively complex and even slower performing approach to doing something simple and inherently easy.
-
-Check out the [Tech-Envy article](/explore/techEnvy/) for a little insight on why a lot of the Wordpress+ market might _eventually_ go gaga over some of what you see here!
+Or, check out the previously written [Tech-Envy article](/explore/techEnvy/) for a little insight on why a lot of the Wordpress+ market might _eventually_ go gaga over some of what you see here!

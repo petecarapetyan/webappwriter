@@ -1,5 +1,11 @@
 # Fins || 10
 
+This entire section is months behind the progress of the actual themes.
+
+Everything below was written in January 2021, see the [actual deployed themes linked here](https://github.com/petecarapetyan/fins-rocket-themes#readme) for a more realistic view than what is written below.
+
+---
+
 Hey! [Thumbnails](/rocket-themes/all/thumbnails/) or even [Installation](/rocket-themes/all/installation/) is where to go if you want the eye-candy or dev view.
 
 ## Fins - a collection of Rocket Themes
