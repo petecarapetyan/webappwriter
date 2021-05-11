@@ -10,6 +10,6 @@ pagination:
   alias: posts
 ---
 
-# WebAppWriter Blog
+# Rocket Blog
 
-Articles
+Discover articles from the core team and contributors about Rocket, tips and tricks included!
