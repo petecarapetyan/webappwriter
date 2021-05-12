@@ -1,13 +1,7 @@
-# webappwriter
+# webAppWriter
 
-A future site for exploring the web as a performance spec
+This repo is a personalized/customized version of [the not-five38 fins-rocket-theme](https://github.com/petecarapetyan/fins-rocket-themes/blob/main/not-five38/src/docs/) code.
 
-## As deployed
+## For more information on fins-rocket-themes
 
-https://webappwriter.com
-
-## Rocket themes:
-
-Themes for [rocket](https://rocket.modern-web.dev/) are the current focus of this work.
-
-If you're an HTML/CSS nerd, you can visit [these themes](https://webappwriter.com/rocket-themes/all/thumbnails/) as a work in progress. Current status of these themes is **Proof of Concept** only.
+This and other `fins-rocket-themes` are discussed [here](https://webappwriter.com/rocket-themes/) in more detail.

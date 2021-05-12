@@ -6,6 +6,9 @@ _site/
 _site-dev/
 later/
 
+deploy.sh
+lastPushed.txt
+
 #firebase
 .firebase
 .firebaserc
