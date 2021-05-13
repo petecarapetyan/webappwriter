@@ -4,8 +4,10 @@ docs/_merged_assets/
 docs/_merged_includes/
 _site/
 _site-dev/
-later/
 
+later/
+uploaded/
+toUpload/
 deploy.sh
 lastPushed.txt
 
