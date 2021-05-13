@@ -43,7 +43,7 @@ We updated the page with the above video, took a couple minutes.
 
 How long would it take to add this new image?
 
-<img class="bordered" src="/_merged_assets/_static/images/sabri-tuzcu-unsplash.jpg" alt="sabri-tuzcu-unsplash" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/sabri-tuzcu-unsplash.jpg" alt="sabri-tuzcu-unsplash" />
 
 Video of above image being added in 2 minutes:
 

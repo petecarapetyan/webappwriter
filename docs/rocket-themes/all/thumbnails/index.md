@@ -6,15 +6,15 @@ _Rocket themes is in Proof of Concept status. Shown below, themes in order of mo
 
 From this [archetype](https://ibm.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-ibm-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-ibm-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This CSS grid area layout:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-ibm-grid-area.jpg" alt="not-ibm theme grid layout" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-ibm-grid-area.jpg" alt="not-ibm theme grid layout" />
 
 #### This modest starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-ibm-screenshot.jpg" alt="not-ibm theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-ibm-screenshot.jpg" alt="not-ibm theme screenshot" />
 
 Try [not-ibm starter theme](/rocket-themes/not-ibm/)
 
@@ -24,15 +24,15 @@ Try [not-ibm starter theme](/rocket-themes/not-ibm/)
 
 From this [archetype](https://fivethirtyeight.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-five38-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-five38-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This CSS grid area layout:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-five38-grid-area.jpg" alt="not-five38 theme grid layout" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-five38-grid-area.jpg" alt="not-five38 theme grid layout" />
 
 #### This modest starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-five38-screenshot.jpg" alt="not-five38 theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-five38-screenshot.jpg" alt="not-five38 theme screenshot" />
 
 Try [not-five38 starter theme](/rocket-themes/not-five38/)
 
@@ -42,15 +42,15 @@ Try [not-five38 starter theme](/rocket-themes/not-five38/)
 
 From this [archetype](https://https://rocket.modern-web.dev//):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-rocket-archetype.jpg" alt="rocket.modern-web.dev screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-rocket-archetype.jpg" alt="rocket.modern-web.dev screenshot" />
 
 #### This CSS grid area layout:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-rocket-grid-area.jpg" alt="not-rocket theme grid layout" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-rocket-grid-area.jpg" alt="not-rocket theme grid layout" />
 
 #### This modest starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-rocket-screenshot.jpg" alt="not-rocket theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-rocket-screenshot.jpg" alt="not-rocket theme screenshot" />
 
 Try [not-rocket starter theme](/rocket-themes/not-rocket/)
 
@@ -60,15 +60,15 @@ Try [not-rocket starter theme](/rocket-themes/not-rocket/)
 
 From this [archetype](https://alphabet.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-alphabet-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-alphabet-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-alphabet-grid-area.jpg" alt="not-alphabet theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-alphabet-grid-area.jpg" alt="not-alphabet theme grid-area" />
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-alphabet-screenshot.jpg" alt="not-alphabet theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-alphabet-screenshot.jpg" alt="not-alphabet theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -78,15 +78,15 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://apnews.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-apnews-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-apnews-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-apnews-grid-area.jpg" alt="not-apnews theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-apnews-grid-area.jpg" alt="not-apnews theme screenshot" />
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-apnews-screenshot.jpg" alt="not-apnews theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-apnews-screenshot.jpg" alt="not-apnews theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -96,16 +96,16 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://axios.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-axios-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-axios-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-axios-grid-area.jpg" alt="not-axios theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-axios-grid-area.jpg" alt="not-axios theme grid-area" />
 
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-axios-screenshot.jpg" alt="not-axios theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-axios-screenshot.jpg" alt="not-axios theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -115,16 +115,16 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://codesign.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-codesign-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-codesign-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-codesign-grid-area.jpg" alt="not-codesign theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-codesign-grid-area.jpg" alt="not-codesign theme grid-area" />
 
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-codesign-screenshot.jpg" alt="not-codesign theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-codesign-screenshot.jpg" alt="not-codesign theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -134,16 +134,16 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://fuelcell.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-fuelcell-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-fuelcell-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-fuelcell-grid-area.jpg" alt="not-fuelcell theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-fuelcell-grid-area.jpg" alt="not-fuelcell theme grid-area" />
 
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-fuelcell-screenshot.jpg" alt="not-fuelcell theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-fuelcell-screenshot.jpg" alt="not-fuelcell theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -153,16 +153,16 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://github.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-github-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-github-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-github-grid-area.jpg" alt="not-github theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-github-grid-area.jpg" alt="not-github theme grid-area" />
 
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-github-screenshot.jpg" alt="not-github theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-github-screenshot.jpg" alt="not-github theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -172,16 +172,16 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://next.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-next-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-next-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-next-grid-area.jpg" alt="not-next theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-next-grid-area.jpg" alt="not-next theme grid-area" />
 
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-next-screenshot.jpg" alt="not-next theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-next-screenshot.jpg" alt="not-next theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -191,16 +191,16 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://npr.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-npr-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-npr-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-npr-grid-area.jpg" alt="not-npr theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-npr-grid-area.jpg" alt="not-npr theme grid-area" />
 
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-npr-screenshot.jpg" alt="not-npr theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-npr-screenshot.jpg" alt="not-npr theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -210,16 +210,16 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://nyt.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-nyt-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-nyt-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-nyt-grid-area.jpg" alt="not-nyt theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-nyt-grid-area.jpg" alt="not-nyt theme grid-area" />
 
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-nyt-screenshot.jpg" alt="not-nyt theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-nyt-screenshot.jpg" alt="not-nyt theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -229,16 +229,16 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://optimize.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-optimize-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-optimize-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-optimize-grid-area.jpg" alt="not-optimize theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-optimize-grid-area.jpg" alt="not-optimize theme grid-area" />
 
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-optimize-screenshot.jpg" alt="not-optimize theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-optimize-screenshot.jpg" alt="not-optimize theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -248,16 +248,16 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://reddit.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-reddit-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-reddit-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-reddit-grid-area.jpg" alt="not-reddit theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-reddit-grid-area.jpg" alt="not-reddit theme grid-area" />
 
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-reddit-screenshot.jpg" alt="not-reddit theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-reddit-screenshot.jpg" alt="not-reddit theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -267,16 +267,16 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://slashdot.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-slashdot-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-slashdot-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-slashdot-grid-area.jpg" alt="not-slashdot theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-slashdot-grid-area.jpg" alt="not-slashdot theme grid-area" />
 
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-slashdot-screenshot.jpg" alt="not-slashdot theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-slashdot-screenshot.jpg" alt="not-slashdot theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -286,16 +286,16 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://virgin.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-virgin-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-virgin-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-virgin-grid-area.jpg" alt="not-virgin theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-virgin-grid-area.jpg" alt="not-virgin theme grid-area" />
 
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-virgin-screenshot.jpg" alt="not-virgin theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-virgin-screenshot.jpg" alt="not-virgin theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -305,16 +305,16 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://wikipedia.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-wikipedia-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wikipedia-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-wikipedia-grid-area.jpg" alt="not-wikipedia theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wikipedia-grid-area.jpg" alt="not-wikipedia theme grid-area" />
 
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-wikipedia-screenshot.jpg" alt="not-wikipedia theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wikipedia-screenshot.jpg" alt="not-wikipedia theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -324,16 +324,16 @@ Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
 From this [archetype](https://wired.com/):
 
-<img class="bordered" src="/_merged_assets/_static/images/not-wired-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wired-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-wired-grid-area.jpg" alt="not-wired theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wired-grid-area.jpg" alt="not-wired theme grid-area" />
 
 
 #### This incomplete starter theme:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-wired-screenshot.jpg" alt="not-wired theme screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wired-screenshot.jpg" alt="not-wired theme screenshot" />
 
 Try [how to complete a partially finished theme](/rocket-themes/incomplete/)
 
@@ -352,13 +352,13 @@ It is expected that you might wish to modify this theme later to suit your needs
 
 #### This general idea, currently:
 
-<img class="bordered" src="/_merged_assets/_static/images/any-sidebar-archetype.jpg" alt="internal page screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/any-sidebar-archetype.jpg" alt="internal page screenshot" />
 
 #### This grid area blocking:
 
-<img class="bordered" src="/_merged_assets/_static/images/any-sidebar-grid-area.jpg" alt="any-sidebar theme grid-area" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/any-sidebar-grid-area.jpg" alt="any-sidebar theme grid-area" />
 
 
 #### This current status for themes above:
 
-<img class="bordered" src="/_merged_assets/_static/images/any-sidebar-screenshot.jpg" alt="internal page theme" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/any-sidebar-screenshot.jpg" alt="internal page theme" />

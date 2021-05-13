@@ -1,7 +1,7 @@
 
 # The Sweet Spot || 20
 
-<img class="bordered" src="/_merged_assets/_static/images/webSweetSpot.svg" alt="FiveThirtyEight.com screenshot" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/webSweetSpot.svg" alt="FiveThirtyEight.com screenshot" />
 
 **2 line Summary:**
 
@@ -13,7 +13,7 @@ What's left is _delivering results_. Whodathunkit?
 
 I wrote this as my lead article. Somehow, the tone just didn't work. 
 
-<img class="bordered" src="/_merged_assets/_static/images/alexis-mora-angulo-unsplash.jpg" alt="alexis-mora-angulo-Y7I2hDozX2k-unsplash" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/alexis-mora-angulo-unsplash.jpg" alt="alexis-mora-angulo-Y7I2hDozX2k-unsplash" />
 
 I'm going to let article remain as fluff, at least, for the moment. _**Article continues, below:**_
 
@@ -33,7 +33,7 @@ A framework included all that stuff that the language and the browser standard d
 
 That's why "better" isn't necessarily better.
 
-<img class="bordered" src="/_merged_assets/_static/images/cowboys.jpg" alt="cowboys" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/cowboys.jpg" alt="cowboys" />
 
 Abusing a racist metaphor from the American West - _"Cowboys and Indians"_ has made up movie plots, childhood games, and more. Let's try it on for it's visceral impact:
 
@@ -53,7 +53,7 @@ Hey! That's me! I spent decades coding almost everything exclusively on the back
 
 I bring it up here only to illustrate a natural preference. _**When my first concern is maintaining my current routine**_, rather than the abstraction of a better experience for my customer!
 
-<img class="bordered" src="/_merged_assets/_static/images/sea.jpg" alt="sea" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/sea.jpg" alt="sea" />
 
 "Better" in the context of this article **does not include the objective of** _"not having to learn client side, rather than server side processing"_. Nor does it include the popular convenience of _protecting developers from having to learn new HTML standards._ WebAppWriter is all about identifying the **better experience for the customer**, as a baseline.
 
@@ -94,7 +94,7 @@ We need a quick set of logic gates or filters to test, in the face of what feels
 The proposal here is that these 3 tests give us instantaneous answers, even if they are always changing.
 
 So now we still have some grey areas in the form of contextual switches, but Little Red Ridng Hood now has a safe route to grandma's house, and it's not just "which tribe am I in?" any more.
-<img class="bordered" src="/_merged_assets/_static/images/science.jpg" alt="science" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/science.jpg" alt="science" />
 
 ## Downstream takeaway: OWC
 
@@ -137,7 +137,7 @@ What you might like about Rocket, once it is offically released, is that it's bu
 Much as I'd like to drag you through a word salad extolling the 100 ways to illustrate where Rocket does that for you, how about, not?
 
 Rocket lets you focus on the your content (or your app) as React or Wordpress or other great ecosystems do. To validate, search for your area of interest around 11ty, Markup, buildless web, Web Components, Lit, and all the other pieces that Rocket automates for you. Or even, just browse through the code for yourself.
-<img class="bordered" src="/_merged_assets/_static/images/peeps.jpg" alt="peeps" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/peeps.jpg" alt="peeps" />
 
 I'll even go one further. _**If it's just static sites, you don't even have to be a much of a dev.**_ Only _**git, npm, Markdown skills**_ are required - that could be enough for a Rocket site. But that's a topic for another day.
 

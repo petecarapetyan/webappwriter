@@ -10,7 +10,7 @@ Why?
 
 Corporations of all sizes had a love affair with Wordpress since 2003. But with an install base of 39 million sites, there's a lot of searching for something better.
 
-<img class="bordered" src="/_merged_assets/_static/images/denis-oliveira-unsplash.jpg" alt="denis-oliveira-unsplash" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/denis-oliveira-unsplash.jpg" alt="denis-oliveira-unsplash" />
 
 Here is what [our](https://victorycto.com/) customers needed:
 
@@ -48,6 +48,6 @@ More:
 - Source visible on [github](https://github.com/petecarapetyan/webappwriter)
 - More on [Jamstack](https://jamstack.org/) or [wikipedia/netlify/JAMstack](https://en.wikipedia.org/wiki/Netlify#Jamstack)
 
-<img class="bordered" src="/_merged_assets/_static/images/juan-encalada-unsplash.jpg" alt="juan-encalada-_ENQdIjyPcA-unsplash" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/juan-encalada-unsplash.jpg" alt="juan-encalada-_ENQdIjyPcA-unsplash" />
 
 This is page is just an introductory blurb. The intent is to provide updated information, as 2021 rolls on.

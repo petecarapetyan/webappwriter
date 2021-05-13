@@ -15,7 +15,7 @@ We have 3 specific parts of any page that interact with rocket code in a rather 
 
 You can think about how rocket fits in with the rest of your theme graphically, by color coding the CSS grid areas:
 
-<img class="bordered" src="/_merged_assets/_static/images/not-five38-grid-area-1000.jpg" alt="Example of the 3 areas" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-five38-grid-area-1000.jpg" alt="Example of the 3 areas" />
 
 Summarizing, it this were a straight 11ty or even HTML theme, everything above would be blue, giving you a bit more freedom (and responsibility)
 

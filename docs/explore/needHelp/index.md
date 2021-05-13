@@ -12,7 +12,7 @@ Proof of Concept packages for your company might start at $1000 USD
 - Hand-holding and context shifting for your staff
 - Or, keep your staff on task with their current workload.
 
-<img class="bordered" src="/_merged_assets/_static/images/rosie-kerr-unsplash.jpg" alt="rosie-kerr-DoUUDaNwHJM-unsplash" />
+<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/rosie-kerr-unsplash.jpg" alt="rosie-kerr-DoUUDaNwHJM-unsplash" />
 
 ## Hourly
 
