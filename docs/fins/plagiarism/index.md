@@ -1,4 +1,4 @@
-# All >> Archetypes vs Plaigerism || 90
+# Archetypes vs Plaigerism || 90
 
 _**Popular sites were referenced for the first themes**_ as a means of sticking to well recognize design patterns.
 

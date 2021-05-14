@@ -1,4 +1,6 @@
-# All >> Grid Based || 50
+# Grid Based || 50
+
+I was anything but religious in my attempts to mimic the original site accurately. Close enough...
 
 These themes are all built around CSS grid, or more specifically CSS grid areas.
 

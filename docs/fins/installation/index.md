@@ -1,4 +1,4 @@
-# All >> Installation || 20
+# Installation || 20
 
 ## Finished themes? Or starter/customizeable?
 
@@ -19,7 +19,7 @@ Read on, if you're still interested in pursuing, as is.
 
 First, for rocket newbies, the high-level on what we're going to do. 
 
-_[There's an 30 second way to do it below](/rocket-themes/all/installation/#one-cli-command-instead), but this is for when you want to know what it's doing, before you skip to the automated script._
+_[There's an 30 second way to do it below](/fins/installation/#one-cli-command-instead), but this is for when you want to know what it's doing, before you skip to the automated script._
 
 - Install the basic 5 required files into your new rocket project, just like you would any other rocket project.
 - Install some extra folders of markdown files so you'll have some actual content to navigate to when you try out the new theme. Again, same as you would do with any rocket project.

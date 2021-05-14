@@ -163,7 +163,7 @@ When Rocket releases later this year, you might conclude that it's a bit like wh
 
 You can customize it, sure, but it's not a trivial affair like dropping in WordPress or Drupal themes would be.
 
-So I started coding up 18 or so Rocket themes. [Fins](/Rocket-themes/) They aren't very far along as themes go, but it at least exercises the process and helps us get started. Your reading the [**not-five38 theme**](/rocket-themes/not-five38/), now, such as it is. [Take a walk through...](/rocket-themes/all/thumbnails/)
+So I started coding up 18 or so Rocket themes. [Fins](/Rocket-themes/) They aren't very far along as themes go, but it at least exercises the process and helps us get started. Your reading the [**not-five38 theme**](/rocket-themes/not-five38/), now, such as it is. [Take a walk through...](/fins/thumbnails/)
 
 <hr>
 

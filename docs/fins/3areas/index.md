@@ -1,4 +1,4 @@
-# All >> 3 rocket areas || 20
+# 3 rocket areas || 20
 
 ## The rocket value proposition
 
@@ -27,7 +27,7 @@ Central to any rocket theme is the interaction of these 3 _**rocket specific**_ 
 
 Meaning _**these grid areas coordinate closely with rocket code**_, all other areas belong solely to the theme itself.
 
-_"Area"_ here denotes those [grid-areas](/rocket-themes/all/grid/) within the `_assets/grid-area-layout.css`
+_"Area"_ here denotes those [grid-areas](/fins/grid/) within the `_assets/grid-area-layout.css`
 
 Repeating for emphasis, your theme is entirely fresh and original. Nothing to do with rocket, specifically. _**Except**_ those 3 rocket grid areas.
 

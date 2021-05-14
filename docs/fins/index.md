@@ -6,7 +6,7 @@ Everything below was written in January 2021, see the [actual deployed themes li
 
 ---
 
-Hey! [Thumbnails](/rocket-themes/all/thumbnails/) or even [Installation](/rocket-themes/all/installation/) is where to go if you want the eye-candy or dev view.
+Hey! [Thumbnails](/fins/thumbnails/) or even [Installation](/fins/installation/) is where to go if you want the eye-candy or dev view.
 
 ## Fins - a collection of Rocket Themes
 
@@ -33,7 +33,7 @@ Now, I've got their attention. Seems silly, but heh, _at least the conversation 
 
 It also might be possible that the biggest single factor to Wordpress's success - [currently 38% of the internet](https://kinsta.com/wordpress-market-share/) - is themes? [It's hard to know.](https://en.wikipedia.org/wiki/WordPress#History) 
 
-I created [these starter themes](/rocket-themes/all/thumbnails/) as one way to allow rocket to eventually grow into some of those same markets that would otherwise be unavailable to it.
+I created [these starter themes](/fins/thumbnails/) as one way to allow rocket to eventually grow into some of those same markets that would otherwise be unavailable to it.
 
 ## Proving out theme-ability
 
@@ -71,4 +71,4 @@ Forking off of someone else's fork is always a questionable affair. Themes are n
 
 What happens when a theme is improved by it's author? Sorry, you already forked. Reconciling that new delta is now a manual affair.
 
-More about how to stay safe in this context, [here](/rocket-themes/all/3areas/#careful-delination-of-theme-vs-rocket-files)
+More about how to stay safe in this context, [here](/fins/3areas/#careful-delination-of-theme-vs-rocket-files)

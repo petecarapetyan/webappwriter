@@ -1,7 +1,7 @@
 
 # What could you accomplish, without the burden of legacy stacks?
 
-<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/stefano-pollio-unsplash.jpg" alt="stefano-pollio-ZC0EbdLC8G0-unsplash" />
+<img src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/stefano-pollio-unsplash.jpg" alt="stefano-pollio-ZC0EbdLC8G0-unsplash" />
 
 Your response is probably obvious! 
 

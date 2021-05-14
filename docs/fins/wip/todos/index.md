@@ -1,4 +1,4 @@
-# All >> Work In Progress >> TODOS || 20
+# Work In Progress >> TODOS || 20
 
 This is a list of things that is not even on the WIP list yet.
 

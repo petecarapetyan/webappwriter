@@ -1,4 +1,4 @@
-# All >> Work In Progress || 20
+# Work In Progress || 20
 
 ## General Status Recap
 
