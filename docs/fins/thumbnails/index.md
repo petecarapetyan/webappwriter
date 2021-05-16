@@ -1,6 +1,6 @@
 # Choosing a Theme || 10
 
-_Be sure to consult [I &hearts; HTML req](/fins/html/) before committing to a Fins - Rocket Theme_
+_Be sure to consult [I Heart HTML req](/fins/html/) before committing to a Fins - Rocket Theme_
 
 All themes are always considered incomplete, unlike WordPress themes, where the owner is not expected to jump in and adjust the HTML/CSS
 
@@ -182,7 +182,7 @@ From this [archetype](https://next.com/):
 
 #### Live Working Demo Site With Content:
 
-[not-next demo](bar)
+[not-next demo](https://mulerain.web.app/)
 
 #### Lighthouse Score May 2021:
 

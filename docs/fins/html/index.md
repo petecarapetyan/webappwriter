@@ -1,8 +1,8 @@
-# I &hearts; HTML req || 30
+# I Heart HTML req || 30
 
-Do these themes come with an _**I &hearts; HTML/CSS pre-requirement?**_
+Do these themes come with an _**I Heart HTML/CSS pre-requirement?**_
 
-The answer is "maybe yes, if by _"I &hearts; HTML"_ you mean _"this is not the WordPress market"_"
+The answer is "maybe yes, if by _"I Heart HTML"_ you mean _"this is not the WordPress market"_"
 
 **TL;DR:** Fins-rocket-themes are for coders who want to code something else besides their own sites. These themes are not intended for teams that don't have at least one vaguely-HTML-coder.
 
@@ -37,7 +37,7 @@ And we're not afraid of cracking open a file and changing something, because we 
 
 We still want to share themes, just maybe not spend a few weeks writing our entire site from scratch.
 
-## Examples of What You &hearts; to Customize
+## Examples of What You Heart to Customize
 
 - You surely want to change the colors of your site in `variables.css`
 - You probably want to change how the layout works - at least a little bit - on the home page
