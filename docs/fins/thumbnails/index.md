@@ -1,6 +1,6 @@
 # Choosing a Theme || 10
 
-_Be sure to consult [I Heart HTML req](/fins/html/) before committing to a Fins - Rocket Theme_
+_Be sure to consult [I ♥ HTML req](/fins/html/) before committing to a Fins - Rocket Theme_
 
 All themes are always considered incomplete, unlike WordPress themes, where the owner is not expected to jump in and adjust the HTML/CSS
 
