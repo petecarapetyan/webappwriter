@@ -1,11 +1,9 @@
 
-# What could you accomplish, without the burden of legacy stacks?
+# What could you accomplish, without legacy stacks?
 
 <img src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/stefano-pollio-unsplash.jpg" alt="stefano-pollio-ZC0EbdLC8G0-unsplash" />
 
-Your response is probably obvious! 
-
-_**Depends on what the legacy stacks were replaced with!**_
+You might respond with _**"Depends on what the legacy stacks were replaced with!**_
 
 ## This site takes advantage of the more basic, but latest iterations of browser standards
 

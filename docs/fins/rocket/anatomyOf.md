@@ -1,8 +1,54 @@
-# 3 rocket areas || 20
+# Rocket >> Anatomy of || 20
+
+_Rocket is an SSG based on 11ty which is a JAMstack and then rocket contributes it's own additional functionality._ **Oh my.** What a mouthful.
+
+If we wanted to take this apart a bit, so we can understand which piece is contributed by which other piece, how would we do this?
+
+First, let's try an outline form:
+
+- Rocket
+- - 11ty
+- - - JAMstack
+- - - - SSG
+- - Modern web server
+- - javascript imports
+- - Markdown plugin
+- - Rocket Navigation
+- - - urls via 11ty
+- - - menuing via Rocket
+- - Rocket Drawer
+- - - Lion Drawer
+- - - automatic sidebar
+- - Links checking
+- - Search
+- - Blog
+- - default Rocket HTML theme
+- Fins-rocket-themes
+- - yada HTML theme
+
+OK, now that we see this all split out, we can see that this is way too much information. How can it be more digestible?
+
+One approach is to simply ask _"Why not just use 11ty?"_
 
 ## The rocket value proposition
 
-If you want to understand rocket-themes, first you need to understand a primary functionality that rocket gives you over plain 11ty or SSG in general:
+_"Why not just use 11ty?"_ 
+
+As you can see above, Rocket integrates a ton of stuff for you that you could do yourself with 11ty, if you wanted to work that hard.
+
+- Search
+- Blog
+- Server
+- Link checker
+- etc
+
+So I'm going to focus on 3 of the biggest wins, instead:
+
+- javascript
+- Markdown plugin
+- Menus!!!
+
+yada
 
 - You maintain the content in markdown
 - **Rocket maintains the navigation** to that content automagically in
@@ -89,7 +135,7 @@ Anything goes in this area - go wild! Or be conservative. It's yours.
   - _assets/_static ...
   - _data ...
 
-## Careful delination of theme vs rocket files
+## Careful deliniation of theme vs rocket files
 
 Everything discussed on this page assumes a very careful and agreed upon deliniation of what files are in themes, and what files are not in themes by default.
 

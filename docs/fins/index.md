@@ -1,10 +1,7 @@
 # Fins || 10
 
-This entire section is months behind the progress of the actual themes.
 
-Everything below was written in January 2021, see the [actual deployed themes linked here](https://github.com/petecarapetyan/fins-rocket-themes#readme) for a more realistic view than what is written below.
-
----
+_You might find that these themes are the last mile in a long journery yada_
 
 Hey! [Thumbnails](/fins/thumbnails/) or even [Installation](/fins/installation/) is where to go if you want the eye-candy or dev view.
 
@@ -13,7 +10,7 @@ Hey! [Thumbnails](/fins/thumbnails/) or even [Installation](/fins/installation/)
 - [x] Default rocket is simple/dumb/fast to use
 - [ ] Default rocket fits my use case
 
-You gotta check _**both**_ boxes. That's a pass fail.
+If you checked the first box, but you're still not sure about the second box because your use case is themed differently than the default rocket, one of these themes might help!
 
 ## TLDR, below
 
@@ -71,4 +68,4 @@ Forking off of someone else's fork is always a questionable affair. Themes are n
 
 What happens when a theme is improved by it's author? Sorry, you already forked. Reconciling that new delta is now a manual affair.
 
-More about how to stay safe in this context, [here](/fins/3areas/#careful-delination-of-theme-vs-rocket-files)
+For more about how to stay safe in this context, [here](/fins/rocket/anatomyOf/#careful-deliniation-of-theme-vs-rocket-files)

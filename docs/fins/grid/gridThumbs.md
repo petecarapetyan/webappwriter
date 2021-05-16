@@ -1,8 +1,8 @@
-# Grid Thumbnails || 10
+# Grid Based >> Grid Thumbnails ||60
 
-These layout screenshots demo CSS grids used to lay out the fins-rocket-themes.
+These screenshots demo CSS grids - used to lay out the fins-rocket-themes.
 
-Since grid hasn't gained mass popularity yet, showing the layout gives the potential user some means of evaluating the approach for this use case.
+Since CSS grid hasn't gained mass popularity yet, showing the layout gives the prospective user some means of evaluating the approach for this use case.
 
 ## errata
 

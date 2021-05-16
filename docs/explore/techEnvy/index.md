@@ -43,7 +43,7 @@ The site you are looking at is created in a pre-release version of [Rocket](http
 More:
 
 - Rocket is built on the SSG of [11ty](https://www.11ty.dev/), and other well regarded stacks.
-- Separately, there are 18 [Rocket themes](/rocket-themes/) in active development by yours truly - including [the theme you are currently viewing](/fins/thumbnails/#not-five38-theme).
+- Separately, there are 18 [Fins - Rocket themes](/fins/) in active development by yours truly - including [the theme you are currently viewing](/fins/thumbnails/#not-five38-theme).
 - Deployed for free, on a CDN, at [Netlify](https://www.netlify.com/)
 - Source visible on [github](https://github.com/petecarapetyan/webappwriter)
 - More on [Jamstack](https://jamstack.org/) or [wikipedia/netlify/JAMstack](https://en.wikipedia.org/wiki/Netlify#Jamstack)

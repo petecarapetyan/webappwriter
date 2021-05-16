@@ -1,6 +1,8 @@
-# Thumbnails || 10
+# Choosing a Theme || 10
 
-_Fins-rocket-themes are designed to be incomplete, as delivered. Consumers would eagerly desire the addition of their own HTML/CSS to implement a site._
+_Be sure to consult [I &hearts; HTML req](/fins/html/) before committing to a Fins - Rocket Theme_
+
+All themes are always considered incomplete, unlike WordPress themes, where the owner is not expected to jump in and adjust the HTML/CSS
 
 ## not-alphabet theme
 
@@ -8,9 +10,13 @@ From this [archetype](https://alphabet.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-alphabet-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-alphabet-screenshot.jpg" alt="not-alphabet theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[AspieAutomator site](https://aspieautomator.com/)
 
 #### Lighthouse Score May 2021:
 
@@ -24,9 +30,13 @@ From this [archetype](https://apnews.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-apnews-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-apnews-screenshot.jpg" alt="not-apnews theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[not-apnews demo](https://esuyp-fb794.web.app/)
 
 #### Lighthouse Score May 2021:
 
@@ -41,9 +51,13 @@ From this [archetype](https://axios.com/):
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-axios-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-axios-screenshot.jpg" alt="not-axios theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[dataFundamentals.com site](https://datafundamentals.com/)
 
 #### Lighthouse Score May 2021:
 
@@ -58,9 +72,13 @@ From this [archetype](https://codesign.com/):
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-codesign-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-codesign-screenshot.jpg" alt="not-codesign theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[not-codesign demo](http://wysinati.com/)
 
 #### Lighthouse Score May 2021:
 
@@ -74,9 +92,13 @@ From this [archetype](https://fivethirtyeight.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-five38-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-five38-screenshot.jpg" alt="not-five38 theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+You are currently browsing the demo site for the `not-five38` theme!
 
 #### Lighthouse Score May 2021:
 
@@ -90,10 +112,13 @@ From this [archetype](https://fuelcell.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-fuelcell-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-fuelcell-screenshot.jpg" alt="not-fuelcell theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[not-fuelcell demo](https://betterology.net/)
 
 #### Lighthouse Score May 2021:
 
@@ -108,9 +133,13 @@ From this [archetype](https://github.com/):
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-github-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-github-screenshot.jpg" alt="not-github theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[not-github demo](https://mtobwin.web.app)
 
 #### Lighthouse Score May 2021:
 
@@ -125,9 +154,13 @@ From this [archetype](https://ibm.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-ibm-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-ibm-screenshot.jpg" alt="not-ibm theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[not-ibm demo](https://walktown.net/)
 
 #### Lighthouse Score May 2021:
 
@@ -143,9 +176,13 @@ From this [archetype](https://next.com/):
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-next-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-next-screenshot.jpg" alt="not-next theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[not-next demo](bar)
 
 #### Lighthouse Score May 2021:
 
@@ -160,9 +197,13 @@ From this [archetype](https://npr.com/):
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-npr-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-npr-screenshot.jpg" alt="not-npr theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[not-npr demo](https://appwriter.com/)
 
 #### Lighthouse Score May 2021:
 
@@ -176,9 +217,13 @@ From this [archetype](https://nyt.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-nyt-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-nyt-screenshot.jpg" alt="not-nyt theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[not-nyt demo](https://jukelox-7ec89.web.app/)
 
 #### Lighthouse Score May 2021:
 
@@ -192,10 +237,13 @@ From this [archetype](https://optimize.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-optimize-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-optimize-screenshot.jpg" alt="not-optimize theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[not-optimize demo](https://couldbe.net/)
 
 #### Lighthouse Score May 2021:
 
@@ -209,9 +257,13 @@ From this [archetype](https://reddit.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-reddit-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-reddit-screenshot.jpg" alt="not-reddit theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[not-reddit demo](https://btrg.org/)
 
 #### Lighthouse Score May 2021:
 
@@ -225,7 +277,7 @@ From this [archetype](https://https://rocket.modern-web.dev//):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-rocket-archetype.jpg" alt="rocket.modern-web.dev screenshot" />
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-rocket-screenshot.jpg" alt="not-rocket theme screenshot" />
 
@@ -237,9 +289,13 @@ From this [archetype](https://slashdot.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-slashdot-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-slashdot-screenshot.jpg" alt="not-slashdot theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[not-slashdot demo](https://mymodeler.com/)
 
 #### Lighthouse Score May 2021:
 
@@ -254,9 +310,13 @@ From this [archetype](https://virgin.com/):
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-virgin-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-virgin-screenshot.jpg" alt="not-virgin theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[betterology.com site](https://betterology.com/)
 
 #### Lighthouse Score May 2021:
 
@@ -270,9 +330,13 @@ From this [archetype](https://wikipedia.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wikipedia-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wikipedia-screenshot.jpg" alt="not-wikipedia theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[not-wikipedia demo](https://jeren-5de92.web.app/)
 
 #### Lighthouse Score May 2021:
 
@@ -286,31 +350,14 @@ From this [archetype](https://wired.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wired-archetype.jpg" alt="FiveThirtyEight.com screenshot" />
 
-#### This theme:
+#### Thumbnail:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wired-screenshot.jpg" alt="not-wired theme screenshot" />
+
+#### Live Working Demo Site With Content:
+
+[not-wired demo](https://replitza.web.app/)
 
 #### Lighthouse Score May 2021:
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wired-lighthouse.gif" alt="not-wired theme grid-area" />
-
-<hr>
-
-## Internal pages
-
-Any theme would naturally have both of these layouts:
-
-- a home page (such as all above home pages starting with prefix "not-")
-- internal pages, displayed with the `with-sidebar` layout in the rocket codebase
-
-When you select one of the `not-` prefixed themes above, each comes with the following `any-with-sidebar` theme for internal pages. 
-
-It is expected that you might wish to modify this theme later to suit your needs. It would look like this, out of the box:
-
-#### This general idea, currently:
-
-<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/any-sidebar-archetype.jpg" alt="internal page screenshot" />
-
-#### This current status for themes above:
-
-<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/any-sidebar-screenshot.jpg" alt="internal page theme" />

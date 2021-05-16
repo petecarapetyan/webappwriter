@@ -1,5 +1,7 @@
 # Installation || 20
 
+_Fins-rocket-themes are designed to be incomplete, as delivered. Themes do work, as is, but the end game anticipates your own HTML/CSS, eventually._
+
 ## Finished themes? Or starter/customizeable?
 
 Finished themes could eventually be installed [as rocket presets, like this](https://www.npmjs.com/package/@webappwriter/not-alphabet-rocket-theme). The install process works perfectly, but the theme itself is more of a [POC](https://en.wikipedia.org/wiki/Proof_of_concept), because as themes go, it's pretty useless in it's current status.
