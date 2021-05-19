@@ -1,3 +1,12 @@
+---
+title: Friendlier than WordPress?
+published: true
+date: 2021-03-07
+description: WUT? How can an SSG be Friendlier than WordPress?
+tags: [WordPress, html, javascript, website, CMS, markdown, rich text]
+cover_image: https://storage.googleapis.com/betterology-com.appspot.com/images/landscape/500/juan-encalada-_ENQdIjyPcA-unsplash.jpg
+---
+
 # Friendlier than WordPress? WUT?
 
 Can't beat that satisfied smile you see when WordPress helps someone launch a beautiful and original site - sometimes even in minutes. With 38m sites and climbing, and a massive number of plugins, it's the frienliest way to launch an impressively capable site.

@@ -1,4 +1,14 @@
-# Tech Envy || 10
+---
+title: Tech-envy
+published: true
+date: 2021-02-23
+description: You may be tech-envious when you learn more about SSGs, JAMstack, and what people are doing with them.
+tags: [WordPress, html, javascript, website, CMS, markdown, rich text]
+cover_image: https://storage.googleapis.com/betterology-com.appspot.com/images/landscape/500/bulksplash-jakobnoahrosen-AM658fiu2zs.jpg
+
+---
+
+# Tech Envy
 
 You might be **tech-envious** when you learn how little effort goes into producing and maintaining this site.
 

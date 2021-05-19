@@ -51,3 +51,5 @@ This is not WordPress - so you're not working through a contrived UI and a SQL d
 SSGs are like a breath of fresh air if you attempted to customize more heavyweight alternatives!.
 
 To keep you relating to your new SSG friend as a true bestie, [here are some tips](/fins/bestie/)  to maintaining that relationsip in healthiest possible form.
+
+<img alt="Lit" src="https://img.shields.io/badge/-Lit-324FFF?style=flat&logo=lit&logoColor=white"/>

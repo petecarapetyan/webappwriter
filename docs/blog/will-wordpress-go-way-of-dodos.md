@@ -1,6 +1,7 @@
 ---
 title: Will WordPress go the way of the dodo bird?
 published: true
+date: 2021-04-29
 description: Will WordPress be replaced in 2022? No. But the market is migrating.
 tags: [WordPress, html, javascript, website, CMS, markdown, rich text]
 cover_image: https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/hassan-ouajbir-unsplash.jpg

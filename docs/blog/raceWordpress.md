@@ -1,4 +1,13 @@
-# Race WordPress With an SSG || 11
+---
+title: Race WordPress with an SSG!
+published: true
+date: 2021-03-01
+description: How fast can we build an SSG compared to WordPress?
+tags: [WordPress, html, javascript, website, CMS, markdown, rich text]
+cover_image: https://storage.googleapis.com/betterology-com.appspot.com/images/landscape/500/bulksplash-frediegb-Oi1Zp6d_fpo.jpg
+---
+
+# Race WordPress With an SSG
 
 This assumes you are one of the 4 million people that work with these stacks as part of your daily routine:
 
@@ -21,11 +30,11 @@ The game is to do each typical task from scratch, be able to compare against Wor
 
 Hint: Each was close to 2 minutes
 
-- [New Page](/explore/raceWordPress/#new-page)
-- [Page Update](/explore/raceWordPress/#page-update)
-- [New Image](/explore/raceWordPress/#new-image)
-- [Theme Modification](/explore/raceWordPress/#theme-modification)
-- [Complex Component](/explore/raceWordPress/#complex-component)
+- [New Page](/blog/raceWordPress/#new-page)
+- [Page Update](/blog/raceWordPress/#page-update)
+- [New Image](/blog/raceWordPress/#new-image)
+- [Theme Modification](/blog/raceWordPress/#theme-modification)
+- [Complex Component](/blog/raceWordPress/#complex-component)
 
 ## New Page
 
@@ -77,7 +86,7 @@ Here's the video documenting the couple minutes that it took:
 
 - [Rocket](https://rocket.modern-web.dev/) is the SSG used for this site.
 - Rocket is still in pre-release, but many of us are already using in production
-- [I can help](/explore/needHelp/) if you need me for a Proof of Concept for your corporate shop.
+- [I can help](/blog/needHelp/) if you need me for a Proof of Concept for your corporate shop.
 
 <hr>
 
