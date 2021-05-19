@@ -34,11 +34,11 @@ Yeah, that wasn't going to work. Let's keep it simple.
 
 Starting out with almost mechanical objectives and ending up with some kind of abstract feeling of freedom and productivity - yeah, that's pretty weird.
 
-But there was a bit more. When you get ancient, stuff that requires way more specialized skills than might be necessary - it has a smell to it. Nothing wrong with it specifically, just seems to be a part of all that abandonware that makes up so much of my career.
+But there was a bit more. Let's be blunt: I'm not just old, I'm ancient - at least for the tech world. When you're old, stuff that requires way more specialized skills than might be necessary - it starts to have a smell to it. Nothing wrong with that specifically, just seems to be a part of all that abandonware that makes up so much of my career.
 
 <img src="https://storage.googleapis.com/betterology-com.appspot.com/images/landscape/500/bulksplash-markusspiske-tMA6sQ7Dg70.jpg" alt="markusspiske tMA6sQ7Dg70" />
 
-So I think about _**What does EVERY developer have to own?**_ &nbsp;We really need to ask that question, because maybe the minimum might also work pretty well as a kind of maximum?
+So I think about **What does _EVERY_ developer have to own?** &nbsp;We really need to ask that question, because maybe the minimum might also work pretty well as a kind of maximum?
 
 - git
 - HTML/CSS/JS - at least to some very introductory beginner level
