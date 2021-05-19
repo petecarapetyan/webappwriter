@@ -1,3 +1,6 @@
+---
+date: 2015-05-18
+---
 
 <img src="https://storage.googleapis.com/betterology-com.appspot.com/images/landscape/500/bulksplash-micheile-2eIu2RFed8w.jpg" alt="micheile-2eIu2RFed8w-unsplash" />
 
@@ -56,7 +59,7 @@ Anything outside of the above isn't bad, it just makes me, well, suspicious that
 
 So the last piece for me has been themes, and that's where I invest my time, recently.
 
-Because servers and silly Admin UI and the LAMP stack will never be missed, in my world. But those themes - people need that. I need that. Just, maybe not in WordPress.
+Because dynamic request servers and silly Admin UI and the LAMP stack will never be missed, in my world. But those themes - people need that. I need that. Just, maybe not in WordPress.
 
 So that's why I wrote Fins - Rocket Themes
 

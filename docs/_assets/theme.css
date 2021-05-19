@@ -1,3 +1,8 @@
+.logo-main {
+  text-decoration: none;
+  color: var(--primary-text-color);
+}
+
 .content-grid-area {
   border-right: solid 1px gray;
 }
