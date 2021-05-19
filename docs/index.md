@@ -59,7 +59,7 @@ Anything outside of the above isn't bad, it just makes me, well, suspicious that
 
 So the last piece for me has been themes, and that's where I invest my time, recently.
 
-Because dynamic request servers and silly Admin UI and the LAMP stack will never be missed, in my world. But those themes - people need that. I need that. Just, maybe not in WordPress.
+Because dynamic request servers and silly wp-admin UI and the LAMP stack will never be missed, in my world. But those themes - people need that. I need that. Just, maybe not inside WordPress.
 
 So that's why I wrote Fins - Rocket Themes
 
