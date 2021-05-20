@@ -6,9 +6,9 @@ date: 2015-05-18
 
 # A surge in creativity?
 
-I didn't expect a surge in creativity by migrating to an SSG. No wonder SSGs are so popular with tech types.
+I didn't expect a surge in creativity by migrating to an SSG. No wonder SSGs are so popular with the tech crowd.
 
-Maybe I shouldn't have been surprised. I gotta work, that's not optional. Meaningful, as a side effect of productivity? That's extra.
+Maybe I shouldn't have been surprised. Sure, work isn't optional. Meaningful, as a side effect of productivity? That's extra.
 
 ## Other Objectives
 

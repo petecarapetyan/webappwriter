@@ -1,4 +1,4 @@
-# Installation >> The Parts
+# Installation >> The Parts || 50
 
 **TL;DR:**<br>The information on this page is not helpful unless you have decided to personalize/customize a theme in production.
 
@@ -81,15 +81,15 @@ fins-rocket-themes/[my-theme]/src/docs/_includes
 
 As tedious as it is to have to check these folders to know which ones you want to be adjusting first, it can save you some time on incoming updates, later.
 
-It is especially helpful to prefer style.css and theme.css, and avoid themes.css, layout.css and markdown.css at all costs. This is the order in which css files are layered in:
+It is especially helpful to prefer style.css and theme.css, and avoid themes.css, layout.css and markdown.css at all costs. This is **the order css files** are layered in:
 
-variables.css [yours]
-layout.css [fins-community]
-markdown.css [fins-community]
-grid.css [fins-theme]
-themes.css [fins-community]
-theme.css [fins-theme]
-style.css [yours]
+- variables.css [yours]
+- layout.css [fins-community]
+- markdown.css [fins-community]
+- grid.css [fins-theme]
+- themes.css [fins-community]
+- theme.css [fins-theme]
+- style.css [yours]
 
 ## fins-community code
 

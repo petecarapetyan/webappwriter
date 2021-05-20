@@ -2,7 +2,7 @@
 
 **TL;DR:**
 
-Rocket has a long list of great features, but **three features** make Rocket the mandatory choice. Automatic menus, MDJS, and default service worker.
+Rocket has a long list of great features, but **three features** make Rocket my default. Automatic menus, MDJS, and default service worker.
 
 The rest of this page can be ignored unless you still need to grok **automatic menus/navigation**. That part is pretty nearly manadatory for even just understanding how to consume these themes.
 
@@ -21,25 +21,25 @@ If we wanted to take this apart a bit, so we can understand which piece is contr
 First, let's try an outline form. Note that _even this_ is already TMI, or too much information:
 
 - Rocket
-- - 11ty
-- - - JAMstack
-- - - - SSG
-- - Modern web server
-- - javascript imports
-- - Markdown plugin
-- - Rocket Navigation
-- - - urls via 11ty
-- - - menuing via Rocket
-- - Rocket Drawer
-- - - Lion Drawer
-- - - automatic sidebar
-- - Links checking
-- - Search
-- - Blog
-- - default Rocket HTML theme
-- - Image preset config
+  - 11ty
+    - JAMstack
+      - SSG
+  - Modern web server
+  - javascript imports
+  - Markdown plugin
+  - Rocket Navigation
+    - urls via 11ty
+    - menuing via Rocket
+  - Rocket Drawer
+    - Lion Drawer
+    - automatic sidebar
+  - Links checking
+  - Search
+  - Blog
+  - default Rocket HTML theme
+  - Image preset config
 - Fins-rocket-themes
-- - [ insert here ] HTML theme
+  - [ insert here ] HTML theme
 
 How can we make this more digestible?
 
