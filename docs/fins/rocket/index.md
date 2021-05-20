@@ -1,1 +1,1 @@
-# Rocket || 50
+# Rocket || 10

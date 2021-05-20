@@ -95,10 +95,12 @@ Friendliest, in this case, goes to SSG/JAMstack, at least for the millions of us
 
 OK this one is tricky, on the friendly scale.
 
-WordPress comes with it's own UI, so that makes it friendliest, especially if you compare that to a newbie learning command line git and saving those same files to git.
+WordPress comes with it's own adminUI, so that makes it friendliest, especially if you compare that to a newbie learning command line git and saving those same files to git.
 
 So for Billy Designer or Mary Content Creator who doesn't work in git every day, there's your line in the sand.
 
 But wait! The waters get muddy fast, for a couple reasons.
 
-1. There are now git UI
+It's much easier to snap open a file, something that developers are familiar with, than fish through someone's UI.
+
+<img alt="Lit" src="https://img.shields.io/badge/-Lit-324FFF?style=flat&logo=lit&logoColor=white"/>

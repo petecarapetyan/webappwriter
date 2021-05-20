@@ -176,3 +176,5 @@ So I started coding up 18 or so Rocket themes. [Take a walk through...](/fins/th
 <hr>
 
 **errata:** Hey, if you suggest a more well known and visceral metaphor than the distasteful "Cowboys and Indians", I'm [all ears](mailto:pete@datafundamentals.com)
+
+<img alt="Lit" src="https://img.shields.io/badge/-Lit-324FFF?style=flat&logo=lit&logoColor=white"/>

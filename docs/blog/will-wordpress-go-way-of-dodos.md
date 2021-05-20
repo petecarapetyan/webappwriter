@@ -84,6 +84,8 @@ One corporate department at a time, the younger set will bring in SSGs and JAMst
 
 And most importantly, the world will be a better place. Because the CMS is a variation on a [Rube Goldberg machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine), at this point. We have enough of those to support, already.
 
+<img alt="Lit" src="https://img.shields.io/badge/-Lit-324FFF?style=flat&logo=lit&logoColor=white"/>
+
 _**Full Disclosure**_  
 I make my living supporting [a variation of a JAMstack](https://github.com/petecarapetyan/fins-rocket-themes#readme). So opinions expressed above are _anything but_ objective.
 

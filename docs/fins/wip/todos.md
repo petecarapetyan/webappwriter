@@ -1,5 +1,10 @@
 # Work In Progress >> TODOS || 20
 
+need to furnish screen shot here of sample todos
+need to distinguish between community and completion
+need to distinguish between completion and issues
+
+
 This is a list of things that is not even on the WIP list yet.
 
 - naming conventions on the grid areas

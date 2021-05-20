@@ -1,10 +1,24 @@
-# Rocket >> Anatomy of || 20
+# Rocket >> Anatomy of
 
-_Rocket is an SSG based on 11ty which is a JAMstack and then rocket contributes it's own additional functionality._ **Oh my.** What a mouthful.
+**TL;DR:**
+
+Rocket has a long list of great features, but **three features** make Rocket the mandatory choice. Automatic menus, MDJS, and default service worker.
+
+The rest of this page can be ignored unless you still need to grok **automatic menus/navigation**. That part is pretty nearly manadatory for even just understanding how to consume these themes.
+
+## JAMstack, SSG
+
+JAMstack and SSG are not covered here. 
+
+It is assumed that the reader knows both of those terms, and is at least aware of the enthusiasm that some of us have for them.
+
+## Outline View
+
+_Rocket is an SSG based on 11ty, which in turn is a JAMstack, and then rocket contributes it's own additional functionality sets._ **Oh my.** What a mouthful!
 
 If we wanted to take this apart a bit, so we can understand which piece is contributed by which other piece, how would we do this?
 
-First, let's try an outline form:
+First, let's try an outline form. Note that _even this_ is already TMI, or too much information:
 
 - Rocket
 - - 11ty
@@ -23,10 +37,11 @@ First, let's try an outline form:
 - - Search
 - - Blog
 - - default Rocket HTML theme
+- - Image preset config
 - Fins-rocket-themes
-- - yada HTML theme
+- - [ insert here ] HTML theme
 
-OK, now that we see this all split out, we can see that this is way too much information. How can it be more digestible?
+How can we make this more digestible?
 
 One approach is to simply ask _"Why not just use 11ty?"_
 
@@ -38,154 +53,21 @@ As you can see above, Rocket integrates a ton of stuff for you that you could do
 
 - Search
 - Blog
-- Server
+- Local server
 - Link checker
-- etc
+- Image presets
+- more
 
-So I'm going to focus on 3 of the biggest wins, instead:
+So let's focus on the 3 _critical_ wins, instead:
 
-- javascript
-- Markdown plugin
-- Menus!!!
+- **[Markdown driven default menus!!!](https://rocket.modern-web.dev/guides/first-pages/manage-sidebar/)**
+- [MDJS](https://rocket.modern-web.dev/docs/markdown-javascript/overview/)
+- [default Service Worker](https://rocket.modern-web.dev/docs/configuration/service-worker/)
 
-yada
+In eleventy, and even in super-admin-ish WordPress, I found the task of establishing and maintaining menus more time consuming than I wished. With Rocket, you just write your Markdown files, and Rocket takes care of **all the navigation & menus from Markdown headings. Huge win!** You can still customize to your heart's content, but most of the time, I don't have to.
 
-- You maintain the content in markdown
-- **Rocket maintains the navigation** to that content automagically in
-   - the header
-   - the sidebar
+The second thing is JS. I love composing content in Markdown - it's super fast and easy. Like this page, for example - I'm writing in a frkn text editor. Can't get much snappier than that! But I'm not building a web site, I'm building a dynamic web presence! That's just fancy talk for JS and Web Components. 
 
-How does this impact the theme consumer?
+MJDS lets me do _anything dynamic_ by staying in Markdown and still having **all the JS and Web Components I want. Another big win.**
 
-We have 3 specific parts of any page that interact with rocket code in a rather intimate way. Everything else on that page is regular HTML/CSS/JS like any other site or app.
-
-You can think about how rocket fits in with the rest of your theme graphically, by color coding the CSS grid areas:
-
-<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-five38-grid-area-1000.jpg" alt="Example of the 3 areas" />
-
-Summarizing, it this were a straight 11ty or even HTML theme, everything above would be blue, giving you a bit more freedom (and responsibility)
-
-The above grid layout is from the `not-five38` theme documentation.
-
-## The 3 Rocket Specific Grid Areas
-
-Central to any rocket theme is the interaction of these 3 _**rocket specific**_ grid areas.
-
-Meaning _**these grid areas coordinate closely with rocket code**_, all other areas belong solely to the theme itself.
-
-_"Area"_ here denotes those [grid-areas](/fins/grid/) within the `_assets/grid-area-layout.css`
-
-Repeating for emphasis, your theme is entirely fresh and original. Nothing to do with rocket, specifically. _**Except**_ those 3 rocket grid areas.
-
-## Rocket Header: \<div class="header-grid-area"\>
-
-_Grey in the blocking view_
-
-Separation of responsibilities:
-
-### Rocket code in the header
-
-Rocket specifically furnishes the following links for the header:
-
-- Content **section** links
-- Rocket managed **search** link
-- Rocket managed **light/dark theme** link
-
-You or the theme may also put whatever you wish in the header
-
-### Theme code in the header
-
-- The theme doesn't provide the rocket links, but it does tell the header how to display the rocket links
-- Anything else that the header needs such as how to display non-rocket links
-
-## Rocket Sidebar: \<div class="sidebar-grid-area"\>
-
-_Salmon in the blocking view_
-
-### Different links
-
-In rocket, automagically provided links are split between the header and the sidebar. How this split works is not documented here.
-
-Most of the above descriptions of the header also describe how the sidebar works in a theme.
-
-- Rocket manages the rocket provided links in a sidebar, just as the header
-- Theme manages everything else in the sidebar, just as the header.
-
-Benny Powers has teased how a [little customization to the sidebar](https://apolloelements.dev/blog/todo-app/#the-end-result) can make a differnce in making it look nifty, but so far I've just taken the implementation straight from rocket in the themes on this site.
-
-## Rocket Content: \<div class="content-grid-area"\>
-
-_White in the blocking view_
-
-The rocket implementation itself shows how you can mix your own HTML/CSS content in with the markdown content section, in very creative ways.
-
-So far I've mostly tried to just blast through this and make sure at least the markdown copy is showing. But you can add HTML/CSS to that.
-
-## Everything else
-
-_Blue in the blocking view_
-
-Anything goes in this area - go wild! Or be conservative. It's yours.
-
-- your own html/css and even js, in
-  - home.njk
-  - sidebar.njk
-  - theme.css
-- your own content in
-  - _assets/_static ...
-  - _data ...
-
-## Careful deliniation of theme vs rocket files
-
-Everything discussed on this page assumes a very careful and agreed upon deliniation of what files are in themes, and what files are not in themes by default.
-
-This is a [so far] a fantasy. It really hasn't happened yet.
-
-So far, it looks like it would be like this, if it happened:
-
-### Files OK or expected in themes
-
-- `assets/_static/*`
-- `assets/grid-area-layout.css`
-- `assets/theme.css`
-- `includes/home.njk`
-- `includes/with-sidebar.njk`
-- `includes/partials/head.njk`
-- `includes/partials/header.njk` probably??
-- [something footer here]
-
-### Files specifically off limits to a theme
-
-- `assets/style.css`
-- `assets/layout.css`
-- `includes/partials/*` except as noted above
-
-## The Nuclear Option
-
-This:
-
-_Copypasting in `_assets/style.css` and `_assets/layout.css` can be like "You break it, you buy it"_
-
-You, as a consumer, can always take the nuclear option, even if the theme author should never resort to this. [Per section above.]
-
-Since your theme is always a fork anyway, you can simply fork anything that is normally off-limits to theme developers, such as `_assets/style.css` and `_assets/layout.css`
-
-Why is it OK for you and not OK for a theme developer? For the same reason that you might not want to do that, yourself. As soon as you fork it, you own it, and you have to keep up with the changes on your own.
-
-For example, if rocket improves it's search or dark mode after you fork, you won't be able to get those improvements except through line by line manual code imports. So, just know what you're getting into if you take this approach.
-
-## What about my theme vs light/dark theme?
-
-Yeah, some cross cutting concerns there. Speaking for myself only here's what I wouldn't want in any theme I had on a site that I maintain:
-
-- Having to _**maintain my own light/dark theming**_ just because I have my own theme
-- Having to _**give up on a light/dark theming**_ just because I have my own theme
-- Having to  _**wrangle with difficult light/dark theme interaction**_ just because I have my own theme
-
-At the time of this writing it still wasn't worked out how a theme and the light/dark theme integrate with each other.
-
-## Subjugation to Rocket
-
-If any terminology on this page is perceived as an expression of taking charge of, or making decisions for, rocket - then that is an error and strictly my fault.
-
-In every instance with no exception these themes exist in subjugation to the rocket codebase, and it's maintainers. Rocket leads, themes follow. End of story.
+The last critical piece that Rocket gives me is a **default Service Worker maintained by someone other than myself.** Don't even get me started on how much I don't enjoy jacking with a service worker, Workbox or not.

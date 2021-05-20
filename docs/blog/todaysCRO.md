@@ -32,3 +32,5 @@ Visitors to [techEnvy page](/blog/techEnvy/) with 2 fluffy photos.
 ### Instead
 
 Nothing happened because I didn't know how to work google optimize properly.
+
+<img alt="Lit" src="https://img.shields.io/badge/-Lit-324FFF?style=flat&logo=lit&logoColor=white"/>

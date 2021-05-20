@@ -1,8 +1,6 @@
-# Choosing a Theme || 10
+# Choosing a Theme || 20
 
-_Be sure to consult [I ♥ HTML req](/fins/html/) before committing to a Fins - Rocket Theme_
-
-All themes are always considered incomplete, unlike WordPress themes, where the owner is not expected to jump in and adjust the HTML/CSS
+> The fine print: <br>_Be sure to consult [I ♥ HTML req](/fins/html/) before committing to a Fins - Rocket Theme_ <br> All themes are always considered incomplete, unlike WordPress themes, where the owner is not expected to jump in and adjust the HTML/CSS
 
 ## not-alphabet theme
 
@@ -22,7 +20,7 @@ From this [archetype](https://alphabet.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-alphabet-lighthouse.gif" alt="not-alphabet theme grid-area" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-apnews theme
 
@@ -42,7 +40,7 @@ From this [archetype](https://apnews.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-apnews-lighthouse.gif" alt="not-apnews theme screenshot" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-axios theme
 
@@ -63,7 +61,7 @@ From this [archetype](https://axios.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-axios-lighthouse.gif" alt="not-axios theme grid-area" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-codesign theme
 
@@ -84,7 +82,7 @@ From this [archetype](https://codesign.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-codesign-lighthouse.gif" alt="not-codesign theme grid-area" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-five38 theme
 
@@ -104,7 +102,7 @@ You are currently browsing the demo site for the `not-five38` theme!
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-five38-lighthouse.gif" alt="not-five38 theme grid layout" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-fuelcell theme
 
@@ -124,7 +122,7 @@ From this [archetype](https://fuelcell.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-fuelcell-lighthouse.gif" alt="not-fuelcell theme grid-area" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-github theme
 
@@ -145,7 +143,7 @@ From this [archetype](https://github.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-github-lighthouse.gif" alt="not-github theme grid-area" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 
 ## not-ibm theme
@@ -166,7 +164,7 @@ From this [archetype](https://ibm.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-ibm-lighthouse.gif" alt="not-ibm theme grid layout" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 
 ## not-next theme
@@ -188,7 +186,7 @@ From this [archetype](https://next.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-next-lighthouse.gif" alt="not-next theme grid-area" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-npr theme
 
@@ -209,7 +207,7 @@ From this [archetype](https://npr.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-npr-lighthouse.gif" alt="not-npr theme grid-area" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-nyt theme
 
@@ -229,7 +227,7 @@ From this [archetype](https://nyt.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-nyt-lighthouse.gif" alt="not-nyt theme grid-area" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-optimize theme
 
@@ -249,7 +247,7 @@ From this [archetype](https://optimize.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-optimize-lighthouse.gif" alt="not-optimize theme grid-area" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-reddit theme
 
@@ -269,7 +267,7 @@ From this [archetype](https://reddit.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-reddit-lighthouse.gif" alt="not-reddit theme grid-area" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-rocket theme
 
@@ -281,7 +279,7 @@ From this [archetype](https://https://rocket.modern-web.dev//):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-rocket-screenshot.jpg" alt="not-rocket theme screenshot" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-slashdot theme
 
@@ -301,7 +299,7 @@ From this [archetype](https://slashdot.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-slashdot-lighthouse.gif" alt="not-slashdot theme grid-area" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-virgin theme
 
@@ -322,7 +320,7 @@ From this [archetype](https://virgin.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-virgin-lighthouse.gif" alt="not-virgin theme grid-area" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-wikipedia theme
 
@@ -342,7 +340,7 @@ From this [archetype](https://wikipedia.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wikipedia-lighthouse.gif" alt="not-wikipedia theme grid-area" />
 
-<hr>
+<br><br><hr><hr><hr>
 
 ## not-wired theme
 

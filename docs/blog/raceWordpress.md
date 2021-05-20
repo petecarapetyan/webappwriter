@@ -98,3 +98,5 @@ PAGE NOTES:
 ```js script
 import 'vanilla-colorful';
 ```
+
+<img alt="Lit" src="https://img.shields.io/badge/-Lit-324FFF?style=flat&logo=lit&logoColor=white"/>

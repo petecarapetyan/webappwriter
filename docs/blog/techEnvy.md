@@ -61,3 +61,5 @@ More:
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/juan-encalada-unsplash.jpg" alt="juan-encalada-_ENQdIjyPcA-unsplash" />
 
 This is page is just an introductory blurb. The intent is to provide updated information, as 2021 rolls on.
+
+<img alt="Lit" src="https://img.shields.io/badge/-Lit-324FFF?style=flat&logo=lit&logoColor=white"/>

@@ -28,3 +28,5 @@ Proof of Concept packages for your company might start at $1000 USD
 Also available on an hourly option. 
 
 At this moment, my pricing is $100 hourly, though market conditions may make that flexible in either direction. I'm in a shift now to  more contracts, each of shorter duration, if I can make that work.
+
+<img alt="Lit" src="https://img.shields.io/badge/-Lit-324FFF?style=flat&logo=lit&logoColor=white"/>

@@ -2,7 +2,7 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'Home',
+    name: 'webAppWriter',
     description: 'webAppWriter is deployed into the not-five38 fins-rocket-theme',
     socialLinks: [
       {

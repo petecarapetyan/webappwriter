@@ -30,3 +30,5 @@ For 38+ million sites, WordPress makes it all possible! Not to be underestimated
 [Here is my latest post](https://www.linkedin.com/pulse/wordpress-go-way-dodo-bird-pete-carapetyan) that attempts to pin WordPress into the legacy apps category.
 
 Or, check out the previously written [Tech-Envy article](/blog/techEnvy/) for a little insight on why a lot of the Wordpress+ market might _eventually_ go gaga over some of what you see here!
+
+<img alt="Lit" src="https://img.shields.io/badge/-Lit-324FFF?style=flat&logo=lit&logoColor=white"/>
