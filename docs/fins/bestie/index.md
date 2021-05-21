@@ -59,7 +59,7 @@ But here's what it doesn't keep straight - your brain. It offers flexibility to 
 
 Then rocket adds even more layers of implicit behavior. Really neat stuff, but no way you're going to understand how to customize it fully without spending at least a few minutes in the guide or docs.
 
-See [this section below](#top-n-11ty-and-rocket-features) for my _**top n 11ty and rocket features**_ that you might eventually have to break down and RTFM. A sad day for us all :(
+See [this section below](#top-n-11ty-features) for my _**#top-n-11ty-features**_ that you might eventually have to break down and RTFM. A sad day for us all :(
 
 ## Strategy 3 - It's the workflow
 
@@ -79,15 +79,20 @@ This changes the workflow quite a bit. So here are some guidelines that I use fo
 
 As a result of all these high velocity trivial commits, I end up with a hyperactive git log where all the commits are labeled `WIP` but since most were so trivial, I never seem to care. I still do the occassional rollback, but I'll just use dates and fast experiments rather than try to nail it on the first attempt.
 
-## Top n 11ty and rocket features
+## Top n 11ty features
 
-As referenced above, I don't RTFM until all else fails. So if things fail for you on more complex theme personalizations, here's what you might have to RTFM first.
+As referenced above, I don't RTFM until all else fails. Just in case I'm not the only one, here's what you might have to RTFM first.
+
+FIXME - what should this 11ty list look like?
 
 - Data cascade
-- Menu
+- Navigation
 - How 11ty walks the directory
 
 There are, of course, other things such as the Markdown plugin that you also might want to read about, but I didn't find them very likely to get in my way during the process of customization or personalization.
 
+FIXME - right about here is where i could insert a reference for a 5 minute video on standard customization workflow
 
-right about here is where i could insert a reference for a 10 minute video on standard customization workflow
+## Rocket features you may need to RTFM
+
+[this doc here](/fins/rocket/anatomyOf/) but FIXME a more nuanced RTFM oriented explainer here might be in order?

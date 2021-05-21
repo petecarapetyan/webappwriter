@@ -7,26 +7,28 @@
 
 `./try.sh mysite not-five38 seed start` 
 
-- writes or overwrites ../mysite with a new 'not-five38' theme
+- writes or overwrites ../mysite with a new `not-five38` theme
 - also adds Lorem Ipsum content
 - starts it up in localhost
 
 `./try.sh mysite not-slashdot keep start` 
 
-- to swap to not-slashdot theme
+- to swap in `not-slashdot` theme
 - and keep any content changes you made
 
 ## try.sh shell script is destructive!
 
+There are many reasons not to use a shell script for this install! [Read more if concerned.](/fins/installation/whyShell/)
+
 Everything on this page assumes that you are super-cautious and wise. Hah!
-If only I could count on myself, in that respect!
+If only that described me!
 
 So just don't use this `try.sh` script _**unless:**_
 
-- You're making a bran new project and so you don't care
-- You have forced yourself to be cautious and always at minimum, run `git commit` before you run `./try.sh` against an existing project.
+- You're making a bran new project and so you don't care yet.
+- You have forced yourself to be cautious, and always at minimum, run `git commit` before you run `./try.sh` against an existing project.
 
-I created an issue to provide some automated safeguards, but they are not on the schedule yet.
+I created [an issue](https://github.com/petecarapetyan/fins-rocket-themes/issues/1) to provide some automated safeguards for the destructive overwrites below, but they are not on the schedule yet.
 
 ## Pre-reqs:
 
@@ -39,23 +41,31 @@ I created an issue to provide some automated safeguards, but they are not on the
 
 It is suggested, but perhaps not required - that you may be happiest if you have already installed and played with a default rocket install, enough to get a feel for the basics.
 
-## One CLI command
+## Usage
 
-There are reasons to not like shell scripting for this, but I put them [here] so you wouldn't have to read them.
+`./try.sh mysite not-five38 [seed,keep], [start,not]` is the fuller explanation.
 
-- `chmod +x try.sh` one time only
-- **`./try.sh my-project not-five38`** That's it!
+- `chmod a+x try.sh` one time only, if required to make it executable
+- **`./try.sh mysite not-five38 seed start`**
+  - installs into `../mysite` **DESTRUCTIVE OVERWRITE!**
+  - installs the `not-five38` theme
+  - `seed`s the project with Lorem Ipsum content and random images
+  - `start`s the project in localhost
 
-That creates (or over-writes) `my-project` as a sibling to `rocket-themes` and installs the `not-five38` theme in it, and then runs npm and launches it in your browser.
+30 seconds to npm install, and you're live on localhost with your new theme!
 
-<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/my-project-five38-vscode.jpg" alt="my project five38 vscode" />
+- **`./try.sh mysite not-apnews keep start`** 
+  - installs into `../mysite` **DESTRUCTIVE OVERWRITE!**
+  - Swaps out `not-apnews` for the theme
+  - `keep` leaves your existing data in case you have started on the content
+  - `start` starts up localhost
 
-30 seconds, and you're live on localhost with your new theme.
+That is how you swap in a theme, any time you want to try a different one.
 
-Now you can re-run with different themes and the same project, to try out different themes in seconds. Though you might need to un-comment the `rm -rf ../$1/docs` line in `try.sh` first, to avoid some unpredictable results if file structures are not identical between themes.
+- **`./try.sh mysite not-reddit keep start`** 
+  - installs into `../mysite` **DESTRUCTIVE OVERWRITE!**
+  - Swaps out `not-reddit` for the theme
+  - `keep` leaves your existing data in case you have started on the content
+  - `not` does NOT start up localhost
 
-<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/my-project-two-vscode.jpg" alt="my project two vscode" />
-
-Now you're looking at a new theme in your browser:
-
-<img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/my-project-ibm-vscode.jpg" alt="my project not ibm vscode" />
+That is an example without starting up localhost

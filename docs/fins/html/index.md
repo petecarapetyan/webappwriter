@@ -2,7 +2,7 @@
 
 Do these themes come with an _**I ♥ HTML/CSS pre-requirement?**_
 
-**TL;DR:** <br> Fins-rocket-themes are for coders who want to code something else besides their own sites. These themes are intended for teams that have at least one vaguely-HTML-coder.
+**TL;DR:** <br> Fins-rocket-themes are for coders who want to code something else besides their own sites. These themes are intended _**for teams that have at least one vaguely competent HTML/CSS coder.**_
 
 **The good news:** <br>Minor amount of HTML/CSS is enough, and maybe a little javascript and enough patience to put up with a little nunjucks. That's probably most of the active coders on the planet, right now. Add dev-tools familiarity, and an occassional visit to [CSS-tricks.com](https://css-tricks.com) or [MDN](https://developer.mozilla.org/en-US/docs/Web), and you're there.
 

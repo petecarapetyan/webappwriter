@@ -1,8 +1,10 @@
-# Work In Progress || 150
+# Status >> Proof of Concept || 10
+
+FIXME: This page has not been updated carefully, since January
 
 ## General Status Recap
 
-As of January 2021 the general status of themes is POC or **Proof of Concept**, only.
+As of January 2021 the general status of themes is 'POC' or **Proof of Concept**, only.
 
 This is not intended to waste your time, it is actually helpful to have even that much done and out of the way if one is faced with a boss or client who won't allow a rocket based project _**unless it can have it's own customized theme**_. Like my last boss, for example.
 
@@ -27,18 +29,6 @@ From that point forward it's pretty quick to whip out a basic theme, at least to
 ## Lots of basic CSS to do
 
 Note that fonts, and even basic margins on spacings are yet to be addressed even on the headers, and headers are more done than any other part.
-
-## Yikes! @media waiting?
-
-Responsive is super easy and fast to do with a grid layout - so why haven't ANY responsive been added yet?
-
-Good question. Should have been done, yesterday, preferably. One small feature at a time...
-
-## What about the footer?
-
-Footers are almost more about the consumer of a theme than the theme itself.
-
-So pretty much everyone is going to want to do their own footer themself, unless the site is a documentation site for code, like rocket itself.
 
 ## Infinite number of issues more
 

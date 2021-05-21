@@ -1,16 +1,20 @@
 # Rocket >> Anatomy of
 
-**TL;DR:**
+## TL;DR:
 
-Rocket has a long list of great features, but **three features** make Rocket my default. Automatic menus, MDJS, and default service worker.
+**[Automatic menus/navigation](https://rocket.modern-web.dev/guides/first-pages/manage-sidebar/)** is critical to understanding how these themes work. If you understand how that works, the rest of this page may be TL;DR
 
-The rest of this page can be ignored unless you still need to grok **automatic menus/navigation**. That part is pretty nearly manadatory for even just understanding how to consume these themes.
+Rocket has a long list of great features, but **three features** make Rocket my default JAMstack SSG. **1)** Automatic Markdown driven menus/navigation, **2)** MDJS, and **3)** default service worker.
+
+All themes ship with search and blog enabled. Some theme demo sites disable blogs.
 
 ## JAMstack, SSG
 
 JAMstack and SSG are not covered here. 
 
 It is assumed that the reader knows both of those terms, and is at least aware of the enthusiasm that some of us have for them.
+
+I also drone on endlessly [on my blog](/blog/) about the benefits of moving off of WordPress and the like, and onto JAMstack/SSGs.
 
 ## Outline View
 
@@ -64,9 +68,9 @@ So let's focus on the 3 _critical_ wins, instead:
 - [MDJS](https://rocket.modern-web.dev/docs/markdown-javascript/overview/)
 - [default Service Worker](https://rocket.modern-web.dev/docs/configuration/service-worker/)
 
-In eleventy, and even in super-admin-ish WordPress, I found the task of establishing and maintaining menus more time consuming than I wished. With Rocket, you just write your Markdown files, and Rocket takes care of **all the navigation & menus from Markdown headings. Huge win!** You can still customize to your heart's content, but most of the time, I don't have to.
+In eleventy, and even in super-admin-ish WordPress, I found the task of establishing and maintaining menus more time consuming than I wished. With Rocket, you just write your Markdown files, and Rocket takes care of **all the navigation & menus from Markdown headings. _Huge win!_** You can still customize to your heart's content, but most of the time, I don't have to.
 
-The second thing is JS. I love composing content in Markdown - it's super fast and easy. Like this page, for example - I'm writing in a frkn text editor. Can't get much snappier than that! But I'm not building a web site, I'm building a dynamic web presence! That's just fancy talk for JS and Web Components. 
+The second thing is JS. Why? I love composing content in Markdown - it's super fast and easy. Like this page, for example - I'm writing in a frkn text editor. Can't get much snappier than that! But I'm not building a web site, I'm building a dynamic web presence! That's just fancy talk for JS and Web Components, for the most part.
 
 MJDS lets me do _anything dynamic_ by staying in Markdown and still having **all the JS and Web Components I want. Another big win.**
 

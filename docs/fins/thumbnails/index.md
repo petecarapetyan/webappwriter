@@ -1,6 +1,6 @@
 # Choosing a Theme || 20
 
-> The fine print: <br>_Be sure to consult [I ♥ HTML req](/fins/html/) before committing to a Fins - Rocket Theme_ <br> All themes are always considered incomplete, unlike WordPress themes, where the owner is not expected to jump in and adjust the HTML/CSS
+> The fine print: <br>_Be sure to consult [I ♥ HTML req](/fins/html/) before committing to a Fins - Rocket Theme!_ <br> All themes are always considered incomplete, unlike WordPress themes, where the owner is not expected to jump in and adjust the HTML/CSS
 
 ## not-alphabet theme
 
@@ -12,7 +12,7 @@ From this [archetype](https://alphabet.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-alphabet-screenshot.jpg" alt="not-alphabet theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [AspieAutomator site](https://aspieautomator.com/)
 
@@ -32,7 +32,7 @@ From this [archetype](https://apnews.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-apnews-screenshot.jpg" alt="not-apnews theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [not-apnews demo](https://esuyp-fb794.web.app/)
 
@@ -53,7 +53,7 @@ From this [archetype](https://axios.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-axios-screenshot.jpg" alt="not-axios theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [dataFundamentals.com site](https://datafundamentals.com/)
 
@@ -74,7 +74,7 @@ From this [archetype](https://codesign.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-codesign-screenshot.jpg" alt="not-codesign theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [not-codesign demo](http://wysinati.com/)
 
@@ -94,7 +94,7 @@ From this [archetype](https://fivethirtyeight.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-five38-screenshot.jpg" alt="not-five38 theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 You are currently browsing the demo site for the `not-five38` theme!
 
@@ -114,7 +114,7 @@ From this [archetype](https://fuelcell.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-fuelcell-screenshot.jpg" alt="not-fuelcell theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [not-fuelcell demo](https://betterology.net/)
 
@@ -135,7 +135,7 @@ From this [archetype](https://github.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-github-screenshot.jpg" alt="not-github theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [not-github demo](https://mtobwin.web.app)
 
@@ -156,7 +156,7 @@ From this [archetype](https://ibm.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-ibm-screenshot.jpg" alt="not-ibm theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [not-ibm demo](https://walktown.net/)
 
@@ -178,7 +178,7 @@ From this [archetype](https://next.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-next-screenshot.jpg" alt="not-next theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [not-next demo](https://mulerain.web.app/)
 
@@ -199,7 +199,7 @@ From this [archetype](https://npr.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-npr-screenshot.jpg" alt="not-npr theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [not-npr demo](https://appwriter.com/)
 
@@ -219,7 +219,7 @@ From this [archetype](https://nyt.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-nyt-screenshot.jpg" alt="not-nyt theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [not-nyt demo](https://jukelox-7ec89.web.app/)
 
@@ -239,7 +239,7 @@ From this [archetype](https://optimize.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-optimize-screenshot.jpg" alt="not-optimize theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [not-optimize demo](https://couldbe.net/)
 
@@ -259,7 +259,7 @@ From this [archetype](https://reddit.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-reddit-screenshot.jpg" alt="not-reddit theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [not-reddit demo](https://btrg.org/)
 
@@ -291,7 +291,7 @@ From this [archetype](https://slashdot.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-slashdot-screenshot.jpg" alt="not-slashdot theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [not-slashdot demo](https://mymodeler.com/)
 
@@ -312,7 +312,7 @@ From this [archetype](https://virgin.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-virgin-screenshot.jpg" alt="not-virgin theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [betterology.com site](https://betterology.com/)
 
@@ -332,7 +332,7 @@ From this [archetype](https://wikipedia.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wikipedia-screenshot.jpg" alt="not-wikipedia theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [not-wikipedia demo](https://jeren-5de92.web.app/)
 
@@ -352,7 +352,7 @@ From this [archetype](https://wired.com/):
 
 <img class="bordered" src="https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/not-wired-screenshot.jpg" alt="not-wired theme screenshot" />
 
-#### Live Working Demo Site With Content:
+#### Live Demo Site
 
 [not-wired demo](https://replitza.web.app/)
 
