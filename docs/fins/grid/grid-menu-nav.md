@@ -1,4 +1,4 @@
-# Grid Based >> Grid Section Menu & Sidebar || 60
+# Grid Based >> Grid Section Menu and Sidebar || 60
 
 **TL;DR:**
 
