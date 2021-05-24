@@ -32,6 +32,8 @@ module.exports = function () {
     logoAlt: 'Rocket Logo',
     iconColorMaskIcon: '#3f93ce',
     iconColorMsapplicationTileColor: '#1d3557',
-    iconColorThemeColor: '#1d3557'
+    iconColorThemeColor: '#1d3557',
+    analyticsUA: 'UA-52870008-2',
+    analyticsGA4: 'G-36EWBZYBZ7'
   };
 };
