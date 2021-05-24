@@ -2,7 +2,7 @@
 
 **TL;DR:** 
 
-How to stay on friendly terms with your favorite SSG _when you start going deep_ into personalizing your theme? If you set yourself up properly, it's easy to stay best friends.
+How to stay on friendly terms with your favorite SSG _when you start going deep_ into personalizing your theme? If you set yourself up properly, _**it can be easy to stay best friends.**_
 
 Then you can customize and personalize your chosen theme, to your heart's content.
 
@@ -20,23 +20,25 @@ There are three _**very serious**_ side effects to this otherwise friendly patte
 - the **sequence** part
 - the **inputs** part
 
-Since all of these are attempts to give you freedom, maybe that's why I never hear people talking about the side effects.
+Since all of these _**are attempts to give you freedom,**_ maybe that's why I never hear people talking about the side effects. Freedom is supposed to feel positive, not overwhelming.
 
-But I spend unwanted minutes(?) on the side effects - sometimes on a daily basis. Maybe that's because I'm autistic? Either way, here's how I compensate for all that freedom.
+But I spend unwanted minutes(?) on the side effects - sometimes on a daily basis. Maybe that's because I'm autistic so I don't shift contexts as nimbly as others? Either way, here's how I compensate for all that freedom.
 
 ## The overwrite foot-gun
 
-As an illustration only, let's compare strongly typed and weakly typed languages. In strongly typed, once you establish a structure it can't be overwritten. It is simply impossible. SSGs are more analogous to the weakly typed languages - overwrites are just taken for granted, for the most part.
+To illustrate, let's compare strongly typed and weakly typed languages. In strongly typed, once you establish a structure it can't be overwritten. It is simply impossible. _**SSGs are more analogous to the weakly typed languages**_ - overwrites are just taken for granted, for the most part. Freedom.
 
-Or CSS. You can set the same selector value in 10 different places in 7 different CSS files all referenced by a single HTML page. But only the last one has any effect, usually. Allowing that kind of freedom could be considered friendly, but it can also leave me searching for _which one?_
+Or CSS. You can set the same selector value in 10 different places in 7 different CSS files all referenced by a single HTML page. But _**only one has any effect,**_ usually. Allowing that kind of freedom could be considered friendly, but it can also leave me searching dev tools for _which one?_
 
-In this sense, templating systems are their own house of horrors, and they all tend to share this same foot gun. Pretty much by definition, a templating system loops over stuff and writes wherever and however it needs to, to get the job done. Overwrites aren't even discussed as an issue, they are just _writes_. If they also over-write, then it's just them trying to be friendly and let you write what you need to write.
+In this sense, templating systems are their own house of horrors, and they all tend to share this same foot gun. Pretty much by definition, a templating system loops over stuff and _**writes wherever and however it needs to,**_ to get the job done. Overwrites aren't even discussed as an issue, they are just _writes_. If they also over-write, then it's just them trying to be friendly and let you write what you need to write.
 
 What all this means is that SSGs can give you a lot of overwrite styled foot guns by trying to be super friendly. Like any foot-guns, some degree of extra care may be required if you like your feet.
 
 ## Strategy 1 - It's the sequence!
 
-One remedy to all that freedom is spending a few seconds really grokking the sequences. If the overwrites are always in the correct sequence, it's never a problem, right? The last one was the one you wanted, anyway. Friendly!
+How to learn what sequence the SSG overwrites?
+
+One remedy to all that freedom is spending a few seconds really grokking the sequences that a page is written in, or CSS is applied in. If the overwrites are always in the correct sequence, it's never a problem, right? The last one was the one you wanted, anyway. Friendly!
 
 So the first strategy is just make sure you're aware of these two specific types of sequences so you know where to apply any changes. Neither is hard to find and internalize, nor do you have to be a template coder to grasp the sequence.
 
@@ -45,21 +47,26 @@ So the first strategy is just make sure you're aware of these two specific types
 
 Once you have these two things identified you can quickly resolve any otherwise time consuming sequenced overwrite problem. Or, as easily as possible.
 
-Don't even get me started on the giant foot gun that is CSS. A topic for a different day.
+Don't even get me started on the giant foot gun that CSS is.
 
 ## Strategy 2 - It's the inputs!
 
-The whole point of your friendly SSG is to make sure you're not having to be some kind of hyperactive policeman watching out for the SSG's well meaning foot guns. Which brings us to the second strategy to dealing with your favorite friendly SSG. Understanding enough of 11ty, Rocket's backbone, to interject your own personalized changes into your site.
+Here's a fun twist - _**11ty's best feature can break your flow**_ - if you have what seems to be the "normal" approach to time management.
 
-RTFM is mostly against the rules, for me. Not until everything else fails. So I'm not going to tell you here that RTFM is step 1. Instead, the friendlier thing to do is isolate those instances where you may have to resort to RTFM, and how to keep it friendly, when you do. RTFM in the service of watching out for our feet :)
+1. 11ty is _**way flexible**_. Lots-o-different ways to do the data thing.
+1. Normal human time management means RTFM is _**not even**_ the first order of the day.
 
-Friendliness, in this particular instance, is 11ty's most notable trait. It does soooo very much for you, and with such _flexibility_. Template system? Pick from a dozen - and counting. Data sources? Use any of several types, any of seemingly infinite locations. And naming conventions keep it all straight, as does your chosen folder structure.
+#2 above works as the default, for me. Except in the presence of #1 above. That's when I wish I had forced myself to RTFM. So here's my RTFM list, in case you want travel deep into the land of customizing an 11ty site:
 
-But here's what it doesn't keep straight - your brain. It offers flexibility to be friendly, but you have to RTFM to really understand what it just did. Fortunately, the docs are well written and widely regarded as easy to understand. Once you see it, it's like _'duh'_.
+- [The Data Cascade](https://www.11ty.dev/docs/data-cascade/) - holy smoke I never thought I'd see so many great ways to collect structured input in one platform! And Rocket seems to use them all.
+- [Collections](https://www.11ty.dev/docs/collections/), of what?
+- [Rocket Navigation](https://rocket.modern-web.dev/guides/first-pages/manage-sidebar/) is totally intuitive when you see it in action, if not yet at the docs level.
 
-Then rocket adds even more layers of implicit behavior. Really neat stuff, but no way you're going to understand how to customize it fully without spending at least a few minutes in the guide or docs.
+By this time you're beginning to maybe not wonder what "frontmatter" is, and other contextually defined words from the 11ty world.
 
-See [this section below](#top-n-11ty-features) for my _**#top-n-11ty-features**_ that you might eventually have to break down and RTFM. A sad day for us all :(
+Recapping, for emphasis: SSGs in general, and 11ty/Rocket specifically, might be easier to personalize/customize after a specific chunk of RTFM, first. Or at least that's true when it comes to **taking in data structures as inputs.**
+
+Don't forget, the structured input data provided by these files is replacing an entire structured database and admin-UI for a CMS such as WordPress. There's a reason why that data is so important to the process.
 
 ## Strategy 3 - It's the workflow
 
@@ -71,28 +78,16 @@ By comparison, I find that SSGs are more like mowing the lawn. You just, well, m
 
 How long does it take to run an experiment in an SSG? Sometimes it's just saving a file, you don't even have to restart localhost. Worst case is 3 seconds to tab back to the shell and control C up arrow to restart localhost, such as if you renamed a file.
 
-This changes the workflow quite a bit. So here are some guidelines that I use for SSGs, that may be different from other types of coding that you or I do.
+So here are some guidelines that I use for SSGs, that may be different from more typical coding that you or I do as software developers.
 
 - **Religiously stick to the only change one very small thing rule** and then check it out.
 - **Commit much more frequently than normal** coding - then use your IDE to double check git diffs, before each commit.
 - **dev tools** play more prominently in my SSG workflows than other types of coding that I do.
 
-As a result of all these high velocity trivial commits, I end up with a hyperactive git log where all the commits are labeled `WIP` but since most were so trivial, I never seem to care. I still do the occassional rollback, but I'll just use dates and fast experiments rather than try to nail it on the first attempt.
+As a result of all these high velocity trivial commits, I end up with a hyperactive git log where all the commits are labeled `WIP` but since most were so trivial, I never seem to care. I still do the occassional rollback, but I'll just use commit dates and fast experiments rather than try to nail the rigtht rollback on the first attempt. YMMV.
 
-## Top n 11ty features
+## Other Rocket features you may need to RTFM
 
-As referenced above, I don't RTFM until all else fails. Just in case I'm not the only one, here's what you might have to RTFM first.
-
-FIXME - what should this 11ty list look like?
-
-- Data cascade
-- Navigation
-- How 11ty walks the directory
+You may find [these Rocket explorations](/fins/rocket/anatomyOf/) handy for understanding how the various parts of every Rocket page work together.
 
 There are, of course, other things such as the Markdown plugin that you also might want to read about, but I didn't find them very likely to get in my way during the process of customization or personalization.
-
-FIXME - right about here is where i could insert a reference for a 5 minute video on standard customization workflow
-
-## Rocket features you may need to RTFM
-
-[this doc here](/fins/rocket/anatomyOf/) but FIXME a more nuanced RTFM oriented explainer here might be in order?

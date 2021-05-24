@@ -165,7 +165,7 @@ So I want to document some of that progress here, to compare notes with others a
 
 If it slows me down, then I'm doing something wrong. More will be revealed.
 
-## Fins - Rocket Themes
+## Fins (Rocket Themes)
 
 When Rocket releases later this year, you might conclude that it's a bit like what Henry Ford promised about the Model T "Any color you want, as long as it's black". 
 

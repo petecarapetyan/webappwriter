@@ -1,6 +1,6 @@
 # Choosing a Theme || 20
 
-> The fine print: <br>_Be sure to consult [I ♥ HTML req](/fins/html/) before committing to a Fins - Rocket Theme!_ <br> All themes are always considered incomplete, unlike WordPress themes, where the owner is not expected to jump in and adjust the HTML/CSS
+> The fine print: <br>_Be sure to consult [I ♥ HTML req](/fins/html/) before committing to a Fins (Rocket Theme)!_ <br> All themes are always considered incomplete, unlike WordPress themes, where the owner is not expected to jump in and adjust the HTML/CSS
 
 ## not-alphabet theme
 

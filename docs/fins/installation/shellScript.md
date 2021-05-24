@@ -2,13 +2,12 @@
 
 **TL;DR:**
 
-
-**This shell script is destructive!**, always `git commit` before running on an existing folder!
+**This shell script is destructive!** Always `git commit` before running on an existing folder!
 
 `./try.sh mysite not-five38 seed start` 
 
 - writes or overwrites ../mysite with a new `not-five38` theme
-- also adds Lorem Ipsum content
+- also adds Lorem Ipsum content and random images
 - starts it up in localhost
 
 `./try.sh mysite not-slashdot keep start` 
@@ -16,16 +15,13 @@
 - to swap in `not-slashdot` theme
 - and keep any content changes you made
 
-## try.sh shell script is destructive!
+## try.sh is for new or git projects only!
 
-There are many reasons not to use a shell script for this install! [Read more if concerned.](/fins/installation/whyShell/)
+[More discussion on why shell scripts are not always fashionable](/fins/installation/whyShell/)
 
-Everything on this page assumes that you are super-cautious and wise. Hah!
-If only that described me!
+Don't use the `try.sh` script _**unless:**_
 
-So just don't use this `try.sh` script _**unless:**_
-
-- You're making a bran new project and so you don't care yet.
+- You're making a new project and so you don't care about deletions/overwrites yet.
 - You have forced yourself to be cautious, and always at minimum, run `git commit` before you run `./try.sh` against an existing project.
 
 I created [an issue](https://github.com/petecarapetyan/fins-rocket-themes/issues/1) to provide some automated safeguards for the destructive overwrites below, but they are not on the schedule yet.

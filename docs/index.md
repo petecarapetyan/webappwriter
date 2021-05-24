@@ -37,7 +37,7 @@ Yeah, that's a fail. Keep it simple.
 
 ## Core Skills Only
 
-Starting out with mechanical objectives and ending up with - uh, ethereal feelings of freedom and productivity - yeah, that's a win. _But including others, also has value._
+Starting out with mechanical objectives and ending up with - uh, ethereal feelings of freedom and productivity - yeah, that's a win. _Inclusivity - that also has value._
 
 Stacks that encourage a **specialized skillset** start to have a smell to them. Think bootstrap, or JS frameworks that shout "me, me, me" and contribute nonstandard helpers that the browser or SSG could now handle with ease. Might feel like abandonware to me, yet others may simply feel pushed away, or blocked from joining the party.
 
@@ -57,11 +57,11 @@ There are **browser standards**. If I can look it up on MDN or caniuse.com, it's
 
 ## WordPress Got Themes Right
 
-The last piece for me has been themes, and that's where I invest my time, recently.
+The last piece for me has been themes, and that's where I invest my time this year.
 
 WordPress? Dynamic request servers, self defeating wp-admin UI, and the LAMP stack will never be missed, in my world. But those WordPress _**themes - people needed that!**_ Heck, I need themes. Just, maybe not the WordPress part.
 
-So that's why I wrote these 17 [Fins - Rocket Themes](/fins/)
+So that's why I wrote these 17 [Fins (Rocket Themes)](/fins/)
 
 I hope that some people find them useful. They've been fun to create.
 
