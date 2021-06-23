@@ -6,7 +6,7 @@ date: 2015-05-18
 
 # A surge in creativity?
 
-I didn't expect a surge in creativity by migrating to an SSG. No wonder SSGs are so popular with the tech crowd.
+I didn't expect a surge in creativity by migrating to an [SSG, or Static Site Generator](https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators). No wonder SSGs are so popular with the tech crowd.
 
 Maybe I shouldn't have been surprised. Meaningful work, as a side effect of my choice of stacks?
 
@@ -20,7 +20,7 @@ Visitors need to feel welcome, and few things are more off-putting than a slow s
 
 And it had to be a legit Progressive Web App, or PWA. This is 2021. 'Table stakes.'
 
-There are 200+ SSG variants, already. So I filtered out SSGs with a dependency on legacy stacks. I've had to abandon so many finished projects because of legacy dependencies. _I wasn't going down that road again, not if I didn't have to._
+There are [327+ SSG variants](https://jamstack.org/generators/), already. So I filtered out SSGs with a dependency on legacy stacks. I've had to abandon so many finished projects because of legacy dependencies. _I wasn't going down that road again, not if I didn't have to._
 
 My first app was in 1973 - that's a lot of experience with abandonware :(
 
@@ -53,16 +53,16 @@ So instead, can I build from **What skills does _EVERY_ developer already have t
 
 Maybe if you own those skills, that is also _**enough?**_
 
-There are **browser standards**. If I can look it up on MDN or caniuse.com, it's a standard. Docs will be plentiful. Vendors and enthusiasts are going to tool to it. Stuff that is written to that standard will _have to_ work for years, if not decades.
+Then, **browser standards**. If I can look it up on MDN or caniuse.com, it's a standard. Docs will be plentiful. Vendors and enthusiasts are going to tool to it. Stuff that is written to that standard will _have to_ work for years, if not decades.
 
 ## WordPress Got Themes Right
 
-The last piece for me has been themes, and that's where I invest my time this year.
+The last piece for me has been themes, and that's where I have invested my time this year.
 
-WordPress? Dynamic request servers, self defeating wp-admin UI, and the LAMP stack will never be missed, in my world. But those WordPress _**themes - people needed that!**_ Heck, I need themes. Just, maybe not the WordPress part.
+WordPress? Dynamic request servers, self defeating wp-admin UI, and the LAMP stack will never be missed, in my world. But those WordPress _**themes - people needed that!**_ Heck, I need themes. Maybe just not the WordPress part.
 
 So that's why I wrote these 17 [Fins (Rocket Themes)](/fins/)
 
-I hope that some people find them useful. They've been fun to create.
+I hope that some people find them useful. They've been a ton of fun to create.
 
 <img alt="Lit" src="https://img.shields.io/badge/-Lit-324FFF?style=flat&logo=lit&logoColor=white"/>

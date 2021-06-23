@@ -1,3 +1,9 @@
+
+.copyright {
+  display: flex;
+  justify-content: center;
+}
+
 .socials {
   display: flex;
   justify-items: center;
@@ -8,7 +14,28 @@
   margin: 2px;
 }
 
+@media screen and (max-width: 700px) {
+  .mobile-name {
+    display: block;
+  }
+  .logo-link {
+    display: none;
+  }
+}
+@media screen and (min-width: 701px) {
+  .mobile-name {
+    display: none;
+  }
+  .logo-link {
+    display: block;
+  }
+}
+
 #main-header.header-grid-area {
+  display: grid;
+}
+
+#main-header.header-grid-area .primary-header{
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -37,14 +64,14 @@
 .banner {
   margin: 10px 10%;
   border: solid black;
-  background: black url(https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/alyssa-strohmann-2OlRSRLJPPU-unsplash_.jpg);
+  background: black url(/_merged_assets/_static/images/alyssa-strohmann-2OlRSRLJPPU-unsplash_.jpg);
   background-size: cover;
   color: white;
   font-size: 60px;
 }
 
 .site-banner {
-  background: black url(https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/alyssa-strohmann-2OlRSRLJPPU-unsplash_.jpg);
+  background: black url(/_merged_assets/_static/images/alyssa-strohmann-2OlRSRLJPPU-unsplash_.jpg);
   background-size: cover;
   color: white;
   font-size: 30px;
