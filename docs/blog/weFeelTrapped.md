@@ -7,7 +7,7 @@ tags: [WordPress, html, javascript, website, CMS, markdown, rich text]
 cover_image: https://storage.googleapis.com/betterology-com.appspot.com/images/landscape/500/bulksplash-mihaisurdu-rwvfH28KZO4.jpg
 ---
 
-# "We feel a bit trapped, with WordPress" <br> _5 options_
+# "We feel a bit trapped, with WordPress" <br/> _5 options_
 
 Corporate teams don't have the same needs as an individual. WordPress worked perfectly before, and still does, for many use cases. Not all use cases.
 
@@ -46,9 +46,9 @@ The CMS is two-decade old idea. It's free and seems really smart, but it's ancie
 
 ## 3. Investigate and migrate to one of the 327+ Static Site Generators
 
-That's where I started, when we got so many calls about migrating off of WordPress. [Here's the road map.](https://jamstack.org/generators/)
+That's where I started, when we got so many calls about migrating off of WordPress. [Here's a road map.](https://jamstack.org/generators/)
 
-SSG's are so much **dumber** (think _**less clever**_) and simpler than a CMS. You're gonna love the result, if you have the required skillset.
+SSG's are **dumber** (think _**less clever**_) and simpler than a CMS. You're gonna love the result, if you have the required skillset.
 
 _**But here's the challenge.**_ SSG's assume that at least one person on the team has the required skillset. _"Which skillset?"_ you ask. Hah! Depends on which SSG! Hey, with 327 and counting, that includes 44 listed 'languages'.
 
@@ -69,7 +69,7 @@ But I would not choose that for my own sites. Because:
 
 Please drop me a line if you try out Strattic. I'd love to learn about real life experiences with it.
 
-## 5. Rocket! Do a Proof of Concept!
+## 5. Rocket! _Do a Proof of Concept!_
 
 [Rocket](https://rocket.modern-web.dev/) is mostly 11ty - see number 3 above. Then some extra ease-of-use features were layered on top of 11ty.
 
@@ -93,6 +93,6 @@ Then give Rocket - _**or any other SSG**_ - a spin. We're talking minutes, not h
 
 If you're into detail, [I've written ad-naseum](/blog/) on the hows and whys of WordPress and SSGs.
 
-It might be just tech babble, to business types. But it's there if you need more backup. Please remember, _**you may not be the only corporate department in the world wrestling with WordPress,**_ and having an unpleasant experience.
+It might be just tech babble, to business types. But there it is, if you need more backup. Please remember, _**you may not be the only corporate department in the world wrestling with WordPress,**_ and having an unpleasant experience.
 
 Even if no-one feels comfortable talking about it, for fear of looking like a complainer, or even looking incompetent. It's not you, I promise.
