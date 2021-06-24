@@ -11,7 +11,7 @@ cover_image: https://storage.googleapis.com/betterology-com.appspot.com/images/l
 
 Corporate teams don't have the same needs as an individual. WordPress worked perfectly before, and still does, for many use cases. Not all use cases.
 
-_"We feel trapped"_  sure, but complaining in a corporate setting can be uncool, especially about a popular and free product. _"Nobody on our team wants to wrestle with it. It's become a bit of a no-man's land."_
+_"We feel trapped"_ might be your feeling, but complaining in a corporate setting can be uncool, especially about a popular free platform. Still, you feel _"Nobody on our team wants to wrestle with it. It's become a bit of a no-man's land."_
 
 _"We used to have Fred, he loves WordPress and kept it all running. Now we're stuck with this thing, and nobody feels safe touching it. Most of the plugins are out of date, and frankly, it isn't performing like some of our competitor's sites."_
 
@@ -48,11 +48,11 @@ The CMS is two-decade old idea. It's free and seems really smart, but it's ancie
 
 That's where I started, when we got so many calls about migrating off of WordPress. [Here's a road map.](https://jamstack.org/generators/)
 
-SSG's are **dumber** (think _**less clever**_) and simpler than a CMS. You're gonna love the result, if you have the required skillset.
+SSG's are **dumber** (think _**less clever**_) and simpler than a CMS. You might love the result, if you have the required skillset.
 
 _**But here's the challenge.**_ SSG's assume that at least one person on the team has the required skillset. _"Which skillset?"_ you ask. Hah! Depends on which SSG! Hey, with 327 and counting, that includes 44 listed 'languages'.
 
-My favorite SSG has been [11ty](https://www.11ty.dev/), but that's because it has a great reputation and requires the only the minimal universal developer skillset. Did some cool prototypes last year, but never could sell it to my boss, at that time. He prefers a CMS approach.
+My favorite SSG has been [11ty](https://www.11ty.dev/), but that's because it has a great reputation and requires the only the minimal universal developer skillset. Did some cool prototypes year before last, but never could sell it to my then-boss. He prefered a CMS approach.
 
 Meantime, more alternatives emerged.
 
