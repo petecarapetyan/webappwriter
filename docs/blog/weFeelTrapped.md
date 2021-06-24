@@ -15,7 +15,7 @@ _"We feel trapped"_ might be your feeling, but complaining in a corporate settin
 
 _"We used to have Fred, he loves WordPress and kept it all running. Now we're stuck with this thing, and nobody feels safe touching it. Most of the plugins are out of date, and frankly, it isn't performing like some of our competitor's sites."_
 
-_"We DO have access to entry level developers that could help us, but this is WordPress, and fixing stuff touches the LAMP stack, which isn't in anyone's wheelhouse."_
+_"We DO have access to entry level developers that could help us, but this is WordPress, and fixing stuff touches the [LAMP stack](https://en.wikipedia.org/wiki/LAMP_(software_bundle)), which isn't in anyone's wheelhouse."_
 
 ## Faster, Simpler, Cheaper, Dumber
 
@@ -95,4 +95,6 @@ If you're into detail, [I've written ad-naseum](/blog/) on the hows and whys of 
 
 It might be just tech babble, to business types. But there it is, if you need more backup. Please remember, _**you may not be the only corporate department in the world wrestling with WordPress,**_ and having an unpleasant experience.
 
-Even if no-one feels comfortable talking about it, for fear of looking like a complainer, or even looking incompetent. It's not you, I promise.
+Even if no-one feels comfortable talking about it, for fear of looking like a complainer, or appearing incompetent. 
+
+It's not you, I promise.
