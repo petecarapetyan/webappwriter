@@ -9,7 +9,7 @@ cover_image: https://storage.googleapis.com/betterology-com.appspot.com/images/l
 
 # 11ty Rocket Intro
 
-If you want to put something on the web and you're considering a static site generator (SSG), 11ty comes out near the top of [this list of 330+ SSGs](https://jamstack.org/generators/).
+If you want to put something on the web and you're considering a static site generator (SSG), [11ty](https://www.11ty.dev/) comes out near the top of [this list of 330+ SSGs](https://jamstack.org/generators/).
 
 [Rocket](https://rocket.modern-web.dev/) is 11ty, plus some artfully spare magic added by the [open-wc group](https://open-wc.org/).
 
