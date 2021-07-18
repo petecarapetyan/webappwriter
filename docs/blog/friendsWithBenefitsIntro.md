@@ -36,7 +36,7 @@ In that context, it is appropriate to simply assume that SPA is how we're going 
 Simple math has changed dramatically, even in the last couple of years.
 
 - Exectations about the _**speed**_ of an app or site.
-- Ability to knock out simple app functionality in _**minutes, not months**_
+- Ability to knock out specific app functionality in _**minutes, not months**_
 - [SSGs] make the content side of an app/site almost a trivial effort.
 
 Reverting to the car analogy, all of a sudden I can watch videos of electric cars obliterating gasoline powered "muscle cars" on racetracks. Dude, wasn't but a few years ago that my son and I were swapping out gas engines on his truck, in our garage. WTF. Electric?
@@ -86,3 +86,6 @@ Tesla didn't beat all those muscle cars on it's first day.
 Neither am I certain where this is going to go, but I can tell you what my objective is. I want my MPA to be as fast as it can possibly be. Period.
 
 So if I can tinker with my mini-app-shells for a while, I should be able to measure the tradeoffs. Then I'll know if this _**Friends With Benefits**_ thing is worth the continued experimentation.
+
+Photo by <a href="https://unsplash.com/@jonathanborba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonathan Borba</a> on <a href="https://unsplash.com/s/photos/romance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
