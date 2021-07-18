@@ -54,15 +54,13 @@ You might care more about template engines than me. The point is, you get to cho
 
 ## Bonus Points for MPA Features
 
-I'm not against marriage, but neither do I believe that it should be taken lightly. So this whole thing about getting married into an SPA just to - er uh - have relations with auth and a back end, yeah I've got issues with that.
+The SPA is such a dominant structural feature in web based app design, most developers have never had an opportunity to even imagine the approach as optional. How else would you even accomplish something as fundamental as a shared auth and/or back end connection?
 
 If you want you're mind blown for a few minutes, [watch Rocket's creator, Thomas Allmer, use Rocket to replace both a React SPA and a Lit SPA](https://www.youtube.com/watch?v=JEirUtE4k84&t=1576s) with Rocket's MPA design - while coding.
 
-Rocket makes this possible with a really clean and super-dumb (as in simple) bolt up mechanism for wiring in Javascript without a fuss.
+Rocket makes this possible with a really clean and super simple bolt up mechanism for wiring in Javascript without a fuss.
 
-I got so excited, I started working on my own _**Friends With Benefits**_ Web Components that let me take little micro-SPA-like-functionality components into Rocket pages with only the _**precise minimum**_ of Firebase Auth, or Firestore Database, or other specialized functionality _**only to the page that needs it.**_ This is just too much fun.
-
-Shopping cart? Single widget on a single page. The 150 product pages don't even know that the cart exists, nor do they require auth/login. Sorry, SPA enthusiasts.
+This blog is not the place to detail such a fundamental shift as SPA to MPA. Once there, however, your brain might imagine new opportunities to speed up your user's experience with an MPA. Shopping cart? Single widget on a single page. The other 150 product pages don't even know that the cart exists, nor do they require auth/login. Hmmm.
 
 ## Opposite Approaches
 
