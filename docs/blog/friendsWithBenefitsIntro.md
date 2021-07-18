@@ -13,6 +13,8 @@ The single page app (SPA) solves some very obvious problems with developing a co
 
 `Alert: This article uses some jarring imagery to jog the psyche. Discretion advised.`
 
+## The Car Design Analogy
+
 Once I accept the fact that the car needs a gasoline engine, I can put my energies into designing the rest of the car, where all the really important stuff is, like style and features.
 
 ## The Marriage Analogy
@@ -23,7 +25,7 @@ I'm not against marriage, but neither do I believe that it should be taken light
 
 ## The Really Big Thing
 
-The task of developing an app has had something in common with marriage for a couple of decades. "OMG, this is a really big deal!" Marriage is a lifetime commitment. 
+The task of developing an app has had _**something in common with marriage**_ for a couple of decades. "OMG, this is a really big deal!" Marriage is a lifetime commitment. 
 
 Building a real app - something that can perform to expectations for thousands or even millions of people on a seemingly infinite array of devices can take a large team many months or years. That's a really big deal, too.
 
@@ -37,7 +39,7 @@ Simple math has changed dramatically, even in the last couple of years.
 - Ability to knock out simple app functionality in _**minutes, not months**_
 - [SSGs] make the content side of an app/site almost a trivial effort.
 
-Reverting to the car analogy, all of a sudden I can watch videos of electric cars obliterating gasoline powered "muscle cars" on racetracks. Dude, wasn't but a few years ago that my son and I were swapping out gas engines on his truck, in our garage. WTF? Electric?
+Reverting to the car analogy, all of a sudden I can watch videos of electric cars obliterating gasoline powered "muscle cars" on racetracks. Dude, wasn't but a few years ago that my son and I were swapping out gas engines on his truck, in our garage. WTF. Electric?
 
 So what happens when the Multi Page App (MPA) becomes instantaneous, and dropping in components too?
 
@@ -69,6 +71,7 @@ Here are my known mini-app-shells, so far:
 - [Shopping cart](https://github.com/petecarapetyan/page-fb-rdx-cart)
 - [Media uploads](https://github.com/petecarapetyan/page-fb-rdx-upload) for content authors
 - [Security roles admin](https://github.com/petecarapetyan/page-fb-rdx-role-admin)
+- [Product to localstorage button](https://github.com/petecarapetyan/page-click-button-localstorage)
 
 Additionally:
 

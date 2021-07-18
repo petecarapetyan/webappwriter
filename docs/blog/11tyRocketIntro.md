@@ -60,7 +60,7 @@ If you want you're mind blown for a few minutes, [watch Rocket's creator, Thomas
 
 Rocket makes this possible with a really clean and super simple bolt up mechanism for wiring in Javascript without a fuss.
 
-This blog is not the place to detail such a fundamental shift as SPA to MPA. Once there, however, your brain might imagine new opportunities to speed up your user's experience with an MPA. Shopping cart? Single widget on a single page. The other 150 product pages don't even know that the cart exists, nor do they require auth/login. Hmmm.
+This blog is not the place to detail such a [fundamental shift as SPA to MPA](/blog/friendsWithBenefitsIntro/). Once there, however, your brain might imagine new opportunities to speed up your user's experience with an MPA. Shopping cart? Single widget on a single page. The other 150 product pages don't even know that the cart exists, nor do they require auth/login. Hmmm.
 
 ## Opposite Approaches
 
