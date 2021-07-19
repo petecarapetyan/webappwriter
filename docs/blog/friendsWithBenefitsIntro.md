@@ -9,9 +9,11 @@ cover_image: https://storage.googleapis.com/betterology-com.appspot.com/images/l
 
 # SPA/MPA and Friends With Benefits
 
+This article explores the MPA as an alternative to SPAs, using marriage and cars as analogys.
+
 The single page app (SPA) solves some very obvious problems with developing a cohesive app. So much so that it's pretty much the only way we can even imagine developing a site that performs like an app.
 
-`Alert: This article uses some jarring imagery to jog the psyche. Discretion advised.`
+Two analogies to SPA v MPA:
 
 ## The Car Design Analogy
 
@@ -21,7 +23,7 @@ Once I accept the fact that the car needs a gasoline engine, I can put my energi
 
 Where the car analogy makes sense, the marriage analogy takes it to an emotional level.
 
-I'm not against marriage, but neither do I believe that it should be taken lightly. So this whole thing about getting married into an SPA just to - er uh - have relations with auth and a back end, yeah I've got issues with that.
+"I'm not against marriage, but neither do I believe that it should be taken lightly. So this whole thing about getting married into an SPA just to - er uh - have relations with auth and a back end, yeah I've got issues with that."
 
 ## The Really Big Thing
 

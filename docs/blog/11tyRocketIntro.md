@@ -56,7 +56,7 @@ You might care more about template engines than me. The point is, you get to cho
 
 The SPA is such a dominant structural feature in web based app design, most developers have never had an opportunity to even imagine the approach as optional. How else would you even accomplish something as fundamental as a shared auth and/or back end connection?
 
-If you want you're mind blown for a few minutes, [watch Rocket's creator, Thomas Allmer, use Rocket to replace both a React SPA and a Lit SPA](https://www.youtube.com/watch?v=JEirUtE4k84&t=1576s) with Rocket's MPA design - while coding.
+If you want your mind blown for a few minutes, [watch Rocket's creator, Thomas Allmer, use Rocket to replace both a React SPA and a Lit SPA](https://www.youtube.com/watch?v=JEirUtE4k84&t=1576s) with Rocket's MPA design - while coding.
 
 Rocket makes this possible with a really clean and super simple bolt up mechanism for wiring in Javascript without a fuss.
 
