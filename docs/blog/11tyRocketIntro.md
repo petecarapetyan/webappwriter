@@ -76,6 +76,6 @@ If _your_ preferences still aren't fulfilled, you can look at any of [the other 
 
 Rocket is just enough magic on top of 11ty to make the jump worthwile and still keep it simple.
 
-Straight HTML/CSS/JS to a universal evergreen browswer standard - that's a win.
+Straight HTML/CSS/JS to a universal evergreen browser standard - that's a win.
 
 How much time should you budget to try out Rocket? Pretty much any developer that uses npm every day will probably be done in 15 minutes.

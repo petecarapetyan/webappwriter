@@ -4,7 +4,7 @@ published: true
 date: 2021-05-07
 description: What could you accomplish, without legacy stacks?
 tags: [WordPress, html, javascript, website, CMS, markdown, rich text]
-cover_image: https://storage.googleapis.com/betterology-com.appspot.com/webappwriter/img/stefano-pollio-unsplash.jpg" alt="stefano-pollio-ZC0EbdLC8G0-unsplash
+cover_image: https://storage.googleapis.com/betterology-com.appspot.com/images/landscape/700/sven-mieke-optBC2FxCfc-unsplash.jpg
 ---
 
 # What could you accomplish, without legacy stacks?
@@ -32,3 +32,6 @@ For 38+ million sites, WordPress makes it all possible! Not to be underestimated
 Or, check out the previously written [Tech-Envy article](/blog/techEnvy/) for a little insight on why a lot of the Wordpress+ market might _eventually_ go gaga over some of what you see here!
 
 <img alt="Lit" src="https://img.shields.io/badge/-Lit-324FFF?style=flat&logo=lit&logoColor=white"/>
+
+Photo by <a href="https://unsplash.com/@sxoxm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sven Mieke</a> on <a href="https://unsplash.com/s/photos/gym?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
