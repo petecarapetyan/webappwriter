@@ -1,6 +1,6 @@
 ---
 title: Intro - Friends W Benfits Components
-published: true
+published: false
 date: 2021-07-19
 description: Intro to the SPA vs MPA approaches
 tags: [Web Components, html, javascript, website, CMS, markdown, rich text]
