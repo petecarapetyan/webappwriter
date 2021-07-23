@@ -3,9 +3,9 @@ layout: layout-blog-overview
 eleventyNavigation:
   key: Blog
   order: 30
-pagination:
+pagination: 
   data: collections.blog
-  size: 10
+  size: 50
   reverse: true
   alias: posts
 ---

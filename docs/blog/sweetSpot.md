@@ -1,7 +1,7 @@
 ---
-title: 
+title: The Sweet Spot
 published: true
-description: 
+description: Delivering results with a Web Presence
 date: 2021-01-25
 tags: [WordPress, html, javascript, website, CMS, markdown, rich text]
 cover_image: https://storage.googleapis.com/betterology-com.appspot.com/images/landscape/500/bulksplash-ivvndiaz-_ts3NfjvaXo.jpg

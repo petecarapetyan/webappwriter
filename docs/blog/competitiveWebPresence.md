@@ -3,7 +3,7 @@ title: Ultra-Competitors and a Web Presence
 published: true
 date: 2021-07-23
 description: How Do the Ultra Competitive Approach a Web Presence?
-tags: [WordPress, html, javascript, website, CMS, markdown, rich text]
+tags: [WordPress, html, javascript, PWA, CRO, appdevelopment, website, CMS, markdown, 11ty]
 cover_image: https://storage.Googleapis.com/betterology-com.appspot.com/images/landscape/700/victoire-joncheray-H30w37gpkro-unsplash.jpg
 ---
 # How Do the Ultra Competitive Approach a Web Presence?
@@ -77,11 +77,11 @@ There are additional benefits to these two approaches, they are covered below.
 
 Un-confuse yourself, competitors! **What** is not the same as **how**.
 
-It's a given that everybody wants the latest app-like features on their site. Today, and also tomorrow, for the features that haven't even emerged yet. That desire to keep up is the **what** part.
+It's a given that everybody wants the latest app-like features on their site. Today, and also tomorrow, for the features that haven't even emerged yet. That _**desire to keep up**_ is the **what** part.
 
 So _**how to get app-like features**_ without blowing your budgets on iPhone and Android apps and keeping WordPress plugins up to date?
 
-One approach is the PWA. Progressive Web App is a fancy name for a standards based web site with app capabilities and speed. A PWA can be easier to maintain than an equally featured WordPress site, and you don't have to build separate Android and iPhone apps. For lots of competitors, this can be millions of dollars, and months of time.
+One approach is the PWA. Progressive Web App is a fancy name for a [standards based web site with app capabilities and speed](/blog/11tyrocketintro/). A PWA can be easier to maintain than an equally featured WordPress site, and you don't have to build separate Android and iPhone apps. For lots of competitors, this can be millions of dollars, and months of time.
 
 Web Components are emerging as a standard for generic drop ins that work on any site. Stay tooled and ready to _**snap these in,**_ when one becomes appropriate for your competitive strategy.
 
@@ -89,7 +89,7 @@ Web Components are emerging as a standard for generic drop ins that work on any 
 
 Keep your engineers in their own lane, and engage competent graphic design team for that work.
 
-Great graphic design isn't _enough_ to make a great site. People used to think that it was! But neither can you have a great site without it.
+Great graphic design isn't _enough_ to make a great site. People used to think that it was! But neither can you have a great site, without it.
 
 Note that a _**WordPress migration might cause this problem**_ as a side effect. If you migrate from WordPress to address other issues, you're also leaving behind some default theme templates with superior graphic design. 
 
@@ -101,7 +101,7 @@ If you really want to compete, nothing beats humility. Assume that you are _**no
 
 Constantly tweak your approach, _**measuring the results of every experiment**_. This is too much detail for this article, but that's OK because there are [quadzillion articles already written on this topic](https://www.google.com/search?q=Conversion+rate+optimization+ab+testing&oq=Conversion+rate+optimization+ab+testing).
 
-I use Google support for all of this, myself. It takes effort, but you can get some great help without committing cash resources.
+I use [Google support for all of this, myself.]() It takes effort, but you can get some great help without committing cash resources.
 
 ## Pay by the Meter
 
