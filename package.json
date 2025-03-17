@@ -1,22 +1,21 @@
 {
-  "name": "webAppWriter",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "type": "module",
+  "name": "FIXME",
+  "version": "0.2.0",
+  "description": "Initial migration from rocket",
+  "main": "index.html",
   "scripts": {
-    "start": "rocket start",
-    "build": "rocket build"
+    "build": "eleventy",
+    "serve": "eleventy --serve  --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Pete Carapetyan",
+  "license": "MIT",
   "devDependencies": {
-    "@rocket/blog": "^0.3.0",
-    "@rocket/cli": "^0.9.3",
-    "@rocket/launch": "^0.5.0",
-    "@rocket/search": "^0.4.0"
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-navigation": "^0.3.5"
   },
   "dependencies": {
-    "vanilla-colorful": "^0.5.3"
+    "@types/node": "^22.9.0"
   }
 }

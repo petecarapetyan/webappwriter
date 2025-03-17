@@ -1,3 +1,14 @@
+---
+layout: layout-sidebar
+title: README
+eleventyNavigation:
+  key: README
+  title: README
+  parent: not-alphabet
+  # order: 42
+# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
+---
+
 # notAlphabet Rocket Theme
 
 This is a theme/preset for [Rocket](https://rocket.modern-web.dev/).

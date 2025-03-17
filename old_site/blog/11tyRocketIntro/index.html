@@ -1,0 +1,422 @@
+<!DOCTYPE html><html lang="en" dir="ltr"><head>
+  
+    <link rel="stylesheet" href="../../d3699997.css">
+
+  
+    
+
+  
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>11ty Rocket Intro: webAppWriter</title>
+<meta property="og:title" content="11ty Rocket Intro: webAppWriter">
+
+<meta name="generator" content="rocket 0.1">
+<link rel="canonical" href="/blog/11tyRocketIntro/">
+
+
+
+  
+
+<meta name="description" content="Opinionated perspective on when to use Rocket, which is also 11ty">
+<meta property="og:description" content="Opinionated perspective on when to use Rocket, which is also 11ty">
+
+  
+    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../../assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../assets/favicon-16x16.png">
+<link rel="manifest" href="../../assets/webmanifest.json">
+<link rel="mask-icon" href="../../assets/safari-pinned-tab.svg" color="#3f93ce">
+<meta name="msapplication-TileColor" content="#1d3557">
+<meta name="theme-color" content="#1d3557">
+
+  
+    <meta property="og:site_name" content="webAppWriter">
+<meta property="og:type" content="website">
+
+<meta property="og:image" content="../../24b62a39.png">
+<meta property="og:url" content="/blog/11tyRocketIntro/">
+
+<meta name="twitter:card" content="summary_large_image">
+
+  
+    <link rel="stylesheet" href="../../685bb460.css">
+<link rel="stylesheet" href="../../d0ac25fb.css">
+<link rel="stylesheet" href="../../1eb700f2.css">
+<link rel="stylesheet" href="../../96fd23ce.css">
+<link rel="stylesheet" href="../../5ec1a09d.css">
+<link rel="stylesheet" href="../../f5f24485.css">
+<link rel="stylesheet" href="../../b8c01bc2.css">
+
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Odibee+Sans&amp;family=Fira+Sans&amp;family=Merriweather:wght@300&amp;display=swap" rel="stylesheet">
+  
+    <noscript><link rel="stylesheet" href="/static/noscript.css"/></noscript>
+
+  
+
+<link rel="preload" href="../../183bf60b.js" as="script" crossorigin="anonymous">
+<link rel="preload" href="../../962426a7.js" as="script" crossorigin="anonymous">
+<link rel="preload" href="../../f64fc4ec.js" as="script" crossorigin="anonymous">
+<link rel="preload" href="../../d67d4614.js" as="script" crossorigin="anonymous">
+</head>
+
+  
+
+  
+    <body layout="layout-blog-details">
+  
+    
+    <div class="banner rocket-content ga-head2-main">
+      <p>[ad banner goes here]</p>
+    </div>
+
+    <div class="ga-head3-main">
+      <div class="logo-text">webAppWriter</div>
+    </div>
+
+    <header id="main-header" class="header-grid-area">
+        
+          <div class="mobile-name">
+  <a class="mobile-logo" href="/">
+    <img src="../../1a89a007.svg" alt="Rocket Logo">
+    <span>webAppWriter</span>
+  </a>
+</div>
+<div class="primary-header">
+  
+    <button id="mobile-menu-trigger" data-action="trigger-mobile-menu">
+	<span class="sr-only">Show Menu</span>
+	      <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon">
+        <path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path>
+      </svg>
+
+</button>
+
+  
+    <a class="logo-link" href="/">
+		<img src="../../1a89a007.svg" alt="Rocket Logo">
+		<span class="mobile-logo">webAppWriter</span>
+	</a>
+
+  
+    <rocket-search class="search" json-url="/static/rocket-search-index.json">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129 129" style="width: 25px;">
+    <path d="M51.6 96.7c11 0 21-3.9 28.8-10.5l35 35c.8.8 1.8 1.2 2.9 1.2s2.1-.4 2.9-1.2c1.6-1.6 1.6-4.2 0-5.8l-35-35c6.5-7.8 10.5-17.9 10.5-28.8 0-24.9-20.2-45.1-45.1-45.1-24.8 0-45.1 20.3-45.1 45.1 0 24.9 20.3 45.1 45.1 45.1zm0-82c20.4 0 36.9 16.6 36.9 36.9C88.5 72 72 88.5 51.6 88.5S14.7 71.9 14.7 51.6c0-20.3 16.6-36.9 36.9-36.9z"></path>
+  </svg>
+</rocket-search>
+
+
+
+  
+    
+  <a href="/fins/" class="
+          
+          
+        ">Fins</a>
+  <a href="/blog/" class="
+          
+           active 
+        ">Blog</a>
+
+  
+    
+  
+    
+  
+</div>
+        
+    </header>
+
+    <div class="ga-content-l"></div>
+    <div class="content-grid-area">
+      
+  <main class="markdown-body">
+    <main class="markdown-body">
+  
+    
+  <img src="https://storage.googleapis.com/betterology-com.appspot.com/images/landscape/700/rocket.jpg" alt="">
+
+
+  
+    <h1 id="11ty-rocket-intro"><a class="anchor" href="#11ty-rocket-intro"><svg class="octicon octicon-link" viewBox="0 0 16 16" aria-hidden="true" width="16" height="16"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>11ty Rocket Intro</h1>
+<p>If you want to put something on the web and you're considering a static site generator (SSG), <a href="https://www.11ty.dev/">11ty</a> comes out near the top of <a href="https://jamstack.org/generators/">this list of 330+ SSGs</a>.</p>
+<p><a href="https://rocket.modern-web.dev/">Rocket</a> is 11ty, plus some artfully spare magic added by the <a href="https://open-wc.org/">open-wc group</a>.</p>
+<h2 id="oh-sweet-productivity-w-markdown"><a class="anchor" href="#oh-sweet-productivity-w-markdown"><svg class="octicon octicon-link" viewBox="0 0 16 16" aria-hidden="true" width="16" height="16"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Oh, Sweet Productivity w Markdown</h2>
+<p>Falling in love with Markdown was accidental, and happened years ago when I started using <code>README.md</code> files on github.</p>
+<p>Holy smoke! I can write good-enough articles in minutes! And except for my writing talents, not bad results. Like this one. Just start typing in a darn text editor, 5 minutes later you're done.</p>
+<p>I also deploy straight <code>*.html</code> files, when appropriate. Rocket doesn't flinch. It's 11ty!</p>
+<p>Pull down Rocket from npm, drop in a few markdown files, <code>npm start</code> and my site is done. <em><strong>Didn't even build any menus,</strong></em> somehow they all just magically happened.</p>
+<p>But that was last year. I wanted more. I wanted a site that didn't look like, well, <em>a Rocket site</em>.</p>
+<h2 id="enter-themes"><a class="anchor" href="#enter-themes"><svg class="octicon octicon-link" viewBox="0 0 16 16" aria-hidden="true" width="16" height="16"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Enter, Themes</h2>
+<p>Hmmm. <em><strong>Customers are begging us to help migrate off of WordPress.</strong></em> But I actually like the WordPress themes, mainly because otherwise my sites look like an engineer created them. Personal problem, sure. But also typical.</p>
+<p>So, Jan 1, 2021 I set out to Proof-of-Concept <a href="https://webappwriter.com/fins/thumbnails/">some themes for Rocket</a>.</p>
+<p>Here are my two takeaways from building 17 Rocket themes:</p>
+<ul>
+<li>Rocket is pretty easy to learn, and decent to write themes in</li>
+<li>Whoa! My CSS skills sucked worse than I thought.</li>
+</ul>
+<p>How did I deploy <a href="https://github.com/petecarapetyan/fins-rocket-themes#running-examples-of-these-themes">17 sites to demo Rocket?</a> Lorem Ipsum, mostly. No one will confuse me with a graphics designer. But the point is, we're talking about a very minimal investment in time - that's what Rocket offers. Get the work done easily, make the site fast.</p>
+<p>The rest is up to you, it's just HTML - even if optionally written in Markdwon.</p>
+<h2 id="why-is-rocket-easy"><a class="anchor" href="#why-is-rocket-easy"><svg class="octicon octicon-link" viewBox="0 0 16 16" aria-hidden="true" width="16" height="16"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Why is Rocket Easy?</h2>
+<p>You would think that a static site generator just takes clumps of HMTL/CSS/JS and loops through templates, creating pages as it goes.</p>
+<p>You'd be right! And that is pretty nearly what you see happen before you, when you're working in Rocket. The simplicity is helpful.</p>
+<p>There is some cool magic - my own favorites are <em>menuing, search, and link checking.</em> But the magic is pretty limited, and best most importantly, it is mostly segregated into modules.</p>
+<p>Rocket uses nunjucks for it's templating, but guess what? Rocket is 11ty at it's core, so like any 11ty, you can use any of a dozen or so template engines, not just nunjucks.</p>
+<p>You might care more about template engines than me. The point is, you get to choose.</p>
+<h2 id="bonus-points-for-mpa-features"><a class="anchor" href="#bonus-points-for-mpa-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" aria-hidden="true" width="16" height="16"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Bonus Points for MPA Features</h2>
+<p>The SPA is such a dominant structural feature in web based app design, most developers have never had an opportunity to even imagine the approach as optional. How else would you even accomplish something as fundamental as a shared auth and/or back end connection?</p>
+<p>If you want your mind blown for a few minutes, <a href="https://www.youtube.com/watch?v=JEirUtE4k84&amp;t=1576s">watch Rocket's creator, Thomas Allmer, use Rocket to replace both a React SPA and a Lit SPA</a> with Rocket's MPA design - while coding.</p>
+<p>Rocket makes this possible with a really clean and super simple bolt up mechanism for wiring in Javascript without a fuss.</p>
+<p>This blog is not the place to detail such a <a href="/blog/friendsWithBenefitsIntro/">fundamental shift as SPA to MPA</a>. Once there, however, your brain might imagine new opportunities to speed up your user's experience with an MPA. Shopping cart? Single widget on a single page. The other 150 product pages don't even know that the cart exists, nor do they require auth/login. Hmmm.</p>
+<h2 id="opposite-approaches"><a class="anchor" href="#opposite-approaches"><svg class="octicon octicon-link" viewBox="0 0 16 16" aria-hidden="true" width="16" height="16"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Opposite Approaches</h2>
+<p>Rocket's approach - spare on the magic, just straightforward standards based HTML/CSS/JS - is not for everyone.</p>
+<p>Compare it to the stated goals of more ambitious projects such as Astro or even Svelte. If you like magic on steroids, you may want to go in that direction instead. Astro promises "use any framework you want" and then it compiles it to HTML via SSR. Svelte offers it's own improved semantics using a live server to compile HTML via SSR - at least, I think that is what it does.</p>
+<p>Either approach is way too much magic for my tastes. Keep it simple. I want to dump legacy frameworks, not provide more magical processes to unwind already too much magic. Personal preference, no judgement intended.</p>
+<p>If <em>your</em> preferences still aren't fulfilled, you can look at any of <a href="https://jamstack.org/generators/">the other 330+ SSGs</a> - lotta great options.</p>
+<h2 id="summary"><a class="anchor" href="#summary"><svg class="octicon octicon-link" viewBox="0 0 16 16" aria-hidden="true" width="16" height="16"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Summary</h2>
+<p>Rocket is just enough magic on top of 11ty to make the jump worthwile and still keep it simple.</p>
+<p>Straight HTML/CSS/JS to a universal evergreen browser standard - that's a win.</p>
+<p>How much time should you budget to try out Rocket? Pretty much any developer that uses npm every day will probably be done in 15 minutes.</p>
+
+  
+    
+
+  
+</main>
+
+  </main>
+
+    </div>
+    <div class="sidebar-grid-area">
+      
+	<rocket-drawer id="sidebar">
+  <nav slot="content" id="sidebar-nav">
+    
+      <a class="logo-link" href="/">
+  <img src="../../1a89a007.svg" alt="Rocket Logo">
+  <span>webAppWriter</span>
+</a>
+
+
+    
+      <rocket-navigation>
+  <ul>
+    <li class="current">
+      <h3>Headings</h3>
+      <ul><li class="menu-item">
+<a href="/blog/11tyRocketIntro/#oh-sweet-productivity-w-markdown">Oh, Sweet Productivity w Markdown</a>
+</li>
+<li class="menu-item">
+<a href="/blog/11tyRocketIntro/#enter-themes">Enter, Themes</a>
+</li>
+<li class="menu-item">
+<a href="/blog/11tyRocketIntro/#why-is-rocket-easy">Why is Rocket Easy?</a>
+</li>
+<li class="menu-item">
+<a href="/blog/11tyRocketIntro/#bonus-points-for-mpa-features">Bonus Points for MPA Features</a>
+</li>
+<li class="menu-item">
+<a href="/blog/11tyRocketIntro/#opposite-approaches">Opposite Approaches</a>
+</li>
+<li class="menu-item">
+<a href="/blog/11tyRocketIntro/#summary">Summary</a>
+</li></ul>
+    </li>
+  </ul>
+  <div class="sidebar-tags">
+    <h3>Date</h3>
+    <div>Fri Jul 16 2021</div>
+  </div>
+  <div class="sidebar-tags">
+    <h3>Tags</h3>
+    <div class="tags">
+      
+        <span class="tag">WordPress</span>
+      
+        <span class="tag">html</span>
+      
+        <span class="tag">javascript</span>
+      
+        <span class="tag">website</span>
+      
+        <span class="tag">CMS</span>
+      
+        <span class="tag">markdown</span>
+      
+        <span class="tag">rich text</span>
+      
+    </div>
+  </div>
+  <div class="sidebar-bottom">
+  <hr>
+  <launch-dark-switch class="light-dark-switch" label="Toggle darkmode">Toggle darkmode</launch-dark-switch>
+
+
+  <a href="https://github.com/petecarapetyan/webappwriter/issues">Help and Feedback</a>
+</div>
+
+</rocket-navigation>
+
+    
+  </nav>
+</rocket-drawer>
+
+
+    </div>
+    <div class="ga-content-r"></div>
+
+    <div class="ga-foot-main">
+      
+        <footer id="main-footer">
+  
+    
+
+  
+    <div id="footer-menu">
+  <div class="content-area">
+    
+      <nav>
+        <h3>More</h3>
+        <ul>
+          
+            <li>
+              <a href="https://webappwriter.com/">WebAppWriter.com</a>
+            </li>
+          
+            <li>
+              <a href="https://datafundamentals.com/">dataFundamentals.com</a>
+            </li>
+          
+            <li>
+              <a href="https://betterology.com/">Betterology Corp</a>
+            </li>
+          
+            <li>
+              <a href="https://github.com/petecarapetyan/fins-rocket-themes#readme">17 Themes - Fully Deployed!</a>
+            </li>
+          
+            <li>
+              <a href="https://aspieautomator.com/">Aspie Automator</a>
+            </li>
+          
+        </ul>
+      </nav>
+    
+      <nav>
+        <h3>Meta</h3>
+        <ul>
+          
+            <li>
+              <a href="https://rocket.modern-web.dev/">Rocket, an SSG</a>
+            </li>
+          
+            <li>
+              <a href="https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators">What is an SSG?</a>
+            </li>
+          
+            <li>
+              <a href="https://jamstack.org/">What is JAMStack?</a>
+            </li>
+          
+            <li>
+              <a href="https://www.11ty.dev/">11ty</a>
+            </li>
+          
+        </ul>
+      </nav>
+    
+    <nav>
+      <h3>Follow</h3>
+      <ul>
+        <div class="socials">
+            <a class="social-link" href="https://github.com/petecarapetyan/fins-rocket-themes/tree/main/not-five38/src/docs" aria-label="webAppWriter on GitHub" rel="noopener noreferrer" target="_blank">
+              <span class="sr-only">GitHub</span>
+              
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 16" fill="none">
+  <title>GitHub</title>
+  <path fill="currentColor" fill-rule="evenodd" d="M8.18391.249268C3.82241.249268.253906 3.81777.253906 8.17927c0 3.46933 2.279874 6.44313 5.451874 7.53353.3965.0991.49563-.1983.49563-.3965v-1.3878c-2.18075.4956-2.67638-.9912-2.67638-.9912-.3965-.8922-.89212-1.1895-.89212-1.1895-.69388-.4957.09912-.4957.09912-.4957.793.0992 1.1895.793 1.1895.793.69388 1.2887 1.88338.8922 2.27988.6939.09912-.4956.29737-.8921.49562-1.0904-1.78425-.1982-3.5685-.8921-3.5685-3.96496 0-.89212.29738-1.586.793-2.08162-.09912-.19825-.3965-.99125.09913-2.08163 0 0 .69387-.19825 2.18075.793.59475-.19825 1.28862-.29737 1.9825-.29737.69387 0 1.38775.09912 1.98249.29737 1.4869-.99125 2.1808-.793 2.1808-.793.3965 1.09038.1982 1.88338.0991 2.08163.4956.59475.793 1.28862.793 2.08162 0 3.07286-1.8834 3.66766-3.66764 3.86586.29737.3965.59474.8921.59474 1.586v2.1808c0 .1982.0991.4956.5948.3965 3.172-1.0904 5.4518-4.0642 5.4518-7.53353-.0991-4.3615-3.6676-7.930002-8.02909-7.930002z" clip-rule="evenodd"></path>
+</svg>
+
+              
+            </a>
+            <a class="social-link" href="https://twitter.com/appwritercom" aria-label="webAppWriter on Twitter" rel="noopener noreferrer" target="_blank">
+              <span class="sr-only">Twitter</span>
+              
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 274 223"><title>Twitter</title><path d="M85.98 223c-31.675 0-61.158-9.285-85.98-25.199 4.388.518 8.853.783 13.38.783 26.278 0 50.463-8.967 69.659-24.01-24.544-.453-45.258-16.669-52.395-38.953a56.014 56.014 0 0 0 10.552 1.006c5.116 0 10.071-.685 14.778-1.967-25.66-5.152-44.993-27.822-44.993-54.998 0-.236 0-.471.004-.705a55.865 55.865 0 0 0 25.406 7.015c-15.05-10.058-24.953-27.226-24.953-46.685 0-10.279 2.766-19.914 7.594-28.198 27.664 33.934 68.993 56.264 115.609 58.603a56.31 56.31 0 0 1-1.453-12.782c0-30.975 25.114-56.088 56.091-56.088 16.132 0 30.709 6.812 40.941 17.713a112.328 112.328 0 0 0 35.617-13.611c-4.188 13.097-13.081 24.089-24.662 31.031a112.148 112.148 0 0 0 32.215-8.832 114 114 0 0 1-27.988 29.035c.108 2.405.162 4.824.162 7.256C245.564 137.533 189.148 223 85.98 223" fill="currentColor"></path></svg>
+
+              
+            </a>
+            <a class="social-link" href="https://www.youtube.com/channel/UCDXcfvbtHigu3o81rDq1YJw" aria-label="webAppWriter on Youtube" rel="noopener noreferrer" target="_blank">
+              <span class="sr-only">Youtube</span>
+              
+                <!--?xml version="1.0" ?--><svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M501.299,132.766c-5.888,-22.03 -23.234,-39.377 -45.264,-45.264c-39.932,-10.701 -200.037,-10.701 -200.037,-10.701c0,0 -160.105,0 -200.038,10.701c-22.025,5.887 -39.376,23.234 -45.264,45.264c-10.696,39.928 -10.696,123.236 -10.696,123.236c0,0 0,83.308 10.696,123.232c5.888,22.03 23.239,39.381 45.264,45.268c39.933,10.697 200.038,10.697 200.038,10.697c0,0 160.105,0 200.037,-10.697c22.03,-5.887 39.376,-23.238 45.264,-45.268c10.701,-39.924 10.701,-123.232 10.701,-123.232c0,0 0,-83.308 -10.701,-123.236Z" style="fill:#ed1f24;fill-rule:nonzero;"></path><path d="M204.796,332.803l133.018,-76.801l-133.018,-76.801l0,153.602Z" style="fill:#fff;fill-rule:nonzero;"></path></g></svg>
+              
+            </a>
+            <a class="social-link" href="https://www.linkedin.com/in/pete-carapetyan-b3a39b/" aria-label="webAppWriter on Linkedin" rel="noopener noreferrer" target="_blank">
+              <span class="sr-only">Linkedin</span>
+              
+                <!--?xml version="1.0" ?--><svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="g5891"><path d="M512,64c0,-35.323 -28.677,-64 -64,-64l-384,0c-35.323,0 -64,28.677 -64,64l0,384c0,35.323 28.677,64 64,64l384,0c35.323,0 64,-28.677 64,-64l0,-384Z" id="background" style="fill:#2867b2;"></path><g id="shapes"><rect height="257.962" id="rect11" style="fill:#fff;" width="85.76" x="61.053" y="178.667"></rect><path d="M104.512,54.28c-29.341,0 -48.512,19.29 -48.512,44.573c0,24.752 18.588,44.574 47.377,44.574l0.554,0c29.903,0 48.516,-19.822 48.516,-44.574c-0.555,-25.283 -18.611,-44.573 -47.935,-44.573Z" id="path13-0" style="fill:#fff;fill-rule:nonzero;"></path><path d="M357.278,172.601c-45.49,0 -65.866,25.017 -77.276,42.589l0,-36.523l-85.738,0c1.137,24.197 0,257.961 0,257.961l85.737,0l0,-144.064c0,-7.711 0.554,-15.42 2.827,-20.931c6.188,-15.4 20.305,-31.352 43.993,-31.352c31.012,0 43.436,23.664 43.436,58.327l0,138.02l85.741,0l0,-147.93c0,-79.237 -42.305,-116.097 -98.72,-116.097Z" id="path15" style="fill:#fff;fill-rule:nonzero;"></path></g></g></svg>
+              
+            </a>
+            <a class="social-link" href="https://www.strava.com/athletes/2901957" aria-label="webAppWriter on Strava" rel="noopener noreferrer" target="_blank">
+              <span class="sr-only">Strava</span>
+              
+                <svg xmlns="http://www.w3.org/2000/svg" aria-label="Strava" role="img" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#fc4c01"></rect><path fill="#fff" d="M120 288L232 56l112 232h-72l-40-96-40 96z"></path><path fill="#fda580" d="M280 288l32 72 32-72h48l-80 168-80-168z"></path></svg>
+              
+            </a>
+        </div>
+      </ul>
+    </nav>
+</div>
+<hr>
+
+  
+    <div class="theme-standin">webAppWriter is deployed into the not-five38 fins-rocket-theme</div>
+  
+    <hr>
+<div class="copyright">Copyright 2021 Pete Carapetyan</div>
+  
+</div></footer>
+
+      
+    </div>
+    
+  
+
+
+  
+
+<script>
+  window.__rocketServiceWorkerUrl = '/service-worker.js';
+</script>
+
+
+
+
+  
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-36EWBZYBZ7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-52870008-2');
+    gtag('config', 'G-36EWBZYBZ7');
+  </script>
+
+
+
+
+  
+
+
+<script type="module" src="../../183bf60b.js"></script>
+<script type="module" src="../../f64fc4ec.js"></script>
+<script type="module" src="../../d67d4614.js" inject-service-worker=""></script>
+
+</body></html>
