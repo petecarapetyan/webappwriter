@@ -1,9 +1,9 @@
 ---
 layout: layout-sidebar
-title: whyShell
+title: Why Shell
 eleventyNavigation:
   key: whyShell
-  title: whyShell
+  title: Why Shell
   parent: installation
   # order: 42
 # FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).

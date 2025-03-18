@@ -1,10 +1,10 @@
 ---
 layout: layout-sidebar
-title: index
+title: Grid
 eleventyNavigation:
-  key: index
-  title: index
-  parent: grid
+  key: grid
+  title: Grid
+  parent: fins
   # order: 42
 # FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
 ---
